@@ -14,6 +14,14 @@
 
 This essay provides an approachable overview of herbarium specimens and how they are used.
 
+## Test Essay
+[Test Essay](test-essay)
+
+- Ron
+
+![](https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/specimen.jpg)
+
+
 # Featured Plant Narratives 
 `.cards`
 
