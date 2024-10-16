@@ -33,16 +33,15 @@ fit="contain">
 
 Fueled through literary, scientific, and artistic representations, European fascination with the Sensitive Plant has also been philosophical and scientific. The plant’s movement in response to stimulus posed a problem for early European botanists—how could a plant display such sensitivity? For centuries, Hellenistic philosophy reigned supreme. Aristotle and Theophrastus both argued that plants were characterized by an “insensitive Vegetative soul,” and animals by a “Sensitive Soul.”[^11] Animals could make active responses to external stimuli, but plants were supposed to be passive—their only faculties devoted to nutrient intake and reproduction. This philosophy, clearly differentiating plants from animals based on their sensitivity, held firm well into the seventeenth century. In 1661, in a dramatic and evocative study of the plant, the Royal Society burned the Sensitive Plant with acid, cut, and struck it in scientific trials. These violent manipulations were intended to elucidate the motivation and mechanism behind the plant’s responses.[^12] As European cultural associations with the Sensitive Plant developed, other scientists continued experimenting: in the late eighteenth century, the French botanist René-Louiche Desfontaines took the plant on a bumpy horse drawn carriage ride in Paris to see how it would react.[^13]
 <param ve-image 
-src="wc:Aristotle_Altemps_Inv8575.jpg"
-fit="contain"
-label="Aristotle"
-license="Public Domain"
-description="https://upload.wikimedia.org/wikipedia/commons/a/ae/Aristotle_Altemps_Inv8575.jpg">
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/d3/Teofrasto_Orto_botanico_detail.jpg"
-fit="contain"
-label="Theophrastus"
-license="CC BY-SA 2.5"
-description="https://upload.wikimedia.org/wikipedia/commons/d/d3/Teofrasto_Orto_botanico_detail.jpg">
+       src="wc:Aristotle_Altemps_Inv8575.jpg"
+       fit="contain"
+       label="Aristotle"
+       license="Public Domain">
+<param ve-image 
+       src="wc:Teofrasto_Orto_botanico_detail.jpg"
+       fit="contain"
+       label="Theophrastus"
+       license="CC BY-SA 2.5">
 <param ve-entity eid="Q868" title="Aristotle">
 <param ve-entity eid="Q160362" title="Theophrastus">
 <param ve-entity eid="Q545953" title="René-Louiche Desfontaines">
