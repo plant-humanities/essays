@@ -202,7 +202,7 @@ Aboriginal Australians value paperbark so highly that some have incorporated it 
 <param ve-visjs title="Network example" url="Networkexample.tsv">
 
 ### Climate Change and Indigenous Management 
-In a time of unprecedented wildfires and biodiversity loss, governments, institutions, and individuals are reevaluating how human behavior shapes natural environments. In Australia, climate change is creating hotter average temperatures and a more extended fire season while increasing the likelihood of bushfires, droughts, floods, sea level rise, and extreme temperatures.[^29] Like many other countries, Australia currently faces environmental challenges that stem not only from global climatic change but also from a legacy of colonial land management and the displacement of Indigenous peoples.
+In a time of unprecedented wildfires and biodiversity loss, governments, institutions, and individuals are reevaluating how human behavior shapes natural environments. In Australia, climate change is creating hotter average temperatures and a more extended fire season while increasing the likelihood of bushfires, droughts, floods, rising sea levels, and extreme temperatures.[^29] Like many other countries, Australia is facing environmental challenges that stem not only from global climatic change but also from a legacy of colonial land management and the displacement of Indigenous peoples.
 <param ve-image
 	src="wc:Satellite_image_of_bushfire_smoke_over_Eastern_Australia_(December_2019).jpg" 
 	caption="Satellite image of bushfire smoke over Easter Australia, 2019">
