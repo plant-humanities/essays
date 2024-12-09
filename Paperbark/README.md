@@ -31,7 +31,7 @@ A similar tale of [afforestation](Q2384419) drives other histories of the paperb
 <param ve-map
         center="30.065,9.57215,1.48"
         zoom="2"
-        title="Map of the global spread of _M. quinquenervia_"
+        title="Map of the global spread of M. quinquenervia"
         basemap="Esri_WorldPhysical">
  <param ve-map-layer geojson 
         url="GlobalReach.json"
