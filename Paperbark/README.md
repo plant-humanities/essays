@@ -9,7 +9,7 @@
 Cultural warning for Aboriginal and Torres Strait Islander people: This webpage contains images, voices, and names of deceased persons in photographs, film, and printed material.
 <param ve-image 
 	src="gh:plant-humanities/media/paperbark/Treebark_HongKong.jpg" 
-	caption="Australian paperbark trees line a main road. Hong Kong, Hedda Morrison, 1946-1947"
+	caption="Australian paperbark trees line a main road in Hong Kong. Hedda Morrison, 1946-1947"
 	label="_Australian paperbark trees line a main road, New Territories, Hong Kong_, Hedda Morrison, 1946-1947" 
 	description="_Melaleuca quinquinervia_ Lining a Road, Hong Kong [Date]"
 	license="Unknown">
@@ -59,7 +59,7 @@ The *Melaleuca quinquenervia* belongs to a [genus of the Myrtle family](Q165152)
 <param ve-entity eid="Q45669">
 <param ve-entity eid="Q165152">
 <param ve-entity eid="Q33788">
-<param image  
+<param ve-image  
 	src="wc:Melaleuca_quinquenervia_inflorescenes_7th_Brigade_Park_Chermside_L1020182.jpg"
         caption="Paperbark in flower">
 <param ve-image
