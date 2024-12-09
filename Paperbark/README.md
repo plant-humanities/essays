@@ -46,10 +46,12 @@ Lange Park's broad-leaf paperbark is emblematic of the species’ swift and stee
 <param ve-entity eid="Q494624">
 <param ve-image  
 	src="gh:plant-humanities/media/paperbark/PaperbarkTree_Lightning_LangePark.jpg" 
-	caption="_Melaleuca_ tree growing in Lange Park, struck by lightning in 1990">
+	caption="_Melaleuca_ tree growing in Lange Park, struck by lightning in 1990"
+	label="_Melaleuca_ tree growing in Lange Park, struck by lightning in 1990">
 <param ve-image
 	src="gh:plant-humanities/media/paperbark/LanguePark_plaque.jpg"
- 	caption="Memorial plaque at Lange Park">
+ 	caption="Memorial plaque at Lange Park"
+	label="Memorial plaque at Lange Park">
 
 ### Colonial Discovery 
 The *Melaleuca quinquenervia* belongs to a [genus of the Myrtle family](Q165152). *Quinquenervia* is from the Latin words for five (*quinque*) and veins (*nervia*), describing the five veins typically found in the plant's leaves. It is closely related to [eucalyptus](Q45669) and is endemic to mainland Australia, [New Caledonia](Q33788), and Indonesia - its southern geographical limit reaching Botany Bay. As its common name suggests, *Melaleucas* are distinctive for their bark, which easily peels from the trunk in smooth, flat sheets. *M. quinquenervia*, one of a group of nearly 100 species described as "broadleaf," can grow to heights of 20 meters. It favors riverbanks, swamps, floodplains, and estuaries. Its flowers, which appear in the fall, range from white to cream, and, characteristically, comprise spiked clusters of petals from which it derives an additional common name: "bottle-brush tree." Its leaves are dark, gray-green. As a fire-adapted species, burning can be beneficial to *Melaleucas*. Stress from the fire causes seed release and creates an ideal environment for germination and seedling growth owing to a more open canopy and carbon-rich soil.
