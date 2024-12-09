@@ -11,14 +11,14 @@ Cultural warning for Aboriginal and Torres Strait Islander people: This webpage 
 	src="gh:plant-humanities/media/paperbark/Treebark_HongKong.jpg" 
 	caption="Australian paperbark trees line a main road in Hong Kong. Hedda Morrison, 1946-1947"
 	label="_Australian paperbark trees line a main road, New Territories, Hong Kong_, Hedda Morrison, 1946-1947" 
-	description="_Melaleuca quinquinervia_ Lining a Road, Hong Kong [Date]"
+	description="_Melaleuca quinquinervia_ Lining a Road, Hong Kong"
 	license="Unknown">
   
 ### Introduction: A Fall from Grace
 Throughout the late nineteenth and early twentieth centuries, one could trace the expansion of colonial rule in [Hong Kong](Q1054923) (1841-1997) along its tree line. British accounts of the precolonial landscape abound with descriptions of its barrenness, of sun-scorched rocky topography divested of trees — and life in general. The land, increasingly inscribed with moralized ideals, was at best inhospitable and at worst "primitive."[^1] The self-identified task of the British colonial government was to plant trees for multipronged effect: to cultivate shade and health in the dangerous tropical heat and to temper the barren wildness of the landscape, moving it toward an ideal imported from the forested English countryside.[^2] The newly formed Botanical and Afforestation Department approached this assignment voraciously, planting hundreds of thousands of trees a year for much of the twentieth century.[^3] Most of the species chosen to fill the rocky ridges were sourced from Hong Kong's climatic neighbors, such as northeastern Australia, [New Caledonia](Q33788), and New Guinea.[^4] One such tree was the broad-leaf paperbark species *Melaleuca quinquenervia*, which still lines Hong Kong's streets in urban zones and is part of its wetland ecosystems.[^5]
 <param ve-image 
 	src="gh:plant-humanities/media/paperbark/Treebark_HongKong.jpg" 
-	caption="Australian paperbark trees line a main road. Hong Kong, Hedda Morrison, 1946-1947"
+	caption="Australian paperbark trees line a main road in Hong Kong. Hedda Morrison, 1946-1947"
 	label="_Australian paperbark trees line a main road, New Territories, Hong Kong_, Hedda Morrison, 1946-1947" 
 	description="_Melaleuca quinquinervia_ Lining a Road, Hong Kong [Date]"
 	license="Unknown">
