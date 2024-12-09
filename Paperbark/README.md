@@ -31,7 +31,7 @@ A similar tale of [afforestation](Q2384419) drives other histories of the paperb
 <param ve-map
         center="30.065,9.57215,1.48"
         zoom="2"
-        title="Map of the global spread of *M. quinquenervia*"
+        title="Map of the global spread of _M. quinquenervia_"
         basemap="Esri_WorldPhysical">
  <param ve-map-layer geojson 
         url="GlobalReach.json"
@@ -44,10 +44,10 @@ A similar tale of [afforestation](Q2384419) drives other histories of the paperb
 
 Lange Park's broad-leaf paperbark is emblematic of the species’ swift and steep fall from grace: from champion tree to incorrigible pest. "This is a living monument that needs to die," insisted [Broward County](Q494624) environmental executive, Patti Webster, only a decade after receiving its national honor.[^10] "It's a tribute to what not to plant. [...] We'd be better off with a picture of it instead of the tree."[^11] Webster's comments followed a series of laws passed in the 1990s to eliminate the species from southern Florida. Today, botanists enlist terms of war to describe its reproduction. As Jonathan Silvertown, professor of evolutionary ecology at the University of Edinburgh, writes in his book *Demons in Eden* (2005), the *M. quinquenervia* is part of an "army" that "arrived with a vengeance and is advancing mercilessly across Florida's natural ecosystems."[^12] It is a villainous identity difficult to square with the paperbark’s long history as a treasure of Aboriginal culture and bushcraft. How did the tree come to trace such a capricious path in its human alliances?
 <param ve-entity eid="Q494624">
-<param ve-carousel navigation fit="cover" viewer-caption="Lange Park" 
+<param ve-image  
 	src="gh:plant-humanities/media/paperbark/PaperbarkTree_Lightning_LangePark.jpg" 
-	caption="*Melaleuca* tree growing in Lange Park, struck by lightning in 1990">
-<param ve-carousel 
+	caption="_Melaleuca_ tree growing in Lange Park, struck by lightning in 1990">
+<param ve-image
 	src="gh:plant-humanities/media/paperbark/LanguePark_plaque.jpg"
  	caption="Memorial plaque at Lange Park">
 
@@ -56,13 +56,13 @@ The *Melaleuca quinquenervia* belongs to a [genus of the Myrtle family](Q165152)
 <param ve-entity eid="Q45669">
 <param ve-entity eid="Q165152">
 <param ve-entity eid="Q33788">
-<param ve-carousel navigation fit="cover" viewer-caption="*Melaleuca quinquenervia*" 
+<param image  
 	src="wc:Melaleuca_quinquenervia_inflorescenes_7th_Brigade_Park_Chermside_L1020182.jpg"
         caption="Paperbark in flower">
-<param ve-carousel 
+<param ve-image
 	src="wc:Melaleuca_quinquenervia_Wyrrabalong_NP_1.jpg"
         caption="Bark structure">
-<param ve-carousel 
+<param ve-image
 	src="wc:Starr-070302-4964-Melaleuca_quinquenervia-leaves_and_bifurcate_fruit-Pukalani-Maui_(24256633283).jpg" 
         caption="Paperbark fruit">
 
