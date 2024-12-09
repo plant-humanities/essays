@@ -309,7 +309,7 @@ These questions have faced pushback. In the case of the paperbark, the ecologica
 [^40]: Turner, et al., 167-168.  
 [^41]: Turner, et al., 168.
 [^42]: Turner, et al., 171-172.
-[^43]: Mireya Navarro, "U.S. Dispatches an Army of Tree-Hungry Beetles to Fight Everglades Menace," *The New York Times*, May 4, 1997, https://www.nytimes.com/1997/05/04/us/us-dispatches-an-army-of-tree-hungry-beetles-to-fight-everglades-menace.html. Ted D. Center, et al., "Biological control of _Melaleuca quinquenervia_: an Everglades invader," *BioControl* 57 (2011), 158, https://doi.org/10.1007/s10526-011-9390-6.
+[^43]: Mireya Navarro, "U.S. Dispatches an Army of Tree-Hungry Beetles to Fight Everglades Menace," *The New York Times*, May 4, 1997, https://www.nytimes.com/1997/05/04/us/us-dispatches-an-army-of-tree-hungry-beetles-to-fight-everglades-menace.html; Ted D. Center, et al., "Biological control of _Melaleuca quinquenervia_: an Everglades invader," *BioControl* 57 (2011), 158, https://doi.org/10.1007/s10526-011-9390-6.
 [^44]: Navarro, 157-158. 
 [^45]: Tim Low, *Feral Future: The Untold Story of Australia's Exotic Invaders* (Chicago: University of Chicago Press, 2002), 168-170. 
 [^46]: Edward Lowry, et al., "Biological invasions: a field synopsis, systematic review, and database of the literature," *Ecology and Evolution* 3, no. 1 (2013): 184, 186, https://doi.org/10.1002/ece3.431.
