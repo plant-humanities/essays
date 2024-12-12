@@ -25,10 +25,6 @@ Throughout the late nineteenth and early twentieth centuries, one could trace th
 	license="Unknown">
 
 A similar tale of [afforestation](Q2384419) drives other histories of the paperbark and is implicated in its transformation from a treasured specimen tree to pernicious weed. Early twentieth-century developers and agriculturalists in South Florida employed the rhetoric of a wasteland ripe with latent potential, one that could be unlocked with the aid of trees’ shade and fast-growing roots.[^6] For decades, agriculturalists lauded *M. quinquenervia* as the tree that would dry up the [Everglades](Q597281), converting the putrid swamp into productive farmland. Local and federal horticultural agencies subsidized its planting and cultivation, even broadcasting its seed from low-flying planes across acres of swamp.[^7] So highly prized was the paperbark for both its utility and ornamental value that early seed importers jostled to be recognized as its first American planters.[^8] A [memorial plaque in Lange Park](https://s.yimg.com/fz/api/res/1.2/f7crBJDVxfJVFvPLAumHwA--~C/YXBwaWQ9c3JjaGRkO2g9NzUwO3E9ODA7dz0xMDAw/https://s.yimg.com/bj/52ab/52abdf0d1887ac317a71dbbf16b3eea4.jpg), less than ten miles east of the Everglades, boasts that a *Melaleuca* planted there in 1900 is the oldest in the region. Growing to over 25 meters (before being struck by lightning in 1990), it was also the tallest, for which it was awarded status as a "[champion tree](Q96374738)" by the [American Forestry Association](Q41806542) in 1981.[^9]
-<param ve-entity eid="Q41806542">
-<param ve-entity eid="Q597281">
-<param ve-entity eid="Q96374738" aliases="'champion tree'">
-<param ve-entity eid="Q2384419">
 <param ve-map
         center="30.065,9.57215,1.48"
         zoom="2"
