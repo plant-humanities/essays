@@ -222,7 +222,7 @@ The global dispersal of the paperbark tree was accompanied by patchy and incompl
 <param ve-map
        	center="26.18764,-80.62886,7.71"
        	zoom="9"
-       	Title="Dense areas of _M. quinquenervia_ in south Florida">
+       	Title="Dense areas of *M. quinquenervia* in south Florida">
 <param ve-map-layer geojson 
 	url="EvergladesNew.json">
 <param ve-map-marker
