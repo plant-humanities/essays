@@ -22,7 +22,7 @@ This essay provides an approachable overview of herbarium specimens and how they
 `.cards`
 
 ## The Broad-Leaf Bark: Friend or Foe?
-[The Broad-Leaf Bark: Friend or Foe?](paperbark)
+[The Broad-Leaf Bark: Friend or Foe?](Paperbark)
 
 - Bethany Kidd and Sierra Roark
 
