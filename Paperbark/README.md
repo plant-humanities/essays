@@ -166,25 +166,29 @@ Ethnographic accounts describe Aboriginal Australians using *Melaleuca* bark for
 <param ve-entity eid="Q13580316" aliases="Euro-Australians">
 <param ve-image 
 	src="wc:Paperbark_(bark).JPG"
-	caption="Paperbark for food wrapping">
+	caption="Paperbark for food wrapping"
+	fit="contain">
 <param ve-image 
 	src="gh:plant-humanities/media/paperbark/basket.png"
 	caption="Paperbark basket, England Banggala, 1994"
 	label="Paperbark Basket, England Banggala, 1994" 
 	description="basket"
-	license="granted by holder">
+	license="granted by holder"
+	fit="contain">
 <param ve-image 
 	src="gh:plant-humanities/media/paperbark/barkpainting.png"
 	caption="_Yikawana ga Nurruguyamirr_, Djambawa Marawili, 1998"
 	label="_Yikawana ga Nurruguyamirr_, Djambawa Marawili, 1998" 
 	description="bark painting"
-	license="granted by holder">
+	license="granted by holder"
+	fit="contain">
 
 Paperbark provided women with versatile utilitarian material. Not only was it ideal for building and cooking, but women incorporated the bark into traditional birthing practices and the early care of infants.[^27] In fact, for some Aboriginal Australians, childbirth occurred over a bark-lined pit, and the newly born baby was wrapped in paperbark or placed in a paperbark-lined [coolamon](Q1129683) (a basin-like vessel).
 <param ve-entity eid="Q1129683">
 <param ve-image 
 	src="wc:Australian_Museum_-_Joy_of_Museums_-_Coolamons_-_Aboriginal_Carrying_Vessels.jpg" 
-	caption="Aboriginal *coolamons* or carrying vessels">
+	caption="Aboriginal *coolamons* or carrying vessels"
+	fit="contain">
 
 As a result, Aboriginal Australians were born into paperbark, lived in paperbark, ate from paperbark, and used paperbark for everything from ritual crafts to repelling insects. They incorporated paperbark into every phase of life, including funerary rituals, as a writing medium, and for smoking, shelter, and transportation. It is no wonder that the paperbark tree lives on in the minds of contemporary Australians and serves as a symbol of Aboriginal resilience.
 <param ve-image 
@@ -192,7 +196,8 @@ As a result, Aboriginal Australians were born into paperbark, lived in paperbark
 	caption="Two pieces of tree paperbark bearing protest messages, 1988. Image courtesy of the National Archives of Australia"
 	label="Two Pieces of Tree Paperbark Bearing Protest Messages, 1988. Image courtesy of the National Archives of Australia, NAA: B5361, P40-0020" 
 	description="protest bark"
-	license="granted by holder">
+	license="granted by holder"
+	fit="contain">
 
 Aboriginal Australians value paperbark so highly that some have incorporated it into their names. The most famous is [Oodgeroo Noonuccal](Q457278) (1920-1993), an Aboriginal Australian activist, educator, and artist. Formerly known as Kath Walker, the name she adopted in 1988 translates as "paperbark tree of the Noonuccal," her ancestral tribe. Noonuccal devoted her life to combating social inequality for the Indigenous and advocating for the environment. Her writing explores themes of cultural identity, spirituality, place, and time, interwoven with rich descriptions of Australia’s natural environment. Her poem "Oodgeroo" tells the story of a woman, severed from her culture and people who, with the help of the Good Spirit Biami, spent many years recording lost tribal stories on paperbark. It concludes with the female protagonist finding peace in a tribe of paperbark trees, free from her old foe, Time.[^28] "Oodgeroo" is exemplary in its exploration of ecological symbiosis, capturing both the *Melaleuca*’s utility and kinship with Aboriginal communities.
 <param ve-entity eid="Q457278">
@@ -203,12 +208,14 @@ Aboriginal Australians value paperbark so highly that some have incorporated it 
 In a time of unprecedented wildfires and biodiversity loss, governments, institutions, and individuals are reevaluating how human behavior shapes natural environments. In Australia, climate change is creating hotter average temperatures and a more extended fire season while increasing the likelihood of bushfires, droughts, floods, rising sea levels, and extreme temperatures.[^29] Like many other countries, Australia is facing environmental challenges that stem not only from global climatic change but also from a legacy of colonial land management and the displacement of Indigenous peoples.
 <param ve-image
 	src="wc:Satellite_image_of_bushfire_smoke_over_Eastern_Australia_(December_2019).jpg" 
-	caption="Satellite image of bushfire smoke over Easter Australia, 2019">
+	caption="Satellite image of bushfire smoke over Easter Australia, 2019"
+	fit="contain">
        
 Before the arrival of Europeans in Oceania, Indigenous peoples shaped their landscapes by facilitating the growth of specific flora, including *Melaleuca*. Pollen, charcoal, and dendrochronological records indicate that Aboriginal Australians actively managed the environment before the eighteenth century.[^30] This included anthropogenic burning; wind- and water-induced soil erosion following the removal or alteration of vegetation; irrigation; drained wetlands; redirected waterways; fertilizer use; and the introduction and exploitation of specific flora and fauna.[^31] One of the most powerful tools for land management is anthropogenic or prescribed burning. The fires typically cover small areas of land, herding animals while burning grasses and underbrush. The heat and lack of competition encourage the growth of a heterogeneous range of annual vegetation, creating ecologically diverse patches. Small and frequently prescribed burning reduces the chances of subsequent high-severity wildfires.[^32] To promote more sustainable practices, Australians have worked to reincorporate elements of Indigenous land management. For instance, the Ngarrindjeri Nation in South Australia has negotiated with the state government to be recognized as a sovereign partner in environmental management and implemented a program that facilitates collaboration, training, and the protection of the sites’ cultural value.[^33] Federal funding has supported the replacement of nonnative flora with *M. quinquenervia* and other endemic species native to eastern Australia, including tuckeroo and lomandra.[^34]
 <param ve-image
        src="wc:Fire_biologist_lights_controlled_burn_(6022164769).jpg"
-       caption="Controlled burn">
+       caption="Controlled burn"
+       fit="contain">
 
 ### An Advancing Enemy in Florida 
 The global dispersal of the paperbark tree was accompanied by patchy and incomplete knowledge transference. Western horticulturalists, like those in Florida, recognized few of the multitude of Aboriginal uses. At the turn of the twentieth century, nurserymen and regional planters in and around the Everglades saw potential in the paperbark as a timber species as well as a land management tool. As mentioned previously, they posited that its high water usage and its fast-growing speed would make it ideal for converting the swamp into a dry and "productive" agricultural landscape while eradicating mosquitos and other pests.[^35] The tree’s thick roots were utilized as a natural erosion-prevention infrastructure to stabilize disturbed areas, especially around Lake Okeechobee.[^36] Finally, especially in its early years, the paperbark was appreciated as an ornamental and planted as such in gardens around south Florida.[^37] Today, scientists recognize another utility for the tree: as a climate recorder. Its leaves can provide proxy data for quantifying past rainfall.[^38] Although limited in its uses when compared to its endemic range, the paperbark entered Florida as an appreciated and valuable addition. This positive image lasted for much of the twentieth century.
@@ -230,18 +237,21 @@ The global dispersal of the paperbark tree was accompanied by patchy and incompl
 As the twentieth century came to a close, so did the paperbark’s era of good grace. Many of the traits that made the tree attractive became those for which it is now most despised. *M. quinquenervia* grows quickly and is a prolific reproducer, with some mature plants holding up to 20 million seeds at a time. If contained within their capsules, these can remain viable for up to 10 years and germinate in various conditions.[^39] South Florida and the tree’s endemic zone both fall within subtropical latitudes and share a climate of high precipitation in the summer and mild temperatures, combined with low precipitation in the winter. Both habitats experience frequent wildfires and have histories of Indigenous anthropogenic burning. These traits made *M. quinquenervia* preadapted to thrive in Florida, which it certainly did immediately upon its introduction.[^40] Its seeds established themselves within south Florida’s many wetland environments with efficiency and ease. By 1994, estimates of the paperbark spread had surpassed 500,000 acres, most of which comprised monocultural stands.[^41]
 <param ve-image
        src="wc:Starr_031108-0008_Melaleuca_quinquenervia.jpg"
-       caption="_M. quinquenervia_ stand lining I-75 in the Everglades">
+       caption="_M. quinquenervia_ stand lining I-75 in the Everglades"
+       fit="contain">
 
 Militaristic analogies reenter the narrative of the paperbark tree in discussions of controlling its spread.  Attempts to push back the edges of the tree's groves are described using the language of battles and outright war between humans, accompanied by their army of emissaries, and the ever-encroaching, anthropomorphized enemy, the tree. Battle tactics are aggressive and varied, including cutting, herbicides, burning, flooding, hand removal of individual saplings, and, increasingly, [biological control](Q116890).[^42] A 1997 article in *The New York Times* speaks of a valiant "Army of Tree-Hungry Beetles" ready for employment in the battle against the insidious paperbark. It celebrates *Oxyops vitiosa*, a snout beetle, also native to Eastern Australia, which was released in the late 1990s to colonize stands of paperbark in South Florida in the hopes that the weevils, who feed primarily on the fresh leaves of saplings, would keep the further expansion at bay.[^43] In the decades since their introduction, other insects like *Lophodiplosis trifida* and *Fergusonina turneri* have been studied and eventually released for their possible usefulness in this ongoing "war."[^44]
 <param ve-entity eid="Q116890" aliases="biological control">
 <param ve-image
        src="wc:Melaleuca_leaf_weevil.jpg"
-       caption="_Melaleuca_ leaf weevil">
+       caption="_Melaleuca_ leaf weevil"
+       fit="contain">
 
 It is a small jump from this metaphorical battle to one between nations. In what the botanist Tim Low termed one of the ironies of the broad-leaf paperbark’s invasive speed, the native habitats of this tree are increasingly under threat. Writing in 1990, Low reported how he "trudged across the bulldozed fields" in south-east Queensland, shaking his head in dismay as he thought back to his "American friends, and how they would love to see a scene like this acted out in Florida." These areas of Australian wetland are fast being developed for human habitation. And even in still-preserved wilderness, the tree faces ecological challenges. In the greatest irony of all, among the threats to the paperbark in its Australian habitat is the Pond Apple, which is native to the Everglades (*Annona glabra*). It is difficult not to conceive of this development as an act of botanical revenge.[^45]
 <param ve-image
        src="wc:Annona_glabra_01"
-       caption="*Annona glabra* or pond apple">
+       caption="*Annona glabra* or pond apple"
+       fit="contain">
 
 ### Conclusion
 Should this framing of conflict and warfare give us pause for thought? The label "invasive," as a scientific term applied to an organism, has its mainstream origins in zoologist [Charles Elton](Q1066200)'s 1958 work, *The Ecology of Invasions by Animals and Plants*, and caught on broadly only in the 1990s, when publications on "invasives" skyrocketed.[^46] In 1994, Hawai’i’s Senator Daniel Akaka spoke before Congress about the "slow, silent invasion of alien pests" creeping across the borders of the United States.[^47] By 1999, this concern had gained such traction that an executive order mandated the formation of an interagency government coalition, the National Invasive Species Council, to eradicate botanical threats.[^48] Around the same time, several landscape design scholars turned a critical eye to the tenor of this discourse and the countervailing enthusiasm for "native plants," a term that constitutes a "mixture of sound biology, invalid ideas, false extensions, ethical implications and political usage both intended and unanticipated".[^49] In particular, Joachim Wolschke Bulmahn and Gert Gröning have sought to trace this discourse to ideologies of landscape under Nazi Germany and American "nativism" in the early twentieth century. How easily, they ask, can the scientific become political? Can these conceptions of landscape feed xenophobia?[^50]
