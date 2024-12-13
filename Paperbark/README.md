@@ -12,7 +12,8 @@ Cultural warning for Aboriginal and Torres Strait Islander people: This webpage 
 	caption="Australian paperbark trees line a main road in Hong Kong. Hedda Morrison, 1946-1947"
 	label="_Australian paperbark trees line a main road, New Territories, Hong Kong_, Hedda Morrison, 1946-1947" 
 	description="_Melaleuca quinquinervia_ Lining a Road, Hong Kong"
-	license="Unknown">
+	license="Unknown"
+	fit="contain">
 
   
 ### Introduction: A Fall from Grace
@@ -45,11 +46,13 @@ Lange Park's broad-leaf paperbark is emblematic of the species’ swift and stee
 	src="gh:plant-humanities/media/paperbark/PaperbarkTree_Lightning_LangePark.jpg" 
 	caption="_Melaleuca_ tree growing in Lange Park, struck by lightning in 1990"
 	label="_Melaleuca_ tree growing in Lange Park, struck by lightning in 1990"
-	description="_Melaleuca_ tree growing in Lange Park, struck by lightning in 1990">
+	description="_Melaleuca_ tree growing in Lange Park, struck by lightning in 1990"
+	fit="contain">
 <param ve-image
 	src="gh:plant-humanities/media/paperbark/LangePark_plaque.jpg"
  	caption="Memorial plaque at Lange Park"
-	label="Memorial plaque at Lange Park">
+	label="Memorial plaque at Lange Park"
+	fit="contain">
 
 ### Colonial Discovery 
 The *Melaleuca quinquenervia* belongs to a [genus of the Myrtle family](Q165152). *Quinquenervia* is from the Latin words for five (*quinque*) and veins (*nervia*), describing the five veins typically found in the plant's leaves. It is closely related to [eucalyptus](Q45669) and is endemic to mainland Australia, [New Caledonia](Q33788), and Indonesia - its southern geographical limit reaching Botany Bay. As its common name suggests, *Melaleucas* are distinctive for their bark, which easily peels from the trunk in smooth, flat sheets. *M. quinquenervia*, one of a group of nearly 100 species described as "broadleaf," can grow to heights of 20 meters. It favors riverbanks, swamps, floodplains, and estuaries. Its flowers, which appear in the fall, range from white to cream, and, characteristically, comprise spiked clusters of petals from which it derives an additional common name: "bottle-brush tree." Its leaves are dark, gray-green. As a fire-adapted species, burning can be beneficial to *Melaleucas*. Stress from the fire causes seed release and creates an ideal environment for germination and seedling growth owing to a more open canopy and carbon-rich soil.
