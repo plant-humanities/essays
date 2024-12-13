@@ -144,11 +144,11 @@ This essay provides an approachable overview of herbarium specimens and how they
 ![](https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/breadfruit.jpg)
 
 ## The Broad-Leaf Bark: Friend or Foe?
-[The Broad-Leaf Bark: Friend or Foe?](paperbark)
+[The Broad-Leaf Bark: Friend or Foe?](Paperbark)
 
 - Bethany Kidd and Sierra Roark
 
-!![](https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/Paperbark.jpg)
+!![](https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/paperbark.jpg)
 
 ## Cacao: Indigenous Network to Global Commodity
 [Cacao: Indigenous Network to Global Commodity](cacao)
