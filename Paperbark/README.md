@@ -41,13 +41,13 @@ A similar tale of [afforestation](Q2384419) drives other histories of the paperb
 
 Lange Park's broad-leaf paperbark is emblematic of the species’ swift and steep fall from grace: from champion tree to incorrigible pest. "This is a living monument that needs to die," insisted [Broward County](Q494624) environmental executive, Patti Webster, only a decade after receiving its national honor.[^10] "It's a tribute to what not to plant. [...] We'd be better off with a picture of it instead of the tree."[^11] Webster's comments followed a series of laws passed in the 1990s to eliminate the species from southern Florida. Today, botanists enlist terms of war to describe its reproduction. As Jonathan Silvertown, professor of evolutionary ecology at the University of Edinburgh, writes in his book *Demons in Eden* (2005), the *M. quinquenervia* is part of an "army" that "arrived with a vengeance and is advancing mercilessly across Florida's natural ecosystems."[^12] It is a villainous identity difficult to square with the paperbark’s long history as a treasure of Aboriginal culture and bushcraft. How did the tree come to trace such a capricious path in its human alliances?
 <param ve-entity eid="Q494624">
-<param ve-image  
+<param ve-image
 	src="gh:plant-humanities/media/paperbark/PaperbarkTree_Lightning_LangePark.jpg" 
 	caption="_Melaleuca_ tree growing in Lange Park, struck by lightning in 1990"
 	label="_Melaleuca_ tree growing in Lange Park, struck by lightning in 1990"
 	description="_Melaleuca_ tree growing in Lange Park, struck by lightning in 1990">
 <param ve-image
-	src="gh:plant-humanities/media/paperbark/LanguePark_plaque.jpg"
+	src="gh:plant-humanities/media/paperbark/LangePark_plaque.jpg"
  	caption="Memorial plaque at Lange Park"
 	label="Memorial plaque at Lange Park">
 
@@ -56,7 +56,7 @@ The *Melaleuca quinquenervia* belongs to a [genus of the Myrtle family](Q165152)
 <param ve-entity eid="Q45669">
 <param ve-entity eid="Q165152">
 <param ve-entity eid="Q33788">
-<param ve-image  
+<param ve-image
 	src="wc:Melaleuca_quinquenervia_inflorescenes_7th_Brigade_Park_Chermside_L1020182.jpg"
         caption="Paperbark in flower">
 <param ve-image
@@ -78,7 +78,7 @@ In 1750, Swedish botanist [Carl Linnaeus](Q1043) (1707-1778) identified the genu
 
 In the *Herbarium Amboinense*, which Linnaeus also used to classify dozens of new [genera](Q34740), Rumphius described a type of Myrtle tree, known in native Malay as "Caju-puti," to which he added the Latin "Arbor alba" (white tree) and Dutch "Witte boom." He also provided an additional name, "Brant-boomen" (fire tree), noting the apparent mystery that, though no witness had ever seen the tree on fire, "the bottom of this trunk is always most black, as if it had been burnt."[^14] This suggested to Rumphius that the heat of the summer sun would scorch the dry and delicate bark without actually bursting it into flame.
 <param ve-entity eid="Q34740">
-<param ve-iframe                                               
+<param ve-iframe
        src="https://books.google.com/books?id=3gpiDsqePMcC&newbks=0&dq=Herbarium%20amboinense%20%3A%20plurimas%20conplectens%20arbores%2C%20frutices%2C%20herbas%2C%20plantas%20terrestres&pg=PA68-IA12&output=embed"
        fit="contain">
 
