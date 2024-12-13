@@ -26,7 +26,7 @@ This essay provides an approachable overview of herbarium specimens and how they
 
 - Bethany Kidd and Sierra Roark
 
-!![](https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/Paperbark.jpg)
+!![](https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/paperbark.jpg)
 
 ## Pecan: Beyond Thanksgiving Pie to Indigenous Reciprocity
 [Pecan: Beyond Thanksgiving Pie to Indigenous Reciprocity](pecan)
