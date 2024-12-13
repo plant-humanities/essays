@@ -23,7 +23,8 @@ Throughout the late nineteenth and early twentieth centuries, one could trace th
 	caption="Australian paperbark trees line a main road in Hong Kong. Hedda Morrison, 1946-1947"
 	label="_Australian paperbark trees line a main road, New Territories, Hong Kong_, Hedda Morrison, 1946-1947" 
 	description="_Melaleuca quinquinervia_ Lining a Road, Hong Kong [Date]"
-	license="Unknown">
+	license="Unknown"
+	fit="contain">
 
 A similar tale of [afforestation](Q2384419) drives other histories of the paperbark and is implicated in its transformation from a treasured specimen tree to pernicious weed. Early twentieth-century developers and agriculturalists in South Florida employed the rhetoric of a wasteland ripe with latent potential, one that could be unlocked with the aid of trees’ shade and fast-growing roots.[^6] For decades, agriculturalists lauded *M. quinquenervia* as the tree that would dry up the [Everglades](Q597281), converting the putrid swamp into productive farmland. Local and federal horticultural agencies subsidized its planting and cultivation, even broadcasting its seed from low-flying planes across acres of swamp.[^7] So highly prized was the paperbark for both its utility and ornamental value that early seed importers jostled to be recognized as its first American planters.[^8] A [memorial plaque in Lange Park](https://s.yimg.com/fz/api/res/1.2/f7crBJDVxfJVFvPLAumHwA--~C/YXBwaWQ9c3JjaGRkO2g9NzUwO3E9ODA7dz0xMDAw/https://s.yimg.com/bj/52ab/52abdf0d1887ac317a71dbbf16b3eea4.jpg), less than ten miles east of the Everglades, boasts that a *Melaleuca* planted there in 1900 is the oldest in the region. Growing to over 25 meters (before being struck by lightning in 1990), it was also the tallest, for which it was awarded status as a "[champion tree](Q96374738)" by the [American Forestry Association](Q41806542) in 1981.[^9]
 <param ve-map
@@ -56,28 +57,24 @@ Lange Park's broad-leaf paperbark is emblematic of the species’ swift and stee
 
 ### Colonial Discovery 
 The *Melaleuca quinquenervia* belongs to a [genus of the Myrtle family](Q165152). *Quinquenervia* is from the Latin words for five (*quinque*) and veins (*nervia*), describing the five veins typically found in the plant's leaves. It is closely related to [eucalyptus](Q45669) and is endemic to mainland Australia, [New Caledonia](Q33788), and Indonesia - its southern geographical limit reaching Botany Bay. As its common name suggests, *Melaleucas* are distinctive for their bark, which easily peels from the trunk in smooth, flat sheets. *M. quinquenervia*, one of a group of nearly 100 species described as "broadleaf," can grow to heights of 20 meters. It favors riverbanks, swamps, floodplains, and estuaries. Its flowers, which appear in the fall, range from white to cream, and, characteristically, comprise spiked clusters of petals from which it derives an additional common name: "bottle-brush tree." Its leaves are dark, gray-green. As a fire-adapted species, burning can be beneficial to *Melaleucas*. Stress from the fire causes seed release and creates an ideal environment for germination and seedling growth owing to a more open canopy and carbon-rich soil.
-<param ve-entity eid="Q45669">
-<param ve-entity eid="Q165152">
-<param ve-entity eid="Q33788">
 <param ve-image
 	src="wc:Melaleuca_quinquenervia_inflorescenes_7th_Brigade_Park_Chermside_L1020182.jpg"
-        caption="Paperbark in flower">
+        caption="Paperbark in flower"
+	fit="contain">
 <param ve-image
 	src="wc:Melaleuca_quinquenervia_Wyrrabalong_NP_1.jpg"
-        caption="Bark structure">
+        caption="Bark structure"
+	fit="contain">
 <param ve-image
 	src="wc:Starr-070302-4964-Melaleuca_quinquenervia-leaves_and_bifurcate_fruit-Pukalani-Maui_(24256633283).jpg" 
-        caption="Paperbark fruit">
+        caption="Paperbark fruit"
+	fit="contain">
 
 In 1750, Swedish botanist [Carl Linnaeus](Q1043) (1707-1778) identified the genus and named it *Melaleuca*, taken from the Greek "mélas" (black) and "leukós" (white). He used botanical descriptions written by German-born botanist (and famed as the [Pliny](Q82778) of the Indies) [Georg Eberhard Rumphius](Q61439) (1627-1702), who lived on the [Maluku Islands](Q3827) of Indonesia as an employee of the [Dutch East India Company](Q159766) in the last half of the seventeenth century. Rumphius’ botanical work, *Herbarium Amboinense* (1741), was published in 1741 - posthumously and against all odds, given his blindness late in life (as shown in the frontispiece portrait), the loss of his library and earliest manuscript draft to a fire, and a subsequent loss of a completed manuscript in a shipwreck.[^13]
-<param ve-entity eid="Q1043">
-<param ve-entity eid="Q61439">
-<param ve-entity eid="Q3827">
-<param ve-entity eid="Q159766">
-<param ve-entity eid="Q82778">
 <param ve-image 
        src="wc:G.E._Rumphius,_D%27Amboinsche,_frontispiece._Wellcome_L0022386.jpg"
-       caption="Portrait of Georg Eberhard Rumpf, alias Rumphius, (1627-1702)">
+       caption="Portrait of Georg Eberhard Rumpf, alias Rumphius, (1627-1702)"
+       fit="contain">
 
 In the *Herbarium Amboinense*, which Linnaeus also used to classify dozens of new [genera](Q34740), Rumphius described a type of Myrtle tree, known in native Malay as "Caju-puti," to which he added the Latin "Arbor alba" (white tree) and Dutch "Witte boom." He also provided an additional name, "Brant-boomen" (fire tree), noting the apparent mystery that, though no witness had ever seen the tree on fire, "the bottom of this trunk is always most black, as if it had been burnt."[^14] This suggested to Rumphius that the heat of the summer sun would scorch the dry and delicate bark without actually bursting it into flame.
 <param ve-entity eid="Q34740">
@@ -89,82 +86,81 @@ Rumphius’ description of the paperbark’s appearance following a bushfire, it
 <param ve-entity eid="Q313254">
 <param ve-image 
        src="wc:Melaleuca_quinquenervia_Wyrrabalong_NP_2.jpg"
-       caption="Paperbark after a bushfire">
+       caption="Paperbark after a bushfire"
+       fit="contain">
 
 *M. quinquenervia* received formal botanical description in 1797 by the Spanish naturalist [Antonio José Cavanilles](Q545430).[^16] But it also numbered among the plants that had been earlier observed and collected by [Joseph Banks](Q153408) and [Daniel Solander](Q39789), the latter a student of Linnaeus. They traveled to [Botany Bay](Q894682) on [Captain Cook](Q7324)'s *HMS Endeavour* between 1768 and 1771, returning to England with over 3,600 botanical specimens. A specimen of *M. quinquenervia* collected in Bustard Bay and formerly identified as *M. leucadendra* before its reclassification in 1968, is preserved in the Queensland herbarium.[^17] The species is also included among the engravings of Banks’ *Florilegium*, a work that, despite 13 years of labor and enormous personal expense (costing £7,000, or roughly $1,490,000 today), remained unpublished until 1990.[^18]
-<param ve-entity eid="Q545430">
-<param ve-entity eid="Q153408">
-<param ve-entity eid="Q39789">
-<param ve-entity eid="Q7324" aliases="Captain Cook">
-<param ve-entity eid="Q894682">
 <param ve-image
 	src="gh:plant-humanities/media/paperbark/PaperbarkHerbarium.jpeg"
 	caption="Banks and Solander herbarium specimen"
-	label="Banks and Solander Herbarium Specimen">
+	label="Banks and Solander Herbarium Specimen"
+	fit="contain">
 <param ve-image
 	src="gh:plant-humanities/media/paperbark/Banks_Florilegium.jpg"
 	caption="Banks' Florilegium"
-	label="Banks' Florilegium">
+	label="Banks' Florilegium"
+	fit="contain">
 <param ve-image
 	src="gh:plant-humanities/media/paperbark/cavdes.jpg"
 	caption="Description of *Metrosideros quinquenervia* in Cavanilles, _Icones et descriptions plantarum_, 1797"
-	label="Description of Metrosideros Quinquenervia in Cavanilles' _Icones et Descriptions Plantarum_, 1797">
+	label="Description of Metrosideros Quinquenervia in Cavanilles' _Icones et Descriptions Plantarum_, 1797"
+	fit="contain">
 <param ve-image
 	src="gh:plant-humanities/media/paperbark/cavimage.jpg"
 	caption="*Metrosideros quinquenervia, in Cavanilles, _Icones et descriptions plantarum_, 1797"
-	label="Metrosideros Quinquenervia, tab 333 in Cavanilles' _Icones et Descriptions Plantarum_, 1797">
+	label="Metrosideros Quinquenervia, tab 333 in Cavanilles' _Icones et Descriptions Plantarum_, 1797"
+	fit="contain">
 
 ### Indigenous Treasure 
 The paperbark’s centrality to Indigenous communities predates its eighteenth-century "discovery" by thousands of years. The tree goes by countless names across the Australian continent: in [Bibbulmun](Q22918391), spoken by the south-western [Noongar peoples](Q1996477), it is known as the "Mudrooroo"; in the northern languages of [Ngalakgan](Q3913796) and [Kunwinjku](Q1406574), it is the "Gu-got" and "Kun-kod," respectively.[^19] To a vast number of Indigenous peoples, including those of New Caledonia and New Guinea, the paperbark is no villain. In sharp contrast to its status in the United States, it holds a pivotal role among Aboriginal cultures.
-<param ve-entity eid="Q22918391">
-<param ve-entity eid="Q1996477">
-<param ve-entity eid="Q3913796">
-<param ve-entity eid="Q1406574">
 <param ve-video vid="1n-zJNdfQJI" caption="Paperbark, Aboriginal Spirit by Shaman Creative">
 
 Its many uses intersect with daily life, including as a source of food, medicine, fuel, and protection from the elements. Its bark is easily peeled and used for shelter, construction, fuel, lumber, wrapping food, lining earth ovens, bundling babies, and as an antiseptic-laden bandage. The hardy tree also has environmental benefits, including soil conservation, windbreaking, erosion control, and providing habitats and sustenance for a multitude of organisms. Birds, bats, and invertebrates are among the creatures that live in or feast upon the paperbark.
-<param ve-visjs title="Uses of Paperbark" url="Paperbarknetwork.tsv">
+<param ve-visjs title="Uses of Paperbark" url="Paperbarknetwork.tsv"
+       fit="contain">
 
 Part of what attracted European botanists and explorers to the paperbark was its many medicinal applications. Tea brewed from young bruised leaves is drunk for headaches and general sickness. The leaf oil is used to treat respiratory ailments, colds, and rheumatism and has antiseptic properties used to treat cuts and sores.[^20] Ironically, in the United States, the *Malaleuca* has been labeled an allergen and respiratory irritant. While Florida authorities used human health concerns to justify a 1990 ban on its sale, transportation, collection, cultivation, or possession of *Melaleuca*, recent studies have found it is not a significant source of aeroallergen or a respiratory irritant.[^21] The essential oil produced by *M. quinquenervia* is used as an antibacterial, [fungicide](Q193237), and insect repellant, often intended to treat superficial skin conditions. However, modern producers derive commercially available [tea tree oil](Q48832) from *M. alternifolia*, not *M. quinquenervia*. Commonly known as [Niaouli](Q60849514), some sellers market the oil from the *M. quinquenervia* as having more robust properties than the more common tea tree oil.
-<param ve-entity eid="Q48832">
-<param ve-entity eid="Q193237">
-<param ve-entity eid="Q60849514" aliases="Niaouli">
 <param ve-image 
         src="gh:plant-humanities/media/paperbark/oil.jpg"
         caption="Tea tree oil"
         label="Tea Tree Oil" 
         description="Use of tea tree oil on the skin"
-        license="Unsplash photos are made to be used freely">
+        license="Unsplash photos are made to be used freely"
+	fit="contain">
 
 For generations, the Indigenous populations of Oceania have used *Melaleuca* bark to build structures and dwellings. Among some groups, dwellings were built entirely by women who cut the bark and erected the structure. When moving, the women would dismantle the dwelling and carry its component parts on their backs.[^22] Indigenous communities stored paperbark sheeting when they were not in use and sometimes transported them over considerable distances, especially to areas where the trees were unavailable.[^23] Bark structures could range from rafts for fishing, an important Indigenous tradition across much of Oceania, and open-air huts to more substantive shelters against the wet season's rains. Australian oral history from the [Wik-Mungkan people](Q28224481), an Aboriginal group from northern Queensland, includes a tale regarding the origins of paperbark dwellings: a man and woman are out foraging and, when caught by surprise by the fast-approaching rainy season, construct a *Melaleuca* bark shelter.[^24] In addition to its bark, *Melaleuca* lumber-hard and fine textured, and naturally resistant to termite attacks-is considered good building material, though liable to warp and difficult to cut and season.
-<param ve-entity eid="Q28224481">
 <param ve-image 
         src="gh:plant-humanities/media/paperbark/Paperbarkhut.png"
         caption="Two people sitting in front of a bush hut, Queensland, ca. 1895. Image courtesy of the State Library of Queensland"
         label="_Two people sitting in front of a bush hut, Queensland, ca. 1895_ Image courtesy of the State Library of Queensland" 
         description="A couple sitting outside their paperbark hut"
-        license="Public Domain">
+        license="Public Domain"
+	fit="contain">
 <param ve-image 
         src="gh:plant-humanities/media/paperbark/dwellings.jpg"        
         caption="Aboriginal men and a child outside of two paperbark humpies, Victoria River, NT, ca. 1900" 
         label="Aboriginal Men and a Child Outside of Two Paperbark Humpies, Victoria River, NT, ca. 1900" 
         description="description needed"
-        license="CC BY 4.0">
+        license="CC BY 4.0"
+	fit="contain">
 <param ve-image 
         src="wc:Francis_Birtles_in_a_bush_shower_constructed_of_timber_and_paper_bark_strips,_1914_-_Frank_Hurley_(22098482178).jpg"
-        caption="Bush shower of paperbark strips and timber, 1914">
+        caption="Bush shower of paperbark strips and timber, 1914"
+	fit="contain">
 <param ve-image 
         src="gh:plant-humanities/media/paperbark/raft.jpg"
         caption="Two people and a dog on a paperbark canoe, ca. 1940" 
         label="Two People and a Dog on a Paperbark Canoe, ca. 1940" 
         description="canoe photo"
-        license="public domain">
+        license="public domain"
+	fit="contain">
 <param ve-image 
         src="gh:plant-humanities/media/paperbark/Raftdesign.png"
         caption="_Walba_, David Payne"
         label="_Walba_, David Payne" 
         description="raft design"
-        license="granted from holder">
+        license="granted from holder"
+	fit="contain">
 
 Ethnographic accounts describe Aboriginal Australians using *Melaleuca* bark for bedding, lining earth ovens, wrapping food for cooking and storage, as fuelwood or kindling, and for making liquid-holding vessels and baskets.[^25] More recently, [Euro-Australians](Q13580316) have championed the culinary applications of paperbark in combination with other Indigenous ingredients. Paperbark sheets for cooking are commercially available and chefs note that cooking food wrapped in paperbark provides a smoky flavor and recommend it for roasting fish, chicken, and vegetables. The plant’s culinary uses extend beyond the *Melaleuca* bark. For example, steeping *Melaleuca* tree blossoms creates a natural sweetener that is used for making candy.[^26] It is also a fine source of nectar and pollen for bees and is a significant source of honey in Australia and Florida.
 <param ve-entity eid="Q13580316" aliases="Euro-Australians">
