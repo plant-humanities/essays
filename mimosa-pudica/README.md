@@ -1,6 +1,5 @@
 <a href="https://www.juncture-digital.org"><img src="https://juncture-digital.github.io/juncture/static/images/ve-button.png"></a>
 
-
 <param ve-config 
        title="The Sensitive Plant: Meaning and Movement"
        source-image="https://upload.wikimedia.org/wikipedia/commons/8/88/Mimosa_pudica_kian-siau-chhau.jpg"
