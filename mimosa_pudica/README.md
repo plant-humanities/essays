@@ -12,7 +12,7 @@
 <param ve-video vid="XRg3kZYT_WA">
 
 Where contemporary scholarship surrounding the *Mimosa pudica* has emphasized the plant’s ability to demonstrate intelligence and memory, the larger historical narrative explored here highlights how this very vitality has resulted in violent experimentation and objectification. By tracking perceptions of the *Mimosa pudica* throughout European scientific and popular work, we consider how colonial botany and bioprospecting produced culturally specific practices of engagement with plants. Rather than flatten the distinct and diverse knowledge systems that engage *Mimosa pudica*, by bringing them into direct comparison with this Eurocentric perspective, we want to emphasize the ways that these knowledge systems remain, on their own terms, despite the ongoing impacts of colonization.
-<param ve-image url="https://plants.jstor.org/stable/viewer/10.5555/al.ap.visual.horneart32-449?page=1"
+<param ve-image src="https://plants.jstor.org/stable/viewer/10.5555/al.ap.visual.horneart32-449?page=1"
 label="Watercolor from Nathaniel Lord Britton's unpublished popular flora of Puerto Rico, Flora Borinqueña, 1918-1934"
 description="Attributed to the New York Botanical Garden"
 fit="contain">
