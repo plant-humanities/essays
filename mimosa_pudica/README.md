@@ -14,7 +14,7 @@
 Where contemporary scholarship surrounding the *Mimosa pudica* has emphasized the plant’s ability to demonstrate intelligence and memory, the larger historical narrative explored here highlights how this very vitality has resulted in violent experimentation and objectification. By tracking perceptions of the *Mimosa pudica* throughout European scientific and popular work, we consider how colonial botany and bioprospecting produced culturally specific practices of engagement with plants. Rather than flatten the distinct and diverse knowledge systems that engage *Mimosa pudica*, by bringing them into direct comparison with this Eurocentric perspective, we want to emphasize the ways that these knowledge systems remain, on their own terms, despite the ongoing impacts of colonization.
 <param ve-iframe 
        src="https://plants.jstor.org/stable/viewer/10.5555/al.ap.visual.horneart32-449"
-       caption="Watercolor from Nathaniel Lord Britton's unpublished popular flora of Puerto Rico, Flora Borinqueña, 1918-1934. Mertz Library Archives, New York Botanical Garden"
+       caption="Watercolor from Nathaniel Lord Britton's unpublished popular flora of Puerto Rico, Flora Borinqueña, 1918-1934"
        description="Attributed to the New York Botanical Garden"
        fit="contain">
 
@@ -26,7 +26,7 @@ While referred to in the Western world as the Sensitive Plant, or by *Mimosa pud
 <param ve-entity eid="Q1043" title="Carl Linnaeus">
 <param ve-entity eid="Q123885" title="Royal Society">
 
-The Sensitive Plant is a low-growing perennial plant that grows to between 15 and 100 centimeters tall.[^10] Its leaves are alternate and bipinnate with the pinnae (primary divisions of the leaf) subdigitate—finger-like. Because the plant forms dense ground cover, it can prevent the reproduction of other species, which is why some consider it a weed. Yet, like many in the legume family, the Sensitive Plant is nitrogen fixing. It can convert atmospheric nitrogen, an essential nutrient that is unusable to most organisms in its atmospheric form, into ammonia, which can be readily absorbed by organisms, creating available nitrogen. The Sensitive Plant has many traditional medicinal uses across the world, including as a diuretic, antidepressant, aphrodisiac, and a sleep inducer.
+The Sensitive Plant is a low-growing perennial plant that grows to between 15 and 100 centimeters tall.[^10] Its leaves are alternate and bipinnate with the pinnae (primary divisions of the leaf) being subdigitate, or finger-like. Because the plant forms dense ground cover, it can prevent the reproduction of other species, which is why some consider it a weed. Yet, like many in the legume family, the Sensitive Plant is nitrogen fixing. It can convert atmospheric nitrogen, an essential nutrient that is unusable to most organisms in its atmospheric form, into ammonia, which can be readily absorbed by organisms, creating available nitrogen. The Sensitive Plant has many traditional medicinal uses across the world, including as a diuretic, antidepressant, aphrodisiac, and a sleep inducer.
 <param ve-image url="Mimosa_type.png"
 label="Mimosa Pudica lectotype specimen from the Natural History Museum's Herbarium"
 description="Digitized specimen accessed through JSTOR Global Plants"
