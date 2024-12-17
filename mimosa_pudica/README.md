@@ -12,7 +12,7 @@
 <param ve-video vid="XRg3kZYT_WA">
 
 Where contemporary scholarship surrounding the *Mimosa pudica* has emphasized the plant’s ability to demonstrate intelligence and memory, the larger historical narrative explored here highlights how this very vitality has resulted in violent experimentation and objectification. By tracking perceptions of the *Mimosa pudica* throughout European scientific and popular work, we consider how colonial botany and bioprospecting produced culturally specific practices of engagement with plants. Rather than flatten the distinct and diverse knowledge systems that engage *Mimosa pudica*, by bringing them into direct comparison with this Eurocentric perspective, we want to emphasize the ways that these knowledge systems remain, on their own terms, despite the ongoing impacts of colonization.
-<param ve-iframe 
+<param ve-image 
        src="gh:plant-humanities/media/mimosa-pudica/Nathaniel_Britton_flora_watercolors.jpg"
        caption="Watercolor from Nathaniel Lord Britton's unpublished popular flora of Puerto Rico, Flora Borinqueña, 1918-1934"
        description="Attributed to the New York Botanical Garden"
@@ -28,7 +28,7 @@ While referred to in the Western world as the Sensitive Plant, or by *Mimosa pud
 
 The Sensitive Plant is a low-growing perennial plant that grows to between 15 and 100 centimeters tall.[^10] Its leaves are alternate and bipinnate with the pinnae (primary divisions of the leaf) being subdigitate, or finger-like. Because the plant forms dense ground cover, it can prevent the reproduction of other species, which is why some consider it a weed. Yet, like many in the legume family, the Sensitive Plant is nitrogen fixing. It can convert atmospheric nitrogen, an essential nutrient that is unusable to most organisms in its atmospheric form, into ammonia, which can be readily absorbed by organisms, creating available nitrogen. The Sensitive Plant has many traditional medicinal uses across the world, including as a diuretic, antidepressant, aphrodisiac, and a sleep inducer.
 <param ve-image 
-       src="gh:plant-humanities/media/mimosa-pudica/Lectotype/jpg"
+       src="gh:plant-humanities/media/mimosa-pudica/Lectotype.jpg"
        caption="Mimosa Pudica lectotype specimen from the Natural History Museum's Herbarium"
        description="Digitized specimen accessed through JSTOR Global Plants"
        fit="contain">
@@ -36,14 +36,14 @@ The Sensitive Plant is a low-growing perennial plant that grows to between 15 an
 Fueled through literary, scientific, and artistic representations, European fascination with the Sensitive Plant has also been philosophical and scientific. The plant’s movement in response to stimulus posed a problem for early European botanists—how could a plant display such sensitivity? For centuries, Hellenistic philosophy reigned supreme. Aristotle and Theophrastus both argued that plants were characterized by an “insensitive Vegetative soul,” and animals by a “Sensitive Soul.”[^11] Animals could make active responses to external stimuli, but plants were supposed to be passive—their only faculties devoted to nutrient intake and reproduction. This philosophy, clearly differentiating plants from animals based on their sensitivity, held firm well into the seventeenth century. In 1661, in a dramatic and evocative study of the plant, the Royal Society burned the Sensitive Plant with acid, cut, and struck it in scientific trials. These violent manipulations were intended to elucidate the motivation and mechanism behind the plant’s responses.[^12] As European cultural associations with the Sensitive Plant developed, other scientists continued experimenting: in the late eighteenth century, the French botanist René-Louiche Desfontaines took the plant on a bumpy horse drawn carriage ride in Paris to see how it would react.[^13]
 <param ve-image 
        src="wc:Aristotle_Altemps_Inv8575.jpg"
-       fit="contain"
        caption="Aristotle"
-       license="Public Domain">
+       license="Public Domain"
+       fit="contain">
 <param ve-image 
        src="wc:Teofrasto_Orto_botanico_detail.jpg"
-       fit="contain"
        caption="Theophrastus"
-       license="CC BY-SA 2.5">
+       license="CC BY-SA 2.5"
+       fit="contain">
 <param ve-entity eid="Q868" title="Aristotle">
 <param ve-entity eid="Q160362" title="Theophrastus">
 <param ve-entity eid="Q545953" title="René-Louiche Desfontaines">
