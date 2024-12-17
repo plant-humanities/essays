@@ -37,12 +37,12 @@ Fueled through literary, scientific, and artistic representations, European fasc
 <param ve-image 
        src="wc:Aristotle_Altemps_Inv8575.jpg"
        fit="contain"
-       label="Aristotle"
+       caption="Aristotle"
        license="Public Domain">
 <param ve-image 
        src="wc:Teofrasto_Orto_botanico_detail.jpg"
        fit="contain"
-       label="Theophrastus"
+       caption="Theophrastus"
        license="CC BY-SA 2.5">
 <param ve-entity eid="Q868" title="Aristotle">
 <param ve-entity eid="Q160362" title="Theophrastus">
