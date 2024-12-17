@@ -29,7 +29,7 @@ While referred to in the Western world as the Sensitive Plant, or by *Mimosa pud
 The Sensitive Plant is a low-growing perennial plant that grows to between 15 and 100 centimeters tall.[^10] Its leaves are alternate and bipinnate with the pinnae (primary divisions of the leaf) being subdigitate, or finger-like. Because the plant forms dense ground cover, it can prevent the reproduction of other species, which is why some consider it a weed. Yet, like many in the legume family, the Sensitive Plant is nitrogen fixing. It can convert atmospheric nitrogen, an essential nutrient that is unusable to most organisms in its atmospheric form, into ammonia, which can be readily absorbed by organisms, creating available nitrogen. The Sensitive Plant has many traditional medicinal uses across the world, including as a diuretic, antidepressant, aphrodisiac, and a sleep inducer.
 <param ve-image 
        src="gh:plant-humanities/media/mimosa-pudica/Lectotype/jpg"
-       label="Mimosa Pudica lectotype specimen from the Natural History Museum's Herbarium"
+       caption="Mimosa Pudica lectotype specimen from the Natural History Museum's Herbarium"
        description="Digitized specimen accessed through JSTOR Global Plants"
        fit="contain">
 
