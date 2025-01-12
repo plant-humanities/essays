@@ -74,19 +74,19 @@ The Sensitive Plant’s fascinating movements have made it a popular object of s
        license="CC BY 4.0"
        fit="contain">
 
-Late eighteenth and nineteenth century dedictions of gender by colonial powers were entangled with the treatment of plant matter that traveling botanists were extracting.[^23] The Sensitive Plant, having had European male scientific figures describe it as responsive, was also used as a fashionable motif by European and American artists seeking to draw out associations between the plant’s movement and a shyly genteel, vulnerable affect. After being introduced to Europe in the 16th century, the Sensitive Plant became popular in formal English gardens.[^24] Depictions of white womanhood could be reinforced or challenged through the conflation and projection of social conventions onto the plant. American artist Maria Edgar’s 1808 watercolor of a woman among foxgloves, roses, and a Sensitive Plant is described as “a symbol of modern womanhood” by the Metropolitan Museum of Art for depicting of “the nurturing power of the female touch.” [^25] As Edgar’s figure reaches out to touch the potted Sensitive Plant, viewers can see the docility in how delicately both plant and woman react to their surroundings. A few decades prior, a late eighteenth century stipple engraving entitled “Sensibility” showed British actor Emma Hamilton reaching toward a potted Sensitive Plant, even as its leaves closed. Both images play on a femininity that balances separation from and adjacency to the natural world— portraying an idealized white and European womanhood that yearns for the delicate.
+Late eighteenth- and nineteenth-century depictions of gender by colonial powers were entangled with the treatment of plant matter that traveling botanists were extracting.[^23] The Sensitive Plant, having had European male scientific figures describe it as responsive, was also used as a fashionable motif by European and American artists seeking to draw out associations between the plant’s movement and a shyly genteel, vulnerable affect. After being introduced to Europe in the sixteenth century, the Sensitive Plant became popular in formal English gardens.[^24] Depictions of white womanhood could be reinforced or challenged through the conflation and projection of social conventions onto the plant. American artist Maria Edgar’s 1808 watercolor of a woman among foxgloves, roses, and a Sensitive Plant is described as “a symbol of modern womanhood” by the Metropolitan Museum of Art for depicting of “the nurturing power of the female touch.”[^25] As Edgar’s figure reaches out to touch the potted Sensitive Plant, viewers can see the docility in how delicately both plant and woman react to their surroundings. A few decades prior, a late eighteenth-century stipple engraving entitled “Sensibility” showed British actor Emma Hamilton reaching toward a potted Sensitive Plant, even as its leaves closed. Both images play on an understanding of femininity that balances separation from and adjacency to the natural world — portraying an idealized white and European womanhood that yearns for the delicate.
 <param ve-image 
-url="10.2307_community.18567884-1.jpg"
-label="The Sensitive Plant, by Maria Edgar, 1808" 
-description="Watercolor by Maria Edgar"
-license="Open Access"
-fit="-525,-77,2627,2192">
+       src="gh:plant-humanities/media/mimosa-pudica/Sensitive Plant Maria Edgar.jpg"
+       caption="The Sensitive Plant by Maria Edgar, 1808" 
+       description="Watercolor by Maria Edgar"
+       license="Open Access"
+       fit="contain">
 <param ve-image 
-url="Screenshot 2023-08-04 at 5.45.58 PM.png"
-label="Emma Hamilton in an attitude towards a mimosa plant, causing it to demonstrate sensibility. Stipple engraving by R. Earlom, 1789, after G. Romney" 
-description="engraving by R. Earlom"
-license="CC BY 4.0"
-fit="-307,-16,1540,1243">
+       src="gh:plant-humanities/media/mimosa-pudica/Emma Hamilton stipple engraving.png"
+       caption="Emma Hamilton in an attitude towards a mimosa plant, causing it to demonstrate sensibility. Stipple engraving by R. Earlom, 1789, after G. Romney" 
+       description="Engraving by R. Earlom"
+       license="CC BY 4.0"
+       fit="contain">
 
 By the mid-nineteenth century, imperial Victorian Britain saw the regular use of transportation technologies like the Wardian case, by botanists and curators to more easily transport botanical samples from abroad, or from the colonies, as they allowed  the plants to receive sunlight and moisture while remaining enclosed for transit.[^26]  [^27] Delicate and newly introduced plants like the Sensitive Plant could be made useful to colonial science in Europe even as they could also be added to a growing repertoire of flowers-as-messages, wherein specific flowers were said to communicate a corresponding symbol for a wearer or sender: cultural icons in their own right. German and French botanists also became “ardent users” of Wardian cases. [^28] Taxile Delord's 1847 French book of botanical stories, Les Fleurs Animées, illustrated by J.J. Grandville,  is an example of how class, race, and gender were encoded into European imaginings about plants. Grandville’s anthropomorphized illustrations of flowers were both fanciful and instructive. The Sensitive Plant is personified by Grandville as a tall, slender white woman in a long gown adorned with mimosa branches and white veil. Wearing an unhappy expression, she is shown shrinking away from contaminants: two darkly rendered garden creatures, a beetle and slug. As the woman lifts her skirt away from the ground, both she and the mimosa branches on her skirt seem to shrink from the beetle’s smoking pipe. The plant’s fascinating responsive movements, as recorded by scientists of the time, were embodied in Grandville's depiction of a delicate woman fleeing. A particular set of European cultural values were thus not only projected onto plant life, but also imagined to be a part of its materiality and embodied sensibility.
 <param ve-entity eid="Q2779805" title="Wardian case">
