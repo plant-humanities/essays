@@ -275,6 +275,13 @@ This essay provides an approachable overview of herbarium specimens and how they
 
 ![](https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/Peony_Thumbnail.jpg)
 
+## The Sensitive Plant: Meaning and Movement
+[The Sensitive Plant: Meaning and Movement](mimosa_pudica)
+
+- Elaina Foley, Sabrina Freidus, and Jordan Norviel
+
+!![](https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/mimosapudica.jpg)
+
 ## Sunflower: Knowledge, Myth, and Meaning
 [Sunflower: Knowledge, Myth, and Meaning](sunflower)
 
