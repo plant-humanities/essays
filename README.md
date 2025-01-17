@@ -26,7 +26,7 @@ This essay provides an approachable overview of herbarium specimens and how they
 
 - Elaina Foley, Sabrina Freidus, and Jordan Norviel
 
-!![](https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/mimosa.jpg)
+!![](https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/mimosapudica.jpg)
 
 ## The Broad-Leaf Bark: Friend or Foe?
 [The Broad-Leaf Bark: Friend or Foe?](Paperbark)
