@@ -21,6 +21,20 @@ This essay provides an approachable overview of herbarium specimens and how they
 # Featured Plant Narratives 
 `.cards`
 
+## The Sensitive Plant: Meaning and Movement
+[The Sensitive Plant: Meaning and Movement](mimosa_pudica)
+
+- Elaina Foley, Sabrina Freidus, and Jordan Norviel
+
+!![](https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/mimosa.jpg)
+
+## The Broad-Leaf Bark: Friend or Foe?
+[The Broad-Leaf Bark: Friend or Foe?](Paperbark)
+
+- Bethany Kidd and Sierra Roark
+
+!![](https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/paperbark.jpg)
+
 ## Pecan: Beyond Thanksgiving Pie to Indigenous Reciprocity
 [Pecan: Beyond Thanksgiving Pie to Indigenous Reciprocity](pecan)
 
