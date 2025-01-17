@@ -20,13 +20,13 @@ Where contemporary scholarship surrounding the *Mimosa pudica* has emphasized th
 While referred to in the Western world as the Sensitive Plant, or by *Mimosa pudica*, across the globe there are proliferating names used to refer to this plant. As far back as the sixteenth century, there are records that show naming confusion. In 1578, in what we found to be the earliest mention of the plant, [Christoval Acosta](Q384460), a Portuguese doctor and natural historian who was one of the first to study plants in Asia, described and illustrated two plants that he called *Yerua Biua* and *Yerua mimosa*.[^3] Though it is unclear whether those species are *Mimosa pudica* or just related, scholars think that the *Yerua viva*, another plant that Acosta identified, is indeed this mysterious plant.[^4] In 1598, on an expedition to Puerto Rico, John Layfield found a plant that he identified with Acosta’s *Yerua viva*, calling it *Yerva viva*.[^5] When the [Royal Society](Q123885) conducted its experiments in 1661 at the request of King Charles II, they called it "the Sensitive Plant." In 1633, John Gerard’s *The Herbal*, a widely popular gardening and herbal book, called the plant *Herba mimosa*. It was [Carl Linnaeus](Q1043) who, in his *Species Plantarum*, consistently used binomial nomenclature for the first time. He named the plant *Mimosa pudica*.[^6] *Mimosa* comes from the Greek *mimikos*, meaning to mimic, and the Latin *pudica* means modest or bashful.[^7] In addition to *Mimosa pudica* and the Sensitive Plant, the plant has many other names, used by botanists and the public alike: bashful plant, chaste plant, touch-me-not plant, and humble plant. The names are emblematic of the values humans attach to this plant. For example, because of its sentient character, the Sensitive Plant was often linked to ideas of female chastity.[^8] Indigenous communities in regions where the Sensitive Plant is native have their own names. *Pinahuihuitztli* and *Cocochiatl* are two Nahautl names for the plant, recorded by Spanish naturalist and explorer Francisco Hernández in 1570.[^9] In present-day Latin America, *dormidera*, which means sleeper, is used. Explore the word cloud to the right to discover more names and appreciate their abundance for this plant; our list is not exhaustive. For the remainder of this essay, we will refer to this plant as the Sensitive Plant.
 <param ve-image 
        src="gh:plant-humanities/media/mimosa-pudica/wordcloud.jpg"
-       caption="Explore the wordcloud to learn other names of *Mimosa pudica*"
+       caption="Explore the word cloud to learn other names of *Mimosa pudica*"
        fit="contain">
 
 The Sensitive Plant is a low-growing perennial plant that grows to between 15 and 100 centimeters tall.[^10] Its leaves are alternate and bipinnate with the pinnae (primary divisions of the leaf) being subdigitate, or finger-like. Because the plant forms dense ground cover, it can prevent the reproduction of other species, which is why some consider it a weed. Yet, like many in the legume family, the Sensitive Plant is nitrogen fixing. It can convert atmospheric nitrogen, an essential nutrient that is unusable to most organisms in its atmospheric form, into ammonia, which can be readily absorbed by organisms, creating available nitrogen. The Sensitive Plant has many traditional medicinal uses across the world, including as a diuretic, antidepressant, aphrodisiac, and a sleep inducer.
 <param ve-image 
        src="gh:plant-humanities/media/mimosa-pudica/Lectotype.jpg"
-       caption="Mimosa Pudica lectotype specimen from the Natural History Museum's Herbarium"
+       caption="*Mimosa pudica* lectotype specimen from the Natural History Museum's Herbarium"
        description="Digitized specimen accessed through JSTOR Global Plants"
        fit="contain">
 
@@ -45,13 +45,13 @@ Fueled through literary, scientific, and artistic representations, European fasc
 When John Layfield first encountered the Sensitive Plant in Puerto Rico in the late sixteenth century, he acknowledged how the plant challenged Hellenistic philosophy: “It hath a property, which confoundeth my understanding, and perhaps will seem strange in the way of the Philosophers, who have denied every part of sense to my plant; yet this certainly seemeth to have feeling.”[^14] Many botanists attempted to come up with mechanical explanations for the plant's movement, especially under the influence of [Rene Descartes](Q9191), the prominent philospher and scientist, who popularized the idea that all nature and organisms are machines. Descartes’ ideas of mechanism made it possible to explain plant movement “in terms of physical causes reducible to matter and movement,” avoiding the idea that plants could have feelings.[^15] The Royal Society, in 1661, conducted experiments on the Sensitive Plant, theorizing that the circulation of some kind of sap allowed the plant to move. A century later, botanists were still grappling with whether the Sensitive Plant could feel. Abbe de Vallemont, a French scientist, declared that the “Sensitive Plant has no more sense than a cabbage,” demonstrating the prevalence of Hellenistic philosophy and mechanism.[^16] Even in the early nineteenth century, British botanist [Agnes Ibbetson](Q4693059) disagreed with those who thought that the Sensitive Plant had inherent feeling or sensitivity. Instead, she wrote, the plants are “machines governed wholly by light and moisture; and dependent on these causes for motion.”[^17]
 <param ve-image 
        src="gh:plant-humanities/media/mimosa-pudica/Earl of Cumberland.png"
-       caption="Hakluytus posthumus, v.16, page 98"
+       caption="*Hakluytus posthumus, or Purchas his Pilgrimes*, volume 16, page 98"
        description="Digitized copy found on Haithi Trust"
        license="Public Domain"
        fit="contain">
 <param ve-image
        src="gh:plant-humanities/media/mimosa-pudica/Ibbetson.png"
-       caption="Journal of Natural Philosophy, Chemistry & the Arts (Nicholson's Journal), page 114"
+       caption="*Journal of Natural Philosophy, Chemistry & the Arts* (Nicholson's Journal), page 114"
        description="Digitized copy found on Biodiversity Heritage Library"
        license="Public Domain"
        fit="contain">
@@ -77,13 +77,13 @@ The Sensitive Plant’s fascinating movements have made it a popular object of s
 Late-eighteenth- and nineteenth-century depictions of gender by colonial powers were entangled with the treatment of plant matter that traveling botanists were extracting.[^23] The Sensitive Plant, having had European male scientific figures describe it as responsive, was also used as a fashionable motif by European and American artists seeking to draw out associations between the plant’s movement and a shyly genteel, vulnerable affect. After being introduced to Europe in the sixteenth century, the Sensitive Plant became popular in formal English gardens.[^24] Depictions of white womanhood could be reinforced or challenged through the conflation and projection of social conventions onto the plant. American artist Maria Edgar’s 1808 watercolor of a woman among foxgloves, roses, and a Sensitive Plant is described as “a symbol of modern womanhood” by the Metropolitan Museum of Art for depicting of “the nurturing power of the female touch.”[^25] As Edgar’s figure reaches out to touch the potted Sensitive Plant, viewers can see the docility in how delicately both plant and woman react to their surroundings. A few decades prior, a late eighteenth-century stipple engraving entitled “Sensibility” showed British actor Emma Hamilton reaching toward a potted Sensitive Plant, even as its leaves closed. Both images play on an understanding of femininity that balances separation from and adjacency to the natural world — portraying an idealized white and European womanhood that yearns for the delicate.
 <param ve-image 
        src="gh:plant-humanities/media/mimosa-pudica/Sensitive Plant Maria Edgar.jpg"
-       caption="The Sensitive Plant by Maria Edgar, 1808" 
+       caption=""The Sensitive Plant" by Maria Edgar, 1808" 
        description="Watercolor by Maria Edgar"
        license="Open Access"
        fit="contain">
 <param ve-image 
        src="gh:plant-humanities/media/mimosa-pudica/Emma Hamilton stipple engraving.png"
-       caption="Emma Hamilton in an attitude towards a mimosa plant, causing it to demonstrate sensibility. Stipple engraving by R. Earlom, 1789, after G. Romney" 
+       caption="Emma Hamilton in an attitude towards a *Mimosa* plant, causing it to demonstrate sensibility. Stipple engraving by R. Earlom, 1789, after G. Romney" 
        description="Engraving by R. Earlom"
        license="CC BY 4.0"
        fit="contain">
@@ -99,7 +99,7 @@ With Nehemiah Cleaveland’s 1849 translation of *Les Fleurs Animées* into Engl
 Visual representations of beauty, sensitivity, and class that use the Sensitive Plant show us how its cultural associations in Europe were entangled, from the start, with its scientific perceptions. Far from being separate realms, science influenced the European public’s ideas of what the plant was. In the May 1829 issue of the French fashion magazine *Petit Courrier des Dames*, *Mimosa* leaves and branches are advertised as a potential accessory for muslin and tulle dresses. As the plant grew poorly or not at all in European outdoor climes, these branchy fragments would have been a challenging and costly acquisition for most European women. Nineteenth-century associations of the Sensitive Plant, including its racialization within cultural works, cannot be divorced from economic, class, and imperial contexts — particularly because of the plant’s inaccessibility for any European without access to a hothouse, seeds, or samples of the plant from abroad.
 <param ve-image 
        src="gh:plant-humanities/media/mimosa-pudica/Petit Courrier des Dames.png"
-       caption="Mimosa branches decorating a woman's hat in Petit Courrier des Dames, 1829" 
+       caption="*Mimosa* branches decorating a woman's hat in Petit Courrier des Dames, 1829" 
        description="Petit Courrier des Dames, 20 May 1829, No. 639 : Modes de Longchamps... - 1829 - Rijksmuseum, Netherlands - Public Domain.
 https://www.europeana.eu/item/90402/RP_P_2005_515_61?lang=en"
        license="Petit Courrier des Dames, 20 May 1829, No. 639 : Modes de Longchamps... - 1829 - Rijksmuseum, Netherlands - Public Domain.
@@ -111,7 +111,6 @@ The Sensitive Plant captured the attention of writers and storytellers in additi
        src="https://archive.org/details/b28777554/page/30/mode/2up?view=theater">
 
 It is precisely the Sensitive Plant’s otherworldly capacity to feel that captured [Percy Bysshe Shelley’s](Q93343) attention. In “The Sensitive Plant,” one of his last works written in 1820, Shelley embraces the plant’s all-consuming affect.[^31] Told in three parts, the poem begins similarly to Darwin’s “The Loves of the Plants,” with the plant growing “companionless” in the garden. In the second part, Shelley introduces the gardener, a similarly solitary woman who dedicates herself to her plants. The gardener is adored by the garden. Shelley writes “I doubt not the flowers of that garden sweet / Rejoiced in the sound of her gentle feet; / I doubt not they felt the spirit that came / From her glowing fingers through all their frame.”[^32] Here Shelley is speculating that the flowers themselves cared for the women that tended to them. In return, she is so devoted to the garden that “If the flowers had been her own infants, she / Could never have nursed them more tenderly.”[^33] In the last line of this section, the woman suddenly dies, leaving the garden to mourn in the third part. Left alone, all the plants decay and die with the exception of the Sensitive Plant, which “Wept, and the tears within each lid / Of its folded leaves, which together grew, / Were changed to a blight of frozen glue.”[^34] The plant not only survived, a testament to its endurance, but it also weeps for its caretaker. Here the plant’s lyrical power is precisely in the personification scientists sought to avoid. Theresa Kelley, reflecting on Shelley’s departure from Erasmus Darwin’s sexual classification, writes, “Shelley’s Sensitive-plant is an 'it,' but it is an it that loves what it has not. In the language of Shelley’s poem, requiring no sexual companion to reproduce is hardly if at all at issue. What matters is its capacity for feeling.”[^35] The Sensitive Plant is significant not as a scientific oddity but as something that has an otherworldly capacity to feel. This deep sense of affect is all the more moving when considering Shelley wrote the poem at a particularly devastating point in his life when he was chronically ill and mourning the loss of a child.
-
 <param ve-iframe 
        src="https://archive.org/details/sensitiveplant00shel/page/n9/mode/2up?view=theater">
 
@@ -119,7 +118,7 @@ It is precisely the Sensitive Plant’s otherworldly capacity to feel that captu
 The adjoining map's slider tool reveals the Sensitive Plant’s current distribution overlaid onto its recorded native distribution across Southern and Central America, as well as the Caribbean. A diversity of relationships with the Sensitive Plant occurs across the globe, shaped in no small part by legacies of capitalism, experimentation, and colonialism. Today in Europe, the Sensitive Plant is available as a houseplant and (more rarely) as a supplement, but it has also taken on gendered cultural connotations across diverse regions of the European continent.[^36] Consider that its Dutch name (*Kruidje roer me niet*) has come to colloquially refer to an overly sensitive or touchy person. Although the Sensitive Plant was never adopted into mainstream medicinal practice in Europe, its presence advanced debates about what it meant to be alive and intelligent. Today, the plant maintains medicinal contexts in which it acts not just for human bodies, but also on human bodies — from commercialization as a supplement, to use in Ayurvedic medicine and in current propositions to expand healthcare coverage through herbalism in Brazil.[^37]
 <param ve-compare 
        src="gh:plant-humanities/media/mimosa-pudica/Distribution Map 1.png"
-       caption="Mimosa Pudica: Native Distribution vs. Current Distribution" 
+       caption="*Mimosa pudica*: Native Distribution vs. Current Distribution" 
        description="map by CABI Data"
        license="CC BY-NA-SA 4.0">
 <param ve-compare 
@@ -130,16 +129,16 @@ The adjoining map's slider tool reveals the Sensitive Plant’s current distribu
 Across herbalist traditions, various parts of the Sensitive Plant are used, including its leaves, seeds, flowers, and roots.[^38] Transoceanic dispersal of the its seeds led to its “naturalization” throughout tropical and subtropical India. This resulted in Ayurvedic use of the plant under the Sanskrit name *lajjalu*, in addition to other locally specific herbal remedies in Suriname, Trinidad, and Tobago.[^39] With the rise of online herbalist communities, the Sensitive Plant is lauded for its Ayurvedic uses, which range from cosmetic, digestive, and endocrine to neurological and psychospiritual. However, appropriation within online herbalist communities can mean that treatment information is sometimes shared without cultural context. While noncommercialized community herbalist approaches generally emphasize cultivating relationships with plants to understand their properties, this tradition has been disrupted by the mechanization of plants. Long (and ongoing) traditions of European bioprospecting and the reduction of plants into compounds have left many people with the impression that plants function medicinally as a kind of naturally occurring pill, rather than as part of a multispecies relationship with social and ethical responsibilities.[^40]
 <param ve-image 
        src="wc:Mimosa_pudica_MHNT.BOT.2004.0.0.495.jpg"
-       caption="Mimosa Seed Pods" 
-       description="Mimosa Seed Pods"
+       caption="*Mimosa* Seed Pods" 
+       description="*Mimosa* Seed Pods"
        license="Public Domain"
        fit="contain">
 
 Integrating herbalist knowledge into medical and scientific knowledge systems requires tending to plant-person relationships.[^41] Critical interventions by scholars in Black Studies, Queer Theory, Women’s Studies, and Indigenous Studies have brought new iterations and understandings of these relations explicitly into the academy and the sciences.[^42] Still, lab-based studies and historical compendiums produced in the context of European colonialism remain more commonly cited as sources of legitimate knowledge on the relations and ecologies of plants. The Linnaean classification system shifted existing understandings of both race and sexuality with its ordering of plant life in a “fundamentally European system,” which has both contributed to the erasure of existing Indigenous knowledge systems and offered one example of a universal ordering for ongoing scientific reference.[^43] Many herbalists today cite a range of sources for plants like the Sensitive Plant, considering scientific, historical, social, and culturally specific accounts of plant usage. The Earth Medicine Institute, a Hawai'i-based center, cites the Sensitive Plant’s common names, from China (*Han xiu cao*) to Borneo (*Sulinit*). By creating a more “global” profile of the plant, they are seeking to create a comprehensive overview that classifies it not only by its family name (*Fabaceae*), but also by its category (herbs that calm the spirit) and properties (sweet, astringent, slightly cold).[^44] These approaches attempt to resist reductionist accounts of plant-person relations wherein the plant is reduced to a resource for capital or aesthetic value.
 <param ve-image 
        url="https://upload.wikimedia.org/wikipedia/commons/a/a4/Mimosa_pudica_L._%28AM_AK348769%29.jpg"
-       caption="Mimosa Pudica specimen from New Zealand's Auckland Museum Herbarium" 
-       description="Mimosa Herbarium specimen"
+       caption="*Mimosa pudica* specimen from New Zealand's Auckland Museum Herbarium" 
+       description="*Mimosa* herbarium specimen"
        license="Public Domain"
        fit="contain">
 
