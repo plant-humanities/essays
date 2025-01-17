@@ -118,12 +118,12 @@ It is precisely the Sensitive Plant’s otherworldly capacity to feel that captu
 The adjoining map's slider tool reveals the Sensitive Plant’s current distribution overlaid onto its recorded native distribution across Southern and Central America, as well as the Caribbean. A diversity of relationships with the Sensitive Plant occurs across the globe, shaped in no small part by legacies of capitalism, experimentation, and colonialism. Today in Europe, the Sensitive Plant is available as a houseplant and (more rarely) as a supplement, but it has also taken on gendered cultural connotations across diverse regions of the European continent.[^36] Consider that its Dutch name (*Kruidje roer me niet*) has come to colloquially refer to an overly sensitive or touchy person. Although the Sensitive Plant was never adopted into mainstream medicinal practice in Europe, its presence advanced debates about what it meant to be alive and intelligent. Today, the plant maintains medicinal contexts in which it acts not just for human bodies, but also on human bodies — from commercialization as a supplement, to use in Ayurvedic medicine and in current propositions to expand healthcare coverage through herbalism in Brazil.[^37]
 <param ve-compare 
        src="gh:plant-humanities/media/mimosa-pudica/Distribution Map 1.png"
-       caption="*Mimosa pudica*: Native Distribution vs. Current Distribution" 
-       description="map by CABI Data"
+       caption="*Mimosa pudica*: Native Distribution vs. Current Distribution. Map by CABI Data" 
+       description="Map by CABI Data"
        license="CC BY-NA-SA 4.0">
 <param ve-compare 
        src="gh:plant-humanities/media/mimosa-pudica/Distribution Map 2.png"
-       description="map by CABI Data"
+       description="Map by CABI Data"
        license="CC BY-NC-SA 4.0">
 
 Across herbalist traditions, various parts of the Sensitive Plant are used, including its leaves, seeds, flowers, and roots.[^38] Transoceanic dispersal of the its seeds led to its “naturalization” throughout tropical and subtropical India. This resulted in Ayurvedic use of the plant under the Sanskrit name *lajjalu*, in addition to other locally specific herbal remedies in Suriname, Trinidad, and Tobago.[^39] With the rise of online herbalist communities, the Sensitive Plant is lauded for its Ayurvedic uses, which range from cosmetic, digestive, and endocrine to neurological and psychospiritual. However, appropriation within online herbalist communities can mean that treatment information is sometimes shared without cultural context. While noncommercialized community herbalist approaches generally emphasize cultivating relationships with plants to understand their properties, this tradition has been disrupted by the mechanization of plants. Long (and ongoing) traditions of European bioprospecting and the reduction of plants into compounds have left many people with the impression that plants function medicinally as a kind of naturally occurring pill, rather than as part of a multispecies relationship with social and ethical responsibilities.[^40]
