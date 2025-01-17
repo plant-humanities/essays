@@ -99,7 +99,7 @@ With Nehemiah Cleaveland’s 1849 translation of *Les Fleurs Animées* into Engl
 Visual representations of beauty, sensitivity, and class that use the Sensitive Plant show us how its cultural associations in Europe were entangled, from the start, with its scientific perceptions. Far from being separate realms, science influenced the European public’s ideas of what the plant was. In the May 1829 issue of the French fashion magazine *Petit Courrier des Dames*, *Mimosa* leaves and branches are advertised as a potential accessory for muslin and tulle dresses. As the plant grew poorly or not at all in European outdoor climes, these branchy fragments would have been a challenging and costly acquisition for most European women. Nineteenth-century associations of the Sensitive Plant, including its racialization within cultural works, cannot be divorced from economic, class, and imperial contexts — particularly because of the plant’s inaccessibility for any European without access to a hothouse, seeds, or samples of the plant from abroad.
 <param ve-image 
        src="gh:plant-humanities/media/mimosa-pudica/Petit Courrier des Dames.png"
-       caption="*Mimosa* branches decorating a woman's hat in Petit Courrier des Dames, 1829" 
+       caption="*Mimosa* branches decorating a woman's hat in *Petit Courrier des Dames*, 1829" 
        description="Petit Courrier des Dames, 20 May 1829, No. 639 : Modes de Longchamps... - 1829 - Rijksmuseum, Netherlands - Public Domain.
 https://www.europeana.eu/item/90402/RP_P_2005_515_61?lang=en"
        license="Petit Courrier des Dames, 20 May 1829, No. 639 : Modes de Longchamps... - 1829 - Rijksmuseum, Netherlands - Public Domain.
