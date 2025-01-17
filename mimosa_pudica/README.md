@@ -52,7 +52,7 @@ When John Layfield first encountered the Sensitive Plant in Puerto Rico in the l
 <param ve-image
        src="gh:plant-humanities/media/mimosa-pudica/Ibbetson.png"
        caption="*Journal of Natural Philosophy, Chemistry & the Arts* (Nicholson's Journal), page 114"
-       description="Digitized copy found on Biodiversity Heritage Library"
+       description="Digitized copy found on Biodiversity Heritage Library, https://www.biodiversitylibrary.org/item/15590#page/7/mode/1up"
        license="Public Domain"
        fit="contain">
 
