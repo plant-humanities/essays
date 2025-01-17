@@ -21,6 +21,7 @@ This essay provides an approachable overview of herbarium specimens and how they
 # Featured Plant Narratives 
 `.cards`
 
+
 ## The Sensitive Plant: Meaning and Movement
 [The Sensitive Plant: Meaning and Movement](mimosa_pudica)
 
@@ -149,6 +150,13 @@ This essay provides an approachable overview of herbarium specimens and how they
 - Elaine Savory
 
 ![](https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/breadfruit.jpg)
+
+## The Broad-Leaf Bark: Friend or Foe?
+[The Broad-Leaf Bark: Friend or Foe?](Paperbark)
+
+- Bethany Kidd and Sierra Roark
+
+!![](https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/paperbark.jpg)
 
 ## Cacao: Indigenous Network to Global Commodity
 [Cacao: Indigenous Network to Global Commodity](cacao)
