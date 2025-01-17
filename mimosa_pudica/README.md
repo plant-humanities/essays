@@ -83,7 +83,7 @@ Late-eighteenth- and nineteenth-century depictions of gender by colonial powers 
        fit="contain">
 <param ve-image 
        src="gh:plant-humanities/media/mimosa-pudica/Emma Hamilton stipple engraving.png"
-       caption="Emma Hamilton in an attitude towards a *Mimosa* plant, causing it to demonstrate sensibility. Stipple engraving by R. Earlom, 1789, after G. Romney" 
+       caption="Emma Hamilton in an attitude towards a *Mimosa* plant, causing it to demonstrate sensibility" 
        description="Engraving by R. Earlom"
        license="CC BY 4.0"
        fit="contain">
