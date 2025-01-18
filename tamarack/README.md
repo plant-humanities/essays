@@ -1,4 +1,5 @@
 <a href="https://www.juncture-digital.org"><img src="https://juncture-digital.github.io/juncture/static/images/ve-button.png"></a>
+
 <param ve-config 
        title="What We Know Now: Tracing the Tamarack"
        source-image="https://upload.wikimedia.org/wikipedia/commons/4/4b/Crowns_of_Siberian_larch_in_winter.jpg"
@@ -15,7 +16,7 @@ One [Ojibwe](https://pluralism.org/anishinaabe-ojibwe-ways) legend tells of a lo
        caption="Tamarack Tree needles turn a golden yellow in autumn. Image source: Wikimedia Commons"
        fit="cover">
 
-As Ojibwe author Anne M. Dunn writes in her book, *Fire in the Village: New and Selected Stories*,[^ref1] Wenabozho promises the Tamarack,
+As Ojibwe author Anne M. Dunn writes in her book, *Fire in the Village: New and Selected Stories*,[^1] Wenabozho promises the Tamarack,
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/4f/Through_the_year_with_birds_and_poets_%28poems%29%3B_%281900%29_%2814564594379%29.jpg"
        label="Ojibwe stories help show the interconnectedness and relationships between species, an ideology fundamental to many indigenous philosophies. Image source: Wikimedia Commons">
 
