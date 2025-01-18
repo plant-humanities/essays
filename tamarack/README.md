@@ -39,7 +39,9 @@ The needles of each Tamarack meet the ground every autumn, golden and crisp, mar
        fit="cover">
 
 These become places we can begin to understand more fully through [Traditional Ecological Knowledge](https://blog.ucsusa.org/science-blogger/the-importance-of-traditional-ecological-knowledge-tek-when-examining-climate-change/) (TEK) and stories in addition to the plant’s biology. Plant knowledge held through the oral traditions of Indigenous peoples compels us to view plants as living archives rather than simply specimens, a shift in perspective that is necessary to understand how to use plants for ecological design and restoration. With its rich roots and spiny branches covering most of New England, the tree’s seasonal qualities could become a symbol for the conservation of America’s wetlands.
-<param ve-image label="View of a forested Tamarack tree, from below. Image source: Flickr" url="pexel_tamarack low angle.jpg">
+<param ve-image
+       src="gh:plant-humanities/media/tamarack/Tamarack-Low-Angle.jpg"
+       label="View of a forested Tamarack tree, from below. Image source: Flickr">
 
 The Tamarack tree species belongs to the genus *Larix* in western botanical nomenclature and is known by many names across different regions. In North America, the common name Tamarack refers to the American Larch *(Larix laricina)*, also known as the Eastern Larch and Hackmatack. The other ten widely accepted species in the same genus are generally referred to as Larch trees. This narrative focuses on the characteristics of the Tamarack, while also introducing other Larch species to compare their significances within indigenous cultures across different regions globally. 
 <param ve-video vid="L3ApTi-6iNM">
