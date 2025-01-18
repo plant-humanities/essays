@@ -82,8 +82,8 @@ Larches grow old, but not alone. Like most forest trees, the Larch is part of a 
 
 Among the three North American species, [ectomycorrhizal fungi](https://www.youtube.com/watch?v=SrKMhSNWPAw&t=3s) are often found burrowing in their tree roots; these microorganisms are essential for 90 percent of all temperate and boreal forest trees for nutrient cycling, plant health, decomposition, and carbon sequestration.[^ref11]
 <param ve-image 
-       url="small_diagram_michorrizal fungi in tamarack roots_.png" 
-       label="Ectomychorrhizal Activity within 1-2mm of soil directly surrounding a root, an area called the Rhizosphere. Illustration by Author.">
+       src="gh:plant-humanities/media/tamarack/Diagram of Michorrizal Fungi in Tamarack Roots.png" 
+       caption="Ectomychorrhizal Activity within 1-2mm of soil directly surrounding a root, an area called the Rhizosphere. Illustration by Author.">
 
 One need not look far into New England’s temperate forests in the fall before seeing the golden cloak of Tamarack needles. In an urban context, 169 Larches representing six species, including the Tamarack, currently thrive at the <span data-mouseover-map-flyto="42.29866800637251, -71.12696103381026, 8">Arnold Arboretum</span> in Boston. The Arboretum has documented each of the trees’ provenance, tracing their place of origin as a seed from Siberia, Mongolia, and Russia to Western Sichuan, China, to Central Europe and the Pacific Northwestern United States. Many of the trees arrived as seeds, shipped from other continents in the 1800s to exhibit *Larix’s* diversity of species. Botanists were confident these non-native species would thrive alongside the Tamarack in the New England climate due to similar growing conditions in east Asia.[^ref12]
 <param ve-map center="Q568666" 
