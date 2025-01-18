@@ -123,12 +123,14 @@ Enter [Charles Sprague Sargent](Q1066128), a leading American botanist, conserva
 
 Sargent’s interest in Asian species was primarily scientific, though he also counted on the endeavors of botanists seeking to introduce new plants to nurseries for commercial purposes. This is how he met E. H. Wilson, who had been collecting seeds for a large nursery in England called Veitch & Sons. Wilson provided much of the text for *Plantae Wilsonianae*, an account of the species native to Western Sichuan, the seeds of which Wilson sent to Sargent for the Arboretum. Many of the species that grow in Boston’s soil today originated from expeditions such as Wilson’s. 
 <param ve-image
-       label="E. H. Wilson and his collecting team on a houseboat, traveling the rivers of Chengdu. Source: Arnold Arboretum Stories"
-       url="291170-4512874-cropped-scaled.jpg">
+       src="gh:plant-humanities/media/tamarack/Wilson and Collecting Team on Chengdu River.jpg"
+       caption="E. H. Wilson and his collecting team on a houseboat, traveling the rivers of Chengdu. Source: Arnold Arboretum Stories">
 
-Wilson referred to Chinese Larch *(Larix potaninii)*, noting its “decidedly handsome and striking” qualities.[^ref21] He writes of the tree’s practical use for construction as a valuable timber in the western Sichuan region.[^ref22] As Sylvia Barry Sutton, the author of Sargent’s biography, writes: “One is thankful, finally, that it was Wilson and not Sargent who explored China, because it is unlikely that Sargent would have written about anything but the flora.”[^ref23] Indeed, Wilson was interested in much more than the species itself, although he did not mention any of the traditional uses of the Chinese Larch. 
+Wilson referred to Chinese Larch (*Larix potaninii*), noting its “decidedly handsome and striking” qualities.[^21] He writes of the tree’s practical use for construction as a valuable timber in the western Sichuan region.[^22] As Sylvia Barry Sutton, the author of Sargent’s biography, writes: “One is thankful, finally, that it was Wilson and not Sargent who explored China, because it is unlikely that Sargent would have written about anything but the flora.”[^23] Indeed, Wilson was interested in much more than the species itself, although he did not mention any of the traditional uses of the Chinese Larch. 
 <param ve-entity eid="Q135471" title="Larix potaninii">
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/db/Pseudolarix_kaempferi_4zz.jpg" label="Chinese Larch, 'Pseudolarix kaempferi.' Image Source: Wikimedia Commons">
+<param ve-image
+       src="wc:Pseudolarix_kaempferi_4zz.jpg" 
+       caption="Chinese Larch, *Pseudolarix kaempferi*. Image Source: Wikimedia Commons">
 
 ### Traditional Uses of the Tamarack
 “Narratives of all kinds—stories, tales, and rumors—are the stuff of ideas—concepts and hypotheses—and the stuffing of history,” write the authors of [*Dirt*](https://mitpress.mit.edu/9780262516921/dirt/).[^ref24] But how do we cite, record, and archive oral histories, especially when such stories have been nearly eradicated through colonial and extractive forces? The Tamarack tree, as a living archive, could be one answer. Indigenous groups and shamans have harnessed its bark, sap, and needles for medicinal purposes for over 3,000 years. The long, spindly form of *Larix siberica* has ties to spiritual worlds of nomadic groups in northern Asia, and local water management organizations have recognized the Tamarack for its role in stabilizing wetlands across the midwestern United States.[^ref25]
