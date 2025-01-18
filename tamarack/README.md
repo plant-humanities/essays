@@ -110,8 +110,8 @@ Several Western botanists who traveled the globe attempted to document and class
 
 The first classification of North American Larch trees in botanical science dates to when French botanist André Michaux traveled to the newly formed United States in 1785, with a mission of bringing trees home constructing ships for the French Navy.[^16] Following in his father’s footsteps, Francois André Michaux became a successful botanist and traveler, who continued to document American plant life.[^17] He published *The North American Sylva; or, A Description of the Forest Trees of the United States, Canada, and Nova Scotia*, in three volumes.[^18] Francois André later managed farmland in France, pursuing his interest in the cultivation of trees grown from the seeds he collected in North America. The work of both father and son provided a strong base upon which American botanists were to build scientific knowledge of *Larix* species for the next century.
 <param ve-image
-       src="wc:F._Andrew_Michaux_(NYPL_Hades-255839-EM12361A),jpg"
-       caption="Francois-Andre Michaux"
+       src="wc:F._Andrew_Michaux_%28NYPL_Hades-255839-EM12361A%29.jpg"
+       caption="Francois-Andre Michaux">
 <param ve-image
        src="wc:NAS-153_Larix_laricina.png"
        caption="Illustration of Larix laricina in Michaux's taxonomy, illustrated by Pancrace Bessa.">
