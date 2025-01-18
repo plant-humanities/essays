@@ -92,7 +92,7 @@ One need not look far into New England’s temperate forests in the fall before 
        prefer-geojson 
        basemap="Esri_WorldPhysical">
 <param ve-map-layer geojson
-       url="https://raw.githubusercontent.com/hehardenbergh/larix/refs/heads/main/mapgraphics.json"
+       url="https://raw.githubusercontent.com/genieyoo818/plant-humanities/refs/heads/tamarack/tamarack/mapgraphics.json"
        show-labels
        stroke-width="1">
 
