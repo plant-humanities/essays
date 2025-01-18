@@ -64,12 +64,9 @@ Larch trees belong to the pine family and are native to the northern hemisphere 
 
 Each tamarack species prefers distinct growing conditions. In the Pacific Northwest, long swaths of gold needles from Western Larch ((*Larix occidentalis*)[Q576585]) cover the sunny mountainsides, depending on snowmelt to carry nutrients and water to its roots in early summer. The Tamarack, or American Larch (*Larix laricina*), can be found in wet soil along wetlands and bogs across the Northern Hemisphere in Canada and the northeastern United States. Its prominent Asian counterparts are *Larix siberica*, which has inhabited the Northern taiga in Siberia, and *potaninii* and *kaempferi*, found in the temperate forests in China and Japan, respectively.[^10]
 <param ve-entity eid="Q576585" title="Larix occidentalis">
-<param ve-plant-specimen 
-       jpid="10.5555/al.ap.specimen.p00662193"
-       max="1">
 <param ve-image 
        src="gh:plant-humanities/media/tamarack/Larix Specimen from the Smithsonian.jpg>
-<param ve-image 
+<param ve-image
        src="wc:Japanese_Larch_Larix_kaempferi_Cone_and_Needles_3008px.jpg">
 
 Larches grow old, but not alone. Like most forest trees, the Larch is part of a network of living systems. Even though most live for about 200 years, and the European Larch has been reported to live as long as 2,000 years, almost all grow among other tree species. They often grow in pure stands and occasionally as an understory tree to other conifers. Insects and small mammals consume the tree’s bark and needles. Often, ospreys will choose to nest in its crown. 
