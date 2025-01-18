@@ -9,18 +9,18 @@
        layout="vertical">
 
 ### Introduction
-One [Ojibwe](https://pluralism.org/anishinaabe-ojibwe-ways) legend tells of a lone chickadee who sought shelter under a Tamarack tree in winter. During a fierce storm, the chickadee was cold, trapped, and alone. Chickadee asked the Tamarack tree to lower its branches for warmth, but the tree refused. For this, the Great Spirit, [*Wenabozho*](Q833857), punished the Tamarack. 
+One [Ojibwe](https://pluralism.org/anishinaabe-ojibwe-ways) legend tells of a lone chickadee who sought shelter under a Tamarack tree in winter. During a fierce storm, the chickadee was cold, trapped, and alone. Chickadee asked the Tamarack tree to lower its branches for warmth, but the tree refused. For this, the Great Spirit, [Wenabozho](Q833857), punished the Tamarack. 
 <param ve-entity eid="Q833857" title="Wenabozho">
 <param ve-image 
        src="wc:Larix_sibirica_with_golden_foliage.jpg"
        caption="Tamarack Tree needles turn a golden yellow in autumn. Image source: Wikimedia Commons"
        fit="cover">
 
-As Ojibwe author Anne M. Dunn writes in her book, *Fire in the Village: New and Selected Stories*,[^ref1] *Wenabozho* promises the Tamarack,
+As Ojibwe author Anne M. Dunn writes in her book, *Fire in the Village: New and Selected Stories*, Wenabozho promises the Tamarack,
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/4f/Through_the_year_with_birds_and_poets_%28poems%29%3B_%281900%29_%2814564594379%29.jpg"
        label="Ojibwe stories help show the interconnectedness and relationships between species, an ideology fundamental to many indigenous philosophies. Image source: Wikimedia Commons">
 
-> *“Every autumn, your fine green needles will turn brown and fall off. Then you will stand naked in the forest all winter, as a reminder to others that it is always better to be kind and merciful than it is to be vain and selfish.”*
+> *“Every autumn, your fine green needles will turn brown and fall off. Then you will stand naked in the forest all winter, as a reminder to others that it is always better to be kind and merciful than it is to be vain and selfish.”*[^1]
 
 In the telling of the story, the Tamarack becomes a signifier of something larger than itself, the ephemeral nature of life on earth, and the reciprocity that living beings should practice and nurture.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/4f/Through_the_year_with_birds_and_poets_%28poems%29%3B_%281900%29_%2814564594379%29.jpg"
