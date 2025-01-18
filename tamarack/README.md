@@ -68,8 +68,9 @@ Each tamarack species prefers distinct growing conditions. In the Pacific Northw
        jpid="10.5555/al.ap.specimen.p00662193"
        max="1">
 <param ve-image 
-       url="larix_specimen_smithsonian.jpg">
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/12/Japanese_Larch_Larix_kaempferi_Cone_and_Needles_3008px.jpg">
+       src="gh:plant-humanities/media/tamarack/Larix Specimen from the Smithsonian.jpg>
+<param ve-image 
+       src="wc:Japanese_Larch_Larix_kaempferi_Cone_and_Needles_3008px.jpg">
 
 Larches grow old, but not alone. Like most forest trees, the Larch is part of a network of living systems. Even though most live for about 200 years, and the European Larch has been reported to live as long as 2,000 years, almost all grow among other tree species. They often grow in pure stands and occasionally as an understory tree to other conifers. Insects and small mammals consume the tree’s bark and needles. Often, ospreys will choose to nest in its crown. 
 <param ve-compare url="portraitlarchesinwinter.jpeg" fit="cover" label="Swipe across images to view the conditions of the European Larch, 'Larix decidua,' in winter and in summer. Image sources: Wikimedia Commons">
