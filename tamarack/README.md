@@ -24,16 +24,19 @@ As Ojibwe author Anne M. Dunn writes in her book, *Fire in the Village: New and 
 > *“Every autumn, your fine green needles will turn brown and fall off. Then you will stand naked in the forest all winter, as a reminder to others that it is always better to be kind and merciful than it is to be vain and selfish.”*
 
 In the telling of the story, the Tamarack becomes a signifier of something larger than itself, the ephemeral nature of life on earth, and the reciprocity that living beings should practice and nurture.
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/4f/Through_the_year_with_birds_and_poets_%28poems%29%3B_%281900%29_%2814564594379%29.jpg"
-       label="Ojibwe stories help show the interconnectedness and relationships between species, an ideology fundamental to many indigenous philosophies. Image source: Wikimedia Commons">
+<param ve-image 
+       src="wc:Through_the_year_with_birds_and_poets_%28poems%29;_%281900%29_%2814564594379%29.jpg"
+       caption="Ojibwe stories help show the interconnectedness and relationships between species, an ideology fundamental to many indigenous philosophies. Image source: Wikimedia Commons">
 
-The needles of each Tamarack meet the ground every autumn, golden and crisp, marking the passage of time. Its lively expression in October is brief and wondrous. <span data-mouseover-image-zoomto="345,454,858,739">Vibrant fuchsia cones</span> and <span data-mouseover-image-zoomto="493,1015,715,616">baby-green needles</span> are part of the cycle of new growth in spring. This and the Tamarack’s “wind-swept sweetness” define the character of the landscapes where it grows.[^ref2] 
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/4b/Larix_laricina_15-p.bot-larix.lari-19.jpg"
-       fit="cover"
-       label="Cones develop around 25 years after Tamarack trees first sprout. Image Source: iNaturalist.org">
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pseudolarix_amabilis_02.jpg"
-       fit="cover" 
-       label="New spring needles on the Golden Larch, 'Pseudolarix amabilis.' Image source: Wikimedia Commons">
+The needles of each Tamarack meet the ground every autumn, golden and crisp, marking the passage of time. Its lively expression in October is brief and wondrous. <span data-mouseover-image-zoomto="345,454,858,739">Vibrant fuchsia cones</span> and <span data-mouseover-image-zoomto="493,1015,715,616">baby-green needles</span> are part of the cycle of new growth in spring. This and the Tamarack’s “wind-swept sweetness” define the character of the landscapes where it grows.[^2] 
+<param ve-image 
+       src="wc:Larix_laricina_15-p.bot-larix.lari-19.jpg"
+       caption="Cones develop around 25 years after Tamarack trees first sprout. Image Source: iNaturalist.org"
+       fit="cover">
+<param ve-image 
+       src="wc:Pseudolarix_amabilis_02.jpg" 
+       label="New spring needles on the Golden Larch, *Pseudolarix amabilis*. Image source: Wikimedia Commons"
+       fit="cover">
 
 These become places we can begin to understand more fully through [Traditional Ecological Knowledge](https://blog.ucsusa.org/science-blogger/the-importance-of-traditional-ecological-knowledge-tek-when-examining-climate-change/) (TEK) and stories in addition to the plant’s biology. Plant knowledge held through the oral traditions of Indigenous peoples compels us to view plants as living archives rather than simply specimens, a shift in perspective that is necessary to understand how to use plants for ecological design and restoration. With its rich roots and spiny branches covering most of New England, the tree’s seasonal qualities could become a symbol for the conservation of America’s wetlands.
 <param ve-image label="View of a forested Tamarack tree, from below. Image source: Flickr" url="pexel_tamarack low angle.jpg">
