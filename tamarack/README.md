@@ -68,7 +68,7 @@ Each tamarack species prefers distinct growing conditions. In the Pacific Northw
        jpid="10.5555/al.ap.specimen.p00662193"
        max="1">
 <param ve-image 
-       src="gh:plant-humanities/media/tamarack/Larix Specimen.jpg
+       src="gh:plant-humanities/media/tamarack/Larix Specimen.jpg"
        caption="*Larix* specimen from the Smithsonian.>
 <param ve-image
        src="wc:Japanese_Larch_Larix_kaempferi_Cone_and_Needles_3008px.jpg">
