@@ -69,7 +69,7 @@ Each tamarack species prefers distinct growing conditions. In the Pacific Northw
        max="1">
 <param ve-image 
        src="gh:plant-humanities/media/tamarack/Larix Specimen.jpg"
-       caption="*Larix* specimen from the Smithsonian.>
+       caption="*Larix* specimen from the Smithsonian.">
 <param ve-image
        src="wc:Japanese_Larch_Larix_kaempferi_Cone_and_Needles_3008px.jpg">
 
@@ -80,7 +80,7 @@ Larches grow old, but not alone. Like most forest trees, the Larch is part of a 
 <param ve-compare 
        src="wc:Larix_decidua_Modrzew_europejski_2023-06-25_01.jpg">
 
-Among the three North American species, [ectomycorrhizal fungi](https://www.youtube.com/watch?v=SrKMhSNWPAw&t=3s) are often found burrowing in their tree roots; these microorganisms are essential for 90 percent of all temperate and boreal forest trees for nutrient cycling, plant health, decomposition, and carbon sequestration.[^ref11]
+Among the three North American species, [ectomycorrhizal fungi](https://www.youtube.com/watch?v=SrKMhSNWPAw&t=3s) are often found burrowing in their tree roots; these microorganisms are essential for 90 percent of all temperate and boreal forest trees for nutrient cycling, plant health, decomposition, and carbon sequestration.[^11]
 <param ve-image 
        src="gh:plant-humanities/media/tamarack/Diagram of Michorrizal Fungi in Tamarack Roots.png" 
        caption="Ectomychorrhizal Activity within 1-2mm of soil directly surrounding a root, an area called the Rhizosphere. Illustration by Author.">
