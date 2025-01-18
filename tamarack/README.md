@@ -19,7 +19,8 @@ One [Ojibwe](https://pluralism.org/anishinaabe-ojibwe-ways) legend tells of a lo
 As Ojibwe author Anne M. Dunn writes in her book, *Fire in the Village: New and Selected Stories*,[^1] Wenabozho promises the Tamarack,
 <param ve-image 
        src="wc:Through_the_year_with_birds_and_poets_%28poems%29;_%281900%29_%2814564594379%29.jpg"
-       caption="Ojibwe stories help show the interconnectedness and relationships between species, an ideology fundamental to many indigenous philosophies. Image source: Wikimedia Commons">
+       caption="Ojibwe stories help show the interconnectedness and relationships between species, an ideology fundamental to many indigenous philosophies."
+       description="Image source: Wikipedia Commons">
 
 > *“Every autumn, your fine green needles will turn brown and fall off. Then you will stand naked in the forest all winter, as a reminder to others that it is always better to be kind and merciful than it is to be vain and selfish.”*
 
