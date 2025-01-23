@@ -13,7 +13,7 @@ One [Ojibwe](https://pluralism.org/anishinaabe-ojibwe-ways) legend tells of a lo
 <param ve-image 
        src="wc:Larix_sibirica_with_golden_foliage.jpg"
        caption="Tamarack Tree needles turn a golden yellow in autumn."
-       description="Tamarack Tree needles turn a golden yellow in autumn. Image source: Wikimedia Commons"
+       description="Image source: Wikimedia Commons"
        fit="contain">
 
 As Ojibwe author Anne M. Dunn writes in her book, *Fire in the Village: New and Selected Stories*,[^1] Wenabozho promises the Tamarack,
@@ -27,7 +27,8 @@ As Ojibwe author Anne M. Dunn writes in her book, *Fire in the Village: New and 
 In the telling of the story, the Tamarack becomes a signifier of something larger than itself, the ephemeral nature of life on earth, and the reciprocity that living beings should practice and nurture.
 <param ve-image 
        src="wc:Through_the_year_with_birds_and_poets_%28poems%29;_%281900%29_%2814564594379%29.jpg"
-       caption="Ojibwe stories help show the interconnectedness and relationships between species, an ideology fundamental to many indigenous philosophies. Image source: Wikimedia Commons">
+       caption="Ojibwe stories help show the interconnectedness and relationships between species, an ideology fundamental to many indigenous philosophies. Image source: Wikimedia Commons"
+       description="Image source: Wikipedia Commons">
 
 The needles of each Tamarack meet the ground every autumn, golden and crisp, marking the passage of time. Its lively expression in October is brief and wondrous. [Vibrant fuchsia cones](/zoomto/345,454,858,739) and [baby-green needles](/zoomto/493,1015,715,616) are part of the cycle of new growth in spring. This and the Tamarack’s “wind-swept sweetness” define the character of the landscapes where it grows.[^2] 
 <param ve-image 
