@@ -77,19 +77,23 @@ Each tamarack species prefers distinct growing conditions. In the Pacific Northw
        src="gh:plant-humanities/media/tamarack/Larix Specimen.jpg"
        caption="*Larix* specimen from the Smithsonian.">
 <param ve-image
-       src="wc:Japanese_Larch_Larix_kaempferi_Cone_and_Needles_3008px.jpg">
+       src="wc:Japanese_Larch_Larix_kaempferi_Cone_and_Needles_3008px.jpg"
+       caption="Japanese Larch, cone and needles."
+       description="Image source: Wikimedia Commons">
 
 Larches grow old, but not alone. Like most forest trees, the Larch is part of a network of living systems. Even though most live for about 200 years, and the European Larch has been reported to live as long as 2,000 years, almost all grow among other tree species. They often grow in pure stands and occasionally as an understory tree to other conifers. Insects and small mammals consume the tree’s bark and needles. Often, ospreys will choose to nest in its crown. 
 <param ve-compare 
        src="gh:plant-humanities/media/tamarack/Larches in Winter.jpg" 
-       caption="Swipe across images to view the conditions of the European Larch, *Larix decidua*, in winter and in summer. Image sources: Wikimedia Commons">
+       caption="Swipe across images to view the conditions of the European Larch, *Larix decidua*, in winter and in summer." 
+       description="Image sources: Wikimedia Commons">
 <param ve-compare 
        src="wc:Larix_decidua_Modrzew_europejski_2023-06-25_01.jpg">
 
 Among the three North American species, [ectomycorrhizal fungi](https://www.youtube.com/watch?v=SrKMhSNWPAw&t=3s) are often found burrowing in their tree roots; these microorganisms are essential for 90 percent of all temperate and boreal forest trees for nutrient cycling, plant health, decomposition, and carbon sequestration.[^11]
 <param ve-image 
        src="gh:plant-humanities/media/tamarack/Diagram of Michorrizal Fungi in Tamarack Roots.png" 
-       caption="Ectomychorrhizal Activity within 1-2mm of soil directly surrounding a root, an area called the Rhizosphere. Illustration by Author.">
+       caption="Ectomychorrhizal Activity within 1-2mm of soil directly surrounding a root, an area called the Rhizosphere. Illustration by Author."
+       description="Illustration by Hannah Hardenbergh">
 
 One need not look far into New England’s temperate forests in the fall before seeing the golden cloak of Tamarack needles. In an urban context, 169 Larches representing six species, including the Tamarack, currently thrive at the <span data-mouseover-map-flyto="42.29866800637251, -71.12696103381026, 8">Arnold Arboretum</span> in Boston. The Arboretum has documented each of the trees’ provenance, tracing their place of origin as a seed from Siberia, Mongolia, and Russia to Western Sichuan, China, to Central Europe and the Pacific Northwestern United States. Many of the trees arrived as seeds, shipped from other continents in the 1800s to exhibit *Larix’s* diversity of species. Botanists were confident these non-native species would thrive alongside the Tamarack in the New England climate due to similar growing conditions in east Asia.[^12]
 <param ve-map center="Q568666" 
