@@ -140,8 +140,7 @@ Sargent’s interest in Asian species was primarily scientific, though he also c
        caption="E. H. Wilson and his collecting team on a houseboat, traveling the rivers of Chengdu."
        description="Source: Arnold Arboretum Stories">
 
-Wilson referred to Chinese Larch (*Larix potaninii*), noting its “decidedly handsome and striking” qualities.[^21] He writes of the tree’s practical use for construction as a valuable timber in the western Sichuan region.[^22] As Sylvia Barry Sutton, the author of Sargent’s biography, writes: “One is thankful, finally, that it was Wilson and not Sargent who explored China, because it is unlikely that Sargent would have written about anything but the flora.”[^23] Indeed, Wilson was interested in much more than the species itself, although he did not mention any of the traditional uses of the Chinese Larch. 
-<param ve-entity eid="Q135471" title="Larix potaninii">
+Wilson referred to Chinese Larch (*[Larix potaninii](Q135471)*), noting its “decidedly handsome and striking” qualities.[^21] He writes of the tree’s practical use for construction as a valuable timber in the western Sichuan region.[^22] As Sylvia Barry Sutton, the author of Sargent’s biography, writes: “One is thankful, finally, that it was Wilson and not Sargent who explored China, because it is unlikely that Sargent would have written about anything but the flora.”[^23] Indeed, Wilson was interested in much more than the species itself, although he did not mention any of the traditional uses of the Chinese Larch. 
 <param ve-image
        src="wc:Pseudolarix_kaempferi_4zz.jpg" 
        caption="Chinese Larch, *Pseudolarix kaempferi*."
@@ -169,7 +168,7 @@ In addition to its medicinal uses known to both First Nations and traditional Ch
 
 Shamanic traditions that center on the Larch tree continue today, including securing ribbons to the tree trunk to symbolize a myriad of offerings for the spirits.[^31] Thousands of Siberian Larches dot the shores of [Lake Baikal](Q5513), where the Buryat people live, another nomadic clan in the Siberian region. Their offerings are tied to the ancient tree's branches, reaching toward the sun in search of nutrients, and passing down knowledge from the spirits above. 
 <param ve-image
-       src="Spirits_Of_Shamanism_(173117241).jpeg"
+       src="Spirits_Of_Shamanism_(173117241).jpg"
        caption="Spiritual poles on lake Baikal in Khuzhir, Russia. Image source: Wikimedia Commons">
 
 The North Asian Reindeer-Evenki are a small nomadic group of 200 people whose culture is in danger of extinction. They continue to practice traditional ways of life including having their shaman as a “mediator between human society and the world of spirits.”[^32] Under shamans’ leadership, the clan, or *kala* in Tungus northern dialect, developed a system of beliefs whereby the spirits of the upper world cause all events in nature, including births and deaths.[^33] *Tuuru* is the physical symbol of how the spirits travel between worlds and is, therefore, one of the cornerstones of Evenki cosmology.
