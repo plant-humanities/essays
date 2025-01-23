@@ -147,8 +147,7 @@ Wilson referred to Chinese Larch (*[Larix potaninii](Q135471)*), noting its “d
        description="Image Source: Wikimedia Commons">
 
 ### Traditional Uses of the Tamarack
-“Narratives of all kinds—stories, tales, and rumors—are the stuff of ideas—concepts and hypotheses—and the stuffing of history,” write the authors of [*Dirt*](https://mitpress.mit.edu/9780262516921/dirt/).[^24] But how do we cite, record, and archive oral histories, especially when such stories have been nearly eradicated through colonial and extractive forces? The Tamarack tree, as a living archive, could be one answer. Indigenous groups and shamans have harnessed its bark, sap, and needles for medicinal purposes for over 3,000 years. The long, spindly form of *Larix siberica* has ties to spiritual worlds of nomadic groups in northern Asia, and local water management organizations have recognized the Tamarack for its role in stabilizing wetlands across the midwestern United States.[^25]
-<param ve-entity eid="Q754765" title="Larix siberica">
+“Narratives of all kinds—stories, tales, and rumors—are the stuff of ideas—concepts and hypotheses—and the stuffing of history,” write the authors of [*Dirt*](https://mitpress.mit.edu/9780262516921/dirt/).[^24] But how do we cite, record, and archive oral histories, especially when such stories have been nearly eradicated through colonial and extractive forces? The Tamarack tree, as a living archive, could be one answer. Indigenous groups and shamans have harnessed its bark, sap, and needles for medicinal purposes for over 3,000 years. The long, spindly form of *[Larix siberica](Q754765)* has ties to spiritual worlds of nomadic groups in northern Asia, and local water management organizations have recognized the Tamarack for its role in stabilizing wetlands across the midwestern United States.[^25]
 <param ve-image
        src="wc:Western_Larch_(Larix_occidentalis)_--_young_leaves.jpg"
        caption="Needles growing from the branch of a Western Larch, *Larix occidentalis*." 
@@ -168,8 +167,9 @@ In addition to its medicinal uses known to both First Nations and traditional Ch
 
 Shamanic traditions that center on the Larch tree continue today, including securing ribbons to the tree trunk to symbolize a myriad of offerings for the spirits.[^31] Thousands of Siberian Larches dot the shores of [Lake Baikal](Q5513), where the Buryat people live, another nomadic clan in the Siberian region. Their offerings are tied to the ancient tree's branches, reaching toward the sun in search of nutrients, and passing down knowledge from the spirits above. 
 <param ve-image
-       src="Spirits_Of_Shamanism_(173117241).jpg"
-       caption="Spiritual poles on lake Baikal in Khuzhir, Russia. Image source: Wikimedia Commons">
+       src="gh:plant-humanities/media/tamarack/Spiritual Poles on Lake Baikal.jpeg"
+       caption="Spiritual poles on lake Baikal in Khuzhir, Russia." 
+       description="Image source: Wikimedia Commons">
 
 The North Asian Reindeer-Evenki are a small nomadic group of 200 people whose culture is in danger of extinction. They continue to practice traditional ways of life including having their shaman as a “mediator between human society and the world of spirits.”[^32] Under shamans’ leadership, the clan, or *kala* in Tungus northern dialect, developed a system of beliefs whereby the spirits of the upper world cause all events in nature, including births and deaths.[^33] *Tuuru* is the physical symbol of how the spirits travel between worlds and is, therefore, one of the cornerstones of Evenki cosmology.
 <param ve-image
