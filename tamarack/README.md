@@ -57,17 +57,19 @@ Among the Ojibwe Nation in the Great Lakes Region, the Tamarack is called *mshki
 Humanity’s fascination with trees has been expressed in many ways across time, from cosmology to botany to landscape design. Trees are often treated as both living organisms and botanical specimens through Indigenous rituals, traditional ecological knowledge, and Western scientific taxonomies.[^7] The legend of the Tamarack and the Chickadee illustrates how Indigenous storytelling can connect people to place through plant species. Tamarack trees and other *Larix* species are featured in many histories, inspiring us to think of how a palimpsest of narratives can inform the future of landscape and plant knowledge, and what role Indigenous knowledge can play in understanding living systems. 
 <param ve-image 
        src="wc:Tom_Thomson_Tamaracks.jpg" 
-       caption="'Tamarack Swamp,' by Tom Thomson, 1915. Oil on Panel. Private Collection, Vancouver. Image source: Wikimedia Commons">
+       caption="'Tamarack Swamp,' by Tom Thomson, 1915. Oil on Panel. Private Collection, Vancouver." 
+       description="Image source: Wikimedia Commons"
+       fit="contain">
 
 ### Characteristics and Habitat
 Larch trees belong to the pine family and are native to the northern hemisphere in North America, Europe, and Asia.[^8] Like most pine trees, they prefer colder climates. Unlike any other pine species, however, the Larch is deciduous. It stores nutrients in dormancy during winter, adapting to tough climates easily: without needles, branches are less likely to break from the weight of snow and the force of wind. It is also more fire resilient when new shoots emerge in the spring. Its roots are fibrous, shallow, and wide-reaching. The Larch is [monoecious](Q66368485) and produce cones at around 25 years of age.[^9] Tamaracks are a [pioneer species](Q927054), meaning after a large disturbance such as erosion, pollution, or fire causing other species to perish, the tree is known for aggressively colonizing those soils, being one of the first species to grow there. It is an extremely resilient plant species. Observing the growth patterns of Tamarack trees can signify unique traits of an ecosystem such as disturbances to a wetland or other historic climatic events.
 <param ve-image 
        src="gh:plant-humanities/media/tamarack/Larch Trees.jpg"
        fit="490,0,1557,1312" 
-       caption="Small wetland at the headwaters of Doe Run, a mountain stream in Loyalsock State Forest, Lycoming County Pennsylvania. Tamarack trees line the edge of the water. Image source: Wikimedia Commons">
+       caption="Small wetland at the headwaters of Doe Run, a mountain stream in Loyalsock State Forest, Lycoming County Pennsylvania. Tamarack trees line the edge of the water." 
+       description="Image source: Wikimedia Commons">
 
 Each tamarack species prefers distinct growing conditions. In the Pacific Northwest, long swaths of gold needles from Western Larch (*(Larix occidentalis)[Q576585]*) cover the sunny mountainsides, depending on snowmelt to carry nutrients and water to its roots in early summer. The Tamarack, or American Larch (*Larix laricina*), can be found in wet soil along wetlands and bogs across the Northern Hemisphere in Canada and the northeastern United States. Its prominent Asian counterparts are *Larix siberica*, which has inhabited the Northern taiga in Siberia, and *potaninii* and *kaempferi*, found in the temperate forests in China and Japan, respectively.[^10]
-<param ve-entity eid="Q576585" title="Larix occidentalis">
 <param ve-plant-specimen 
        jpid="10.5555/al.ap.specimen.p00662193"
        max="1">
