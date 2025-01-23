@@ -10,11 +10,11 @@
 
 ### Introduction
 One [Ojibwe](https://pluralism.org/anishinaabe-ojibwe-ways) legend tells of a lone chickadee who sought shelter under a Tamarack tree in winter. During a fierce storm, the chickadee was cold, trapped, and alone. Chickadee asked the Tamarack tree to lower its branches for warmth, but the tree refused. For this, the Great Spirit, [Wenabozho](Q833857), punished the Tamarack. 
-<param ve-entity eid="Q833857" title="Wenabozho">
 <param ve-image 
        src="wc:Larix_sibirica_with_golden_foliage.jpg"
-       caption="Tamarack Tree needles turn a golden yellow in autumn. Image source: Wikimedia Commons"
-       fit="cover">
+       caption="Tamarack Tree needles turn a golden yellow in autumn."
+       description="Tamarack Tree needles turn a golden yellow in autumn. Image source: Wikimedia Commons"
+       fit="contain">
 
 As Ojibwe author Anne M. Dunn writes in her book, *Fire in the Village: New and Selected Stories*,[^1] Wenabozho promises the Tamarack,
 <param ve-image 
