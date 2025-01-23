@@ -202,23 +202,26 @@ Design can represent the relationships between plants and by grouping certain sp
 The beautiful colors of Tamarack that are catalyzed by the seasonal cycle of decay and renewal make it an atypical choice for design projects. Yet, there are potential opportunities to consider the tree as a symbol to encourage wetland habitats across New England. Tamarack tree forests usually have a dense herbaceous layer and a somewhat full shrub layer, contributing to a rich ecosystem along [riparian zones](Q13360049).
 <param ve-image 
        src="gh:plant-humanities/media/tamarack/Larch Forest in Winter.jpg" 
-       caption="There is so much potential in curating a planting design that both benefits the ecosystem and creates unique aesthetic and textural moments that pleases the eye. For example, a single tree can create a punctum in the landscape. Planting large swaths of Tamarack trees to mimick their growing conditions in the natural environment can create a vastly different effect." 
-       description="Image source: Wikimedia Commons">
+       caption="A planting design that benefits the ecosystem and creates unique aesthetic and textural moments."
+       description="A single tree can create a punctum in the landscape. Planting large swaths of Tamarack trees to mimick their growing conditions in the natural environment can create a vastly different effect. Image source: Wikimedia Commons>" 
 
 Additionally, wetland habitats in the United States have been historically filled in to transform marshes into fields to sustain crops. At the time of European settlement, the United States had 221 million acres of wetlands. Generally viewed as wastelands in the 1700s, wetlands were drained by early colonizers by constructing ditches and rerouting waterways into canals to navigate to western regions.[^37] This manipulation of American watersheds continued through the Industrial Revolution and increased sharply in the 1900s through government-supported rebate programs for farmers for building levees, water-diversion projects, and dams. By the 1980s, 50 percent of these wetlands had disappeared.
 <param ve-image
        src="gh:plant-humanities/media/tamarack/Larch from the Park and the Forest 1841.jpg"
-       caption="Larch, from The Park and the Forest, 1841 lithograph. Source: Art Institute of Chicago">
+       caption="Larch, from The Park and the Forest, 1841 lithograph." 
+       description="Image Source: Art Institute of Chicago">
 
 Wetlands are incredibly biodiverse ecosystems that sustain the ecological health of each region. They enhance water quality, control erosion, sequester carbon, and provide crucial habitat for threatened species.[^38] The protection of American wetland regions began in the 1950s, slowly gaining pace; in the 1980s, federal agencies aided in restoring 90,000 acres in just three years. Tamaracks create a unique sense of place with their seasonal changes of color and dynamic dropping of needles in dense, marshy groves. A Tamarack growing at the water’s edge can also signify abundant moisture in the soil. Observing the conditions of a Tamarack and the distinct manners in which it grows can tell us a great deal about its larger environment and its role in the wetland ecosystem.
 <param ve-image
        src="wc:TamarackSwampNNL.jpg"
-       caption="Columbus Bog (also known as Sulphur Spring Bog), which is part of the Tamarack Swamp National Natural Landmark in Warren County, Pennsylvania">
+       caption="Columbus Bog (also Sulphur Spring Bog), a part of the Tamarack Swamp National Natural Landmark in Warren County, Pennsylvania."
+       description="Image Source: Wikimedia Commons">
 
 Due to these characteristics, the Tamarack could be the poster child of wetland restoration within the design disciplines. The associations it builds with soil, water, climate, and people are at the core of creating a functional and thriving wetland ecosystem. Drawing from Ojibwe stories about the Tamarack can incite a level of reciprocity and acknowledging the tree's role in a larger living network of beings, one which designers should protect and curate for the health of future wetland landscapes. To conserve marshes along the eastern coast and Great Lakes regions of the United States, the Tamarack could help highlight the significance and history of these landscapes.	
 <param ve-image
        src="gh:plant-humanities/media/tamarack/Wetland Sketch by Hannah Hardenbergh.png"
-       caption="The Tamarack: A Stabilizer for Ecological Communities. Illustration by Author">
+       caption="The Tamarack: A Stabilizer for Ecological Communities. Illustration by Author."
+       description="Illustration by Hannah Hardenbergh">
 
 ### References
 [^1]: Anne M. Dunn is a storyteller and descendant of the Ojibwe people. Her book, *Fire in the Village*, includes many short stories that are a mixture of traditional Ojibwe tales and modern storytelling, preserving an Indigenous perspective on the reciprocal understanding among living systems that predates Western botany. Dunn, Anne M., and Humphrey. A. *Fire in the Village: New and Selected Stories.* (Duluth, Minnesota: Holy Cow! Press, 2016), 14–15. The story is also recorded online by KKWE Niijii Radio, a community-based radio station located in White Earth, Minnesota, aimed to revitalize Native American cultures and traditions: https://beta.prx.org/stories/110294.
