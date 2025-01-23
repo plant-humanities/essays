@@ -174,33 +174,36 @@ Shamanic traditions that center on the Larch tree continue today, including secu
 The North Asian Reindeer-Evenki are a small nomadic group of 200 people whose culture is in danger of extinction. They continue to practice traditional ways of life including having their shaman as a “mediator between human society and the world of spirits.”[^32] Under shamans’ leadership, the clan, or *kala* in Tungus northern dialect, developed a system of beliefs whereby the spirits of the upper world cause all events in nature, including births and deaths.[^33] *Tuuru* is the physical symbol of how the spirits travel between worlds and is, therefore, one of the cornerstones of Evenki cosmology.
 <param ve-image
        src="wc:Khagdaev_02.jpg"
-       caption="Pictured is Valentin Hagdaev - the head shaman of Olkhon Island on Lake Baikal in Buryatia, Siberia in 2009. Note the graphic of a spirit tree centered on Hagdaev's drum. Image source: Wikimedia Commons">
+       caption="Pictured is Valentin Hagdaev - the head shaman of Olkhon Island on Lake Baikal in Buryatia, Siberia in 2009. Note the graphic of a spirit tree centered on Hagdaev's drum." 
+       description="Image source: Wikimedia Commons">
 
 ### Design Considerations
 Traditional practices ultimately protect ecosystems by forging a strong connection of people with place through an understanding of plant relationships.[^34] Consider how the spiritual practice of Ojibwe storytelling may impact the daily practice of protecting the value of wetlands, lakes, and the species that thrive there. The [Tribal Council of the Leech Lake Band of Ojibwe](https://www.llojibwe.org/drm/environmental/environmental.html)’s Division of Resource Management and Environmental Lands Department lists resources and information about wetland health and protection on its website for local landowners to reference and to encourage wetland restoration on the Leech Lake Reservation in northern Minnesota.[^35] While there are no direct mentions of the Tamarack, their website lists the importance of healthy wetlands, including how vegetation along agricultural areas has aided in containing excess phosphorus and nitrogen from runoff water.[^36] 
 <param ve-image
-       caption="Wetland areas in northern Minnesota with developed borders and an urbanized edge. Image source: Wikimedia Commons"
-       url="https://upload.wikimedia.org/wikipedia/commons/a/a0/New_London%2C_Minnesota_%286031260800%29.jpg">
+       url="https://upload.wikimedia.org/wikipedia/commons/a/a0/New_London%2C_Minnesota_%286031260800%29.jpg"
+       caption="Wetland areas in northern Minnesota with developed borders and an urbanized edge."
+       description="Image source: Wikimedia Commons">
        
 If we consider the Tamarack as a wetland stabilizer that aids in [phytoremediation](Q283180), associating the tree with values of reciprocity can further generate values and respect for our wetland ecologies, which can catalyze efforts to restore and preserve this important landscape typology. When considered alongside Western botanical studies, the two sources of knowledge have very different perspectives to offer. In using texts such as Charles Sargent’s *Silva of North America* to identify the Tamarack, and in considering the spiritual meaning of the species for shaman rituals, a sense of place can be understood more meaningfully as a complex network of individuals coexisting in places that are unique to the climate, species, and rituals of that area. 
 <param ve-image 
        src="wc:Mechanisms_involved_in_phytoremediation.png" 
-       caption="Graphic description of the many types of Phytoremediation, the practice of utilizing plant material to consume, degrade, or accumulate hard metals and contaminants in the atmosphere and in the soil. Image source: Wikimedia Commons">
+       caption="Phytoremediation, the practice of utilizing plant material to consume, degrade, or accumulate hard metals and contaminants in the atmosphere and in the soil."
+       description="Image source: Wikimedia Commons">
 
 Traditional knowledge practices teach us more about plants than just their medicinal and other practical uses. They teach us about our **relationship with larger ecological systems**. They relate us to place. Through oral traditions like the Ojibwe legend about the tamarack, we begin to understand the spiritual meaning of the species, and the place that it occupies in the worldview of Indigenous communities. Through a single species, we begin to understand the symbiotic patterns of the relationship between humans and plants. This deeper understanding can also shift our perspective on the meaning and purpose of designed spaces. 
 <param ve-video vid="eH5zJxQETl4" play=189>
 
 Design can represent the relationships between plants and by grouping certain species or making connections by storytelling through plants. The key to using plants as the catalyst in the design process is that it must acknowledge the role of the people whose stories are being told. The design may be the agent, but the people are the protagonists. If one were to tell the story of the Tamarack through design, it should be built around the living stories, past and present, about this tree. 
 <param ve-image
-       caption="Larch trees in fall at Mar Bleue Bog, Southern Ontario. Image Source: Wikimedia Commons"
-       description="Photograph"
-       license="public domain"
-       url="https://upload.wikimedia.org/wikipedia/commons/7/79/Autumn%27s_promise_%2848973911991%29.png">
+       url="https://upload.wikimedia.org/wikipedia/commons/7/79/Autumn%27s_promise_%2848973911991%29.png"
+       caption="Larch trees in fall at Mar Bleue Bog, Southern Ontario."
+       description="Image Source: Wikimedia Commons. Public Domain.">
 
 The beautiful colors of Tamarack that are catalyzed by the seasonal cycle of decay and renewal make it an atypical choice for design projects. Yet, there are potential opportunities to consider the tree as a symbol to encourage wetland habitats across New England. Tamarack tree forests usually have a dense herbaceous layer and a somewhat full shrub layer, contributing to a rich ecosystem along [riparian zones](Q13360049).
 <param ve-image 
        src="gh:plant-humanities/media/tamarack/Larch Forest in Winter.jpg" 
-       caption="There is so much potential in curating a planting design that both benefits the ecosystem and creates unique aesthetic and textural moments that pleases the eye. For example, a single tree can create a punctum in the landscape. Planting large swaths of Tamarack trees to mimick their growing conditions in the natural environment can create a vastly different effect. Image source: Wikimedia Commons">
+       caption="There is so much potential in curating a planting design that both benefits the ecosystem and creates unique aesthetic and textural moments that pleases the eye. For example, a single tree can create a punctum in the landscape. Planting large swaths of Tamarack trees to mimick their growing conditions in the natural environment can create a vastly different effect." 
+       description="Image source: Wikimedia Commons">
 
 Additionally, wetland habitats in the United States have been historically filled in to transform marshes into fields to sustain crops. At the time of European settlement, the United States had 221 million acres of wetlands. Generally viewed as wastelands in the 1700s, wetlands were drained by early colonizers by constructing ditches and rerouting waterways into canals to navigate to western regions.[^37] This manipulation of American watersheds continued through the Industrial Revolution and increased sharply in the 1900s through government-supported rebate programs for farmers for building levees, water-diversion projects, and dams. By the 1980s, 50 percent of these wetlands had disappeared.
 <param ve-image
