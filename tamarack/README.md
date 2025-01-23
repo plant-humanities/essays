@@ -33,12 +33,14 @@ In the telling of the story, the Tamarack becomes a signifier of something large
 The needles of each Tamarack meet the ground every autumn, golden and crisp, marking the passage of time. Its lively expression in October is brief and wondrous. [Vibrant fuchsia cones](/zoomto/345,454,858,739) and [baby-green needles](/zoomto/493,1015,715,616) are part of the cycle of new growth in spring. This and the Tamarack’s “wind-swept sweetness” define the character of the landscapes where it grows.[^2] 
 <param ve-image 
        src="wc:Larix_laricina_15-p.bot-larix.lari-19.jpg"
-       caption="Cones develop around 25 years after Tamarack trees first sprout. Image Source: iNaturalist.org"
-       fit="cover">
+       caption="Cones develop around 25 years after Tamarack trees first sprout."
+       description="Image Source: iNaturalist.org"
+       fit="contain">
 <param ve-image 
        src="wc:Pseudolarix_amabilis_02.jpg" 
-       caption="New spring needles on the Golden Larch, *Pseudolarix amabilis*. Image source: Wikimedia Commons"
-       fit="cover">
+       caption="New spring needles on the Golden Larch, *Pseudolarix amabilis*."
+       description="Image source: Wikimedia Commons"
+       fit="contain">
 
 These become places we can begin to understand more fully through [Traditional Ecological Knowledge](https://blog.ucsusa.org/science-blogger/the-importance-of-traditional-ecological-knowledge-tek-when-examining-climate-change/) (TEK) and stories in addition to the plant’s biology. Plant knowledge held through the oral traditions of Indigenous peoples compels us to view plants as living archives rather than simply specimens, a shift in perspective that is necessary to understand how to use plants for ecological design and restoration. With its rich roots and spiny branches covering most of New England, the tree’s seasonal qualities could become a symbol for the conservation of America’s wetlands.
 <param ve-image
