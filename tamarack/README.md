@@ -27,7 +27,7 @@ As Ojibwe author Anne M. Dunn writes in her book, *Fire in the Village: New and 
 In the telling of the story, the Tamarack becomes a signifier of something larger than itself, the ephemeral nature of life on earth, and the reciprocity that living beings should practice and nurture.
 <param ve-image 
        src="wc:Through_the_year_with_birds_and_poets_%28poems%29;_%281900%29_%2814564594379%29.jpg"
-       caption="Ojibwe stories help show the interconnectedness and relationships between species, an ideology fundamental to many indigenous philosophies. Image source: Wikimedia Commons"
+       caption="Ojibwe stories help show the interconnectedness and relationships between species, an ideology fundamental to many indigenous philosophies."
        description="Image source: Wikipedia Commons">
 
 The needles of each Tamarack meet the ground every autumn, golden and crisp, marking the passage of time. Its lively expression in October is brief and wondrous. [Vibrant fuchsia cones](/zoomto/345,454,858,739) and [baby-green needles](/zoomto/493,1015,715,616) are part of the cycle of new growth in spring. This and the Tamarack’s “wind-swept sweetness” define the character of the landscapes where it grows.[^2] 
@@ -45,7 +45,8 @@ The needles of each Tamarack meet the ground every autumn, golden and crisp, mar
 These become places we can begin to understand more fully through [Traditional Ecological Knowledge](https://blog.ucsusa.org/science-blogger/the-importance-of-traditional-ecological-knowledge-tek-when-examining-climate-change/) (TEK) and stories in addition to the plant’s biology. Plant knowledge held through the oral traditions of Indigenous peoples compels us to view plants as living archives rather than simply specimens, a shift in perspective that is necessary to understand how to use plants for ecological design and restoration. With its rich roots and spiny branches covering most of New England, the tree’s seasonal qualities could become a symbol for the conservation of America’s wetlands.
 <param ve-image
        src="gh:plant-humanities/media/tamarack/Tamarack-Low-Angle.jpg"
-       caption="View of a forested Tamarack tree from below. Image source: Flickr">
+       caption="View of a forested Tamarack tree from below."
+       description="Image source: Flickr">
 
 The Tamarack tree species belongs to the genus *Larix* in western botanical nomenclature and is known by many names across different regions. In North America, the common name Tamarack refers to the [American Larch](Q734085) (*Larix laricina*), also known as the Eastern Larch and Hackmatack. The other ten widely accepted species in the same genus are generally referred to as Larch trees. This narrative focuses on the characteristics of the Tamarack, while also introducing other Larch species to compare their significances within indigenous cultures across different regions globally. 
 <param ve-video vid="L3ApTi-6iNM">
