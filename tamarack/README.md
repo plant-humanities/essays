@@ -121,44 +121,51 @@ Several Western botanists who traveled the globe attempted to document and class
 The first classification of North American Larch trees in botanical science dates to when French botanist André Michaux traveled to the newly formed United States in 1785, with a mission of bringing trees home constructing ships for the French Navy.[^16] Following in his father’s footsteps, Francois André Michaux became a successful botanist and traveler, who continued to document American plant life.[^17] He published *The North American Sylva; or, A Description of the Forest Trees of the United States, Canada, and Nova Scotia*, in three volumes.[^18] Francois André later managed farmland in France, pursuing his interest in the cultivation of trees grown from the seeds he collected in North America. The work of both father and son provided a strong base upon which American botanists were to build scientific knowledge of *Larix* species for the next century.
 <param ve-image
        src="wc:F._Andrew_Michaux_%28NYPL_Hades-255839-EM12361A%29.jpg"
-       caption="Francois-Andre Michaux">
+       caption="Francois-Andre Michaux"
+       description="Image source: Wikimedia Commons">
 <param ve-image
        src="wc:NAS-153_Larix_laricina.png"
-       caption="Illustration of Larix laricina in Michaux's taxonomy, illustrated by Pancrace Bessa.">
+       caption="Illustration of Larix laricina in Michaux's taxonomy, illustrated by Pancrace Bessa."
+       description="Image source: Wikimedia Commons">
 
 Enter [Charles Sprague Sargent](Q1066128), a leading American botanist, conservationist, and educator, whose work in taxonomizing North American plants became essential to introducing the North American public to the trees that were not native to New England. In 1873, Sargent became the [first director of the Arnold Arboretum](https://arboretum.harvard.edu/about/our-history/). He sought to protect American forests from lumber harvesting and worked alongside landscape architects and city planners to ensure the future of the trees at the Arboretum. Sargent followed his predecessors in the field of western botany to categorize and document plants for the larger purpose of expanding plant knowledge in the United States, as reflected in his landmark publication, *The Silva of North America: a description of the trees which grow naturally in North America exclusive of Mexico*.[^19] As the work’s scope was scientific, it included minimal cultural references, although Sargent was familiar with John Josselyn’s travelogue, as a footnote in *Silva* indicates. With “untiring zeal and energy,” Sargent worked to introduce to the United States tree species from China, Siberia, Mongolia, Japan, Korea, Tibet, and Nepal through a series of expeditions led by experienced plant collectors to whom he outsourced his work.[^20] What survives of these expeditions are the species that make up the [living collection at the Arboretum](https://arboretum.harvard.edu/explorer/).
 <param ve-image
        src="gh:plant-humanities/media/tamarack/Charles Sargent in a Library.jpg"
-       caption="Charles Sprague Sargent examining plant specimens. Source: Arnold Arboretum Stories">
+       caption="Charles Sprague Sargent examining plant specimens." 
+       description="Source: Arnold Arboretum Stories">
 
 Sargent’s interest in Asian species was primarily scientific, though he also counted on the endeavors of botanists seeking to introduce new plants to nurseries for commercial purposes. This is how he met E. H. Wilson, who had been collecting seeds for a large nursery in England called Veitch & Sons. Wilson provided much of the text for *Plantae Wilsonianae*, an account of the species native to Western Sichuan, the seeds of which Wilson sent to Sargent for the Arboretum. Many of the species that grow in Boston’s soil today originated from expeditions such as Wilson’s. 
 <param ve-image
        src="gh:plant-humanities/media/tamarack/Wilson and Collecting Team on Chengdu River.jpg"
-       caption="E. H. Wilson and his collecting team on a houseboat, traveling the rivers of Chengdu. Source: Arnold Arboretum Stories">
+       caption="E. H. Wilson and his collecting team on a houseboat, traveling the rivers of Chengdu."
+       description="Source: Arnold Arboretum Stories">
 
 Wilson referred to Chinese Larch (*Larix potaninii*), noting its “decidedly handsome and striking” qualities.[^21] He writes of the tree’s practical use for construction as a valuable timber in the western Sichuan region.[^22] As Sylvia Barry Sutton, the author of Sargent’s biography, writes: “One is thankful, finally, that it was Wilson and not Sargent who explored China, because it is unlikely that Sargent would have written about anything but the flora.”[^23] Indeed, Wilson was interested in much more than the species itself, although he did not mention any of the traditional uses of the Chinese Larch. 
 <param ve-entity eid="Q135471" title="Larix potaninii">
 <param ve-image
        src="wc:Pseudolarix_kaempferi_4zz.jpg" 
-       caption="Chinese Larch, *Pseudolarix kaempferi*. Image Source: Wikimedia Commons">
+       caption="Chinese Larch, *Pseudolarix kaempferi*."
+       description="Image Source: Wikimedia Commons">
 
 ### Traditional Uses of the Tamarack
 “Narratives of all kinds—stories, tales, and rumors—are the stuff of ideas—concepts and hypotheses—and the stuffing of history,” write the authors of [*Dirt*](https://mitpress.mit.edu/9780262516921/dirt/).[^24] But how do we cite, record, and archive oral histories, especially when such stories have been nearly eradicated through colonial and extractive forces? The Tamarack tree, as a living archive, could be one answer. Indigenous groups and shamans have harnessed its bark, sap, and needles for medicinal purposes for over 3,000 years. The long, spindly form of *Larix siberica* has ties to spiritual worlds of nomadic groups in northern Asia, and local water management organizations have recognized the Tamarack for its role in stabilizing wetlands across the midwestern United States.[^25]
 <param ve-entity eid="Q754765" title="Larix siberica">
 <param ve-image
        src="wc:Western_Larch_(Larix_occidentalis)_--_young_leaves.jpg"
-       caption="Needles growing from the branch of a Western Larch, *Larix occidentalis*. Image Source: Wikimedia Commons">
+       caption="Needles growing from the branch of a Western Larch, *Larix occidentalis*." 
+       description="Image Source: Wikimedia Commons">
 
 In addition to its medicinal uses known to both First Nations and traditional Chinese Medicine practitioners, _Larix_ is a subject of living legends that reflect traditional lifestyles and plant knowledge.[^26] Across the Pacific, the world’s largest taiga stretches across Siberia from the Ural Mountains to the Pacific Ocean. Historians have postulated that the Siberian Larch holds great spiritual power to groups of people living in the region, and is the connection between their spiritual and physical worlds through studying illustrations that were drawn on drum heads.[^27] Since as early as 600 CE, the Evenki people, nomadic groups of three to ten immediate families indigenous to northern Siberia, Mongolia, and eastern China, revered the Larch tree for its practical uses and spiritual meaning. In the winter, they use its needles for insulation inside shelters as protection from the frozen ground. They use the timber for crafting ceremonial sculptures, such as carvings of birds that sit atop a “spirit pole” at the residence of a shaman to signify the connection between the human and spirit worlds.[^28]
 <param ve-image 
        src="wc:Larix_sibirica_Urals2.jpg" 
-       caption="Siberian Larch, *Larix sibirica* in autumn colour with a dusting of fresh snow in the Ural Mountains, Russia. Image source: Wikimedia Commons">
+       caption="Siberian Larch, *Larix sibirica* in autumn colour with a dusting of fresh snow in the Ural Mountains, Russia." 
+       description="Image source: Wikimedia Commons">
 
-*Tuuru* translates to “world tree” in the Indigenous Siberian Evenki Tungus language.[^29] The Evenki people believe that *Tuuru* connected their three worlds: the upper world, where deities and spirits of nature resided, the middle world, inhabited by humans, and the lower world, home to spirits of the dead. Siberian Shamans believe that the tree is the bridge that connects them to the three worlds.[^30] Perhaps the Siberian Larch is chosen for its grittiness, its strength to survive the harsh taiga, or for its fire-resistant bark. While it is not clear why Evenki Shamans chose the Larch tree, the practice of selecting a tree as symbolic of worldviews is common among many shamanic religions. 
-<param ve-entity eid="Q267376" title="world tree">
+*Tuuru* translates to “[world tree](Q267376)” in the Indigenous Siberian Evenki Tungus language.[^29] The Evenki people believe that *Tuuru* connected their three worlds: the upper world, where deities and spirits of nature resided, the middle world, inhabited by humans, and the lower world, home to spirits of the dead. Siberian Shamans believe that the tree is the bridge that connects them to the three worlds.[^30] Perhaps the Siberian Larch is chosen for its grittiness, its strength to survive the harsh taiga, or for its fire-resistant bark. While it is not clear why Evenki Shamans chose the Larch tree, the practice of selecting a tree as symbolic of worldviews is common among many shamanic religions. 
 <param ve-image
-       src="wc:Файл:Родовые_столбы_сэргэ.jpg" 
-       caption="The Buryats and Yakut People of Siberia place hitching posts called serge at the entrances to yurts or houses to indicate ownership and for shamanistic practices. Image source: Wikimedia Commons">
+       src="gh:plant-humanities/media/tamarack/Shamanistic practice of the Buryats and Yakut People of Siberia.jpg" 
+       caption="The Buryats and Yakut People of Siberia place hitching posts called serge at the entrances to yurts or houses to indicate ownership and for shamanistic practices." 
+       description="Image source: Wikimedia Commons">
 
 Shamanic traditions that center on the Larch tree continue today, including securing ribbons to the tree trunk to symbolize a myriad of offerings for the spirits.[^31] Thousands of Siberian Larches dot the shores of [Lake Baikal](Q5513), where the Buryat people live, another nomadic clan in the Siberian region. Their offerings are tied to the ancient tree's branches, reaching toward the sun in search of nutrients, and passing down knowledge from the spirits above. 
 <param ve-image
