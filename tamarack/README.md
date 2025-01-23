@@ -203,7 +203,7 @@ The beautiful colors of Tamarack that are catalyzed by the seasonal cycle of dec
 <param ve-image 
        src="gh:plant-humanities/media/tamarack/Larch Forest in Winter.jpg" 
        caption="A planting design that benefits the ecosystem and creates unique aesthetic and textural moments."
-       description="A single tree can create a punctum in the landscape. Planting large swaths of Tamarack trees to mimick their growing conditions in the natural environment can create a vastly different effect. Image source: Wikimedia Commons>" 
+       description="A single tree can create a punctum in the landscape. Planting large swaths of Tamarack trees to mimick their growing conditions in the natural environment can create a vastly different effect. Image source: Wikimedia Commons"> 
 
 Additionally, wetland habitats in the United States have been historically filled in to transform marshes into fields to sustain crops. At the time of European settlement, the United States had 221 million acres of wetlands. Generally viewed as wastelands in the 1700s, wetlands were drained by early colonizers by constructing ditches and rerouting waterways into canals to navigate to western regions.[^37] This manipulation of American watersheds continued through the Industrial Revolution and increased sharply in the 1900s through government-supported rebate programs for farmers for building levees, water-diversion projects, and dams. By the 1980s, 50 percent of these wetlands had disappeared.
 <param ve-image
