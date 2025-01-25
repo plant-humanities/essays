@@ -98,7 +98,7 @@ Among the three North American species, [ectomycorrhizal fungi](https://www.yout
 One need not look far into New England’s temperate forests in the fall before seeing the golden cloak of Tamarack needles. In an urban context, 169 Larches representing six species, including the Tamarack, currently thrive at the <span data-mouseover-map-flyto="42.29866800637251, -71.12696103381026, 8">Arnold Arboretum</span> in Boston. The Arboretum has documented each of the trees’ provenance, tracing their place of origin as a seed from Siberia, Mongolia, and Russia to Western Sichuan, China, to Central Europe and the Pacific Northwestern United States. Many of the trees arrived as seeds, shipped from other continents in the 1800s to exhibit *Larix’s* diversity of species. Botanists were confident these non-native species would thrive alongside the Tamarack in the New England climate due to similar growing conditions in east Asia.[^12]
 <param ve-map center="Q568666" 
        zoom=3
-       title="Natural Growth Dispersal of the Tamarack, 'Larix laricina.' Graphic from GeoJSON maps."
+       title="Natural Growth Dispersal of the Tamarack, *Larix laricina*."
        prefer-geojson 
        basemap="Esri_WorldPhysical">
 <param ve-map-layer geojson
@@ -125,7 +125,7 @@ The first classification of North American Larch trees in botanical science date
        description="Image source: Wikimedia Commons">
 <param ve-image
        src="wc:NAS-153_Larix_laricina.png"
-       caption="Illustration of Larix laricina in Michaux's taxonomy, illustrated by Pancrace Bessa."
+       caption="Illustration of *Larix laricina* in Michaux's taxonomy, illustrated by Pancrace Bessa."
        description="Image source: Wikimedia Commons">
 
 Enter [Charles Sprague Sargent](Q1066128), a leading American botanist, conservationist, and educator, whose work in taxonomizing North American plants became essential to introducing the North American public to the trees that were not native to New England. In 1873, Sargent became the [first director of the Arnold Arboretum](https://arboretum.harvard.edu/about/our-history/). He sought to protect American forests from lumber harvesting and worked alongside landscape architects and city planners to ensure the future of the trees at the Arboretum. Sargent followed his predecessors in the field of western botany to categorize and document plants for the larger purpose of expanding plant knowledge in the United States, as reflected in his landmark publication, *The Silva of North America: a description of the trees which grow naturally in North America exclusive of Mexico*.[^19] As the work’s scope was scientific, it included minimal cultural references, although Sargent was familiar with John Josselyn’s travelogue, as a footnote in *Silva* indicates. With “untiring zeal and energy,” Sargent worked to introduce to the United States tree species from China, Siberia, Mongolia, Japan, Korea, Tibet, and Nepal through a series of expeditions led by experienced plant collectors to whom he outsourced his work.[^20] What survives of these expeditions are the species that make up the [living collection at the Arboretum](https://arboretum.harvard.edu/explorer/).
@@ -219,7 +219,7 @@ Wetlands are incredibly biodiverse ecosystems that sustain the ecological health
 Due to these characteristics, the Tamarack could be the poster child of wetland restoration within the design disciplines. The associations it builds with soil, water, climate, and people are at the core of creating a functional and thriving wetland ecosystem. Drawing from Ojibwe stories about the Tamarack can incite a level of reciprocity and acknowledging the tree's role in a larger living network of beings, one which designers should protect and curate for the health of future wetland landscapes. To conserve marshes along the eastern coast and Great Lakes regions of the United States, the Tamarack could help highlight the significance and history of these landscapes.	
 <param ve-image
        src="gh:plant-humanities/media/tamarack/Wetland Sketch by Hannah Hardenbergh.png"
-       caption="The Tamarack: A Stabilizer for Ecological Communities. Illustration by Author."
+       caption="The Tamarack as a stabilizer for ecological communities. Illustration by Author."
        description="Illustration by Hannah Hardenbergh">
 
 ### References
