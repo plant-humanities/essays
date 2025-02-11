@@ -268,6 +268,13 @@ This essay provides an approachable overview of herbarium specimens and how they
 
 ![](https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/quinoa.jpg)
 
+## What We Know Now: Tracing the Tamarack
+[What We Know Now: Tracing the Tamarack](tamarack)
+
+- Hannah Hardenbergh
+
+!![](https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/tamarack.jpg)
+
 ## Tamarind: From Shady Refuge to Versatile Foodstuff
 [Tamarind: From Shady Refuge to Versatile Foodstuff](tamarind)
 
