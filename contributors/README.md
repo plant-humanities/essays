@@ -123,7 +123,7 @@ Kristan M. Hanson is a Plant Humanities Fellow at Dumbarton Oaks. She is an art 
 
 [Hannah Hardenbergh]()
 
-![](https://raw.githubusercontent.com/plant-humanities/essays/main/contributors/Hardenbergh.jpg)
+![](https://raw.githubusercontent.com/plant-humanities/media/main/contributors/Hardenbergh.jpg)
 
 Hannah Hardenbergh is a designer and artist from the Rocky Mountains of Colorado and attends the Harvard Graduate School of Design. Her work investigates how photography and image analysis frame collective imaginations of place, and the crucial social underpinnings that shape regional systems of water, soil, and plant communities. In her art practice, Hannah pushes the limitations of painting to represent abstractions of the human and non-human and has shown artwork at group exhibitions with SHIM Art Network in New York and Bridgeport, CT. Hannah holds a B.A. from Harvard College in History and Literature and will complete her master’s degree in landscape architecture at Harvard’s Graduate School of Design in 2025.
 
