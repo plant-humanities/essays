@@ -35,6 +35,13 @@ This essay provides an approachable overview of herbarium specimens and how they
 
 !![](https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/mimosapudica.jpg)
 
+## The Broad-Leaf Bark: Friend or Foe?
+[The Broad-Leaf Bark: Friend or Foe?](Paperbark)
+
+- Bethany Kidd and Sierra Roark
+
+!![](https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/paperbark.jpg)
+
 ## Pecan: Beyond Thanksgiving Pie to Indigenous Reciprocity
 [Pecan: Beyond Thanksgiving Pie to Indigenous Reciprocity](pecan)
 
@@ -114,6 +121,13 @@ This essay provides an approachable overview of herbarium specimens and how they
 - Elaine Savory
 
 ![](https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/breadfruit.jpg)
+
+## The Broad-Leaf Bark: Friend or Foe?
+[The Broad-Leaf Bark: Friend or Foe?](Paperbark)
+
+- Bethany Kidd and Sierra Roark
+
+!![](https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/paperbark.jpg)
 
 ## Cacao: Indigenous Network to Global Commodity
 [Cacao: Indigenous Network to Global Commodity](cacao)
