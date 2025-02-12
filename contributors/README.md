@@ -119,6 +119,14 @@ Allison Fulton is an English Ph.D. Candidate at the University of California Dav
 
 Kristan M. Hanson is a Plant Humanities Fellow at Dumbarton Oaks. She is an art historian of nineteenth-century France, with a particular focus on depictions of women, ornamental plants, and spaces of horticultural labor and leisure. She received her PhD in art history from the University of Kansas in 2020. Her research interests include visual portrayals of plants and human-plant interactions; cultural associations of flowers and floral imagery with social markers of difference; horticultural trade networks, colonialism, and intimacy; and artistic engagements with environmental issues. Her dissertation applied digital humanities methods and tools to the study of horticultural art, plant mobility, and gendered spatial practices in the context of 1870s Paris. She has received fellowships and awards from the Oak Spring Garden Foundation, HASTAC Scholars program, and the Hall Center for the Humanities. Most recently, she coedited the exhibition catalogue _Perspectives on a Legacy Collection: Sallie Casey Thayer’s Gift to the University of Kansas_ (2020).
 
+## Hannah Hardenbergh
+
+[Hannah Hardenbergh]()
+
+![](https://raw.githubusercontent.com/plant-humanities/essays/main/contributors/Hardenbergh.jpg)
+
+Hannah Hardenbergh is a designer and artist from the Rocky Mountains of Colorado and attends the Harvard Graduate School of Design. Her work investigates how photography and image analysis frame collective imaginations of place, and the crucial social underpinnings that shape regional systems of water, soil, and plant communities. In her art practice, Hannah pushes the limitations of painting to represent abstractions of the human and non-human and has shown artwork at group exhibitions with SHIM Art Network in New York and Bridgeport, CT. Hannah holds a B.A. from Harvard College in History and Literature and will complete her master’s degree in landscape architecture at Harvard’s Graduate School of Design in 2025.
+
 ## Diana Heredia-López
 
 [Diana Heredia-López]()
