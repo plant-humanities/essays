@@ -21,6 +21,12 @@ This essay provides an approachable overview of herbarium specimens and how they
 # Featured Plant Narratives 
 `.cards`
 
+## What We Know Now: Tracing the Tamarack
+[What We Know Now: Tracing the Tamarack](tamarack)
+
+- Hannah Hardenbergh
+
+!![](https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/tamarack.jpg)
 
 ## The Sensitive Plant: Meaning and Movement
 [The Sensitive Plant: Meaning and Movement](mimosa_pudica)
@@ -63,41 +69,6 @@ This essay provides an approachable overview of herbarium specimens and how they
 - Nina Elkadi
 
 !![](https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/soybean.png)
-
-## Opium Poppy: A Cursed Beauty
-[Opium Poppy: A Cursed Beauty](poppy)
-
-- Carol Chang, Heather Rose Craddock, and Alejandro Garay
-
-![](https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/poppy.jpg)
-
-## Quinoa: From Indigenous Crop to International Superfood
-[Quinoa: From Indigenous Crop to International Superfood](quinoa)
-
-- Matthew Turetsky
-
-![](https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/quinoa.jpg)
-
-## Cercidiphyllum japonicum: The Katsura at Dumbarton Oaks
-[Cercidiphyllum japonicum: The Katsura at Dumbarton Oaks](katsura)
-
-- Abner Aldarondo
-
-![](https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/katsura.jpeg)
-
-## Eggplant: Food, Sex, and Poison
-[Eggplant: Food, Sex, and Poison](eggplant)
-
-- Ana Carolina Carmona-Ribeiro, Nathan Cornish, and Sheila Scoville
-
-![](https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/eggplant.jpg)
-
-## Maize: Sacred Plant, Global Commodity
-[Maize: Sacred Plant, Global Commodity](maize)
-
-![](https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/maize__thumbnail.jpg)
-
-- Julia Fine
 
 # All Plant Narratives 
 `.cards`
@@ -310,6 +281,13 @@ This essay provides an approachable overview of herbarium specimens and how they
 - Matthew Turetsky
 
 ![](https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/quinoa.jpg)
+
+## What We Know Now: Tracing the Tamarack
+[What We Know Now: Tracing the Tamarack](tamarack)
+
+- Hannah Hardenbergh
+
+!![](https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/tamarack.jpg)
 
 ## Tamarind: From Shady Refuge to Versatile Foodstuff
 [Tamarind: From Shady Refuge to Versatile Foodstuff](tamarind)
