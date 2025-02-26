@@ -59,13 +59,13 @@ In addition to domesticating maize and dispersing it throughout South America an
        fit="contain"
        url="https://tile.loc.gov/image-services/iiif/service:gdc:gdcwdl:wd:l_:10:61:5:wdl_10615:MedPalat218_01_0643/0,70,5642,7829/1024,/0/default.jpg">
 <param ve-image
-       label="The Cruz-Badiano Codex is another important source of Mesoamerican herbal knowledge. Written most likely in Nahuatl by an &quot;Indian doctor&quot; and translated into Latin, it preserves several Indigenous names for crops. Many scholars have shown how the Indigenous names for various flowers and crops refers to their physical similarities to maize. For more, see Arthur O. Tucker and Jules Janick, Flora of the Codex Cruz-Badianus (Cham, Switzerland: Springer International Publishing, 2020)."
+       label="The Cruz-Badiano Codex is another important source of Mesoamerican herbal knowledge. Written most likely in Nahuatl by an %22Indian doctor%22 and translated into Latin, it preserves several Indigenous names for crops. Many scholars have shown how the Indigenous names for various flowers and crops refers to their physical similarities to maize. For more, see Arthur O. Tucker and Jules Janick, Flora of the Codex Cruz-Badianus (Cham, Switzerland: Springer International Publishing, 2020)."
        fit="contain"
-       manifest="gh:plant-humanities/media/maize/6105d6cc76af400325e94d588ce511be5bfdbb73b437dc51eca43917d7a43e3d.yaml"> 
+       manifest="gh:plant-humanities/media/maize/6105d6cc76af400325e94d588ce511be5bfdbb73b437dc51eca43917d7a43e3d.jpg"> 
 <param ve-image
-       label="Francisco Hernández was a Spanish physician who went on the first scientific expedition from Europe to the Americas in 1570. He spent four years researching how the Nahua people used plants, including maize. Here, Hernández writes that maize is &quot;exceedingly beneficial to the healthy and sick alike; it is easy to cultivate, it grows abundantly and without any risk almost anywhere it is planted, and it is hardly susceptible to damage from drought and the rigors of climate.&quot; For more, see: Felipe Ledesma-Núñez, &quot;Colonial Epidemics and Mesoamerican Medicine in Sixteenth-Century Mexico,&quot; Exhibit (Washington, DC: Dumbarton Oaks). https://www.doaks.org/resources/online-exhibits/epidemics. Francisco Hernández. Rerum Medicarum Novae Hispaniae Thesaurus. 1648. P. 243."
+       label="Francisco Hernández was a Spanish physician who went on the first scientific expedition from Europe to the Americas in 1570. He spent four years researching how the Nahua people used plants, including maize. Here, Hernández writes that maize is %22exceedingly beneficial to the healthy and sick alike; it is easy to cultivate, it grows abundantly and without any risk almost anywhere it is planted, and it is hardly susceptible to damage from drought and the rigors of climate.%22 For more, see: Felipe Ledesma-Núñez, %22Colonial Epidemics and Mesoamerican Medicine in Sixteenth-Century Mexico,%22 Exhibit (Washington, DC: Dumbarton Oaks). https://www.doaks.org/resources/online-exhibits/epidemics. Francisco Hernández. Rerum Medicarum Novae Hispaniae Thesaurus. 1648. P. 243."
        fit="contain"
-       manifest="gh:plant-humanities/media/maize/6105d6cc76af400325e94d588ce511be5bfdbb73b437dc51eca43917d7a43e3d.yaml">	    
+       manifest="gh:plant-humanities/media/maize/6105d6cc76af400325e94d588ce511be5bfdbb73b437dc51eca43917d7a43e3d.jpg">	    
 {#paragraph7}
 
 ### Milpa and Mesoamerica
