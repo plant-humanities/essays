@@ -1,13 +1,88 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Juncture bookmarklet</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Juncture Bookmarklet</title>
+
+  <style>
+    /* --- basic layout --- */
+    :root {
+      --accent: #2d7ef7;          /* Juncture blue */
+      --accent-dark: #1e5ac0;
+      --text: #222;
+      --bg: #f8fafc;
+      --radius: .5rem;
+    }
+
+    html, body {
+      height: 100%;
+      margin: 0;
+    }
+    body {
+      display: grid;
+      place-items: center;        /* vertical + horizontal centering */
+      font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+      line-height: 1.45;
+      color: var(--text);
+      background: var(--bg);
+    }
+
+    /* --- card container --- */
+    .card {
+      max-width: 38rem;
+      padding: 2rem 2.5rem;
+      background: #fff;
+      border: 1px solid #e2e8f0;
+      border-radius: var(--radius);
+      box-shadow: 0 12px 24px -8px rgba(0,0,0,.08);
+      text-align: center;
+    }
+
+    h1 {
+      font-size: 1.5rem;
+      margin: 0 0 1rem;
+      color: var(--accent-dark);
+    }
+    p {
+      margin: 0 0 2rem;
+      font-size: 1.05rem;
+    }
+
+    /* --- button-style bookmarklet --- */
+    .bookmarklet {
+      display: inline-block;
+      padding: .8rem 1.6rem;
+      font-size: 1.05rem;
+      font-weight: 600;
+      color: #fff;
+      background: var(--accent);
+      border-radius: var(--radius);
+      text-decoration: none;
+      transition: background .15s ease-in-out, transform .1s ease-in-out;
+    }
+    .bookmarklet:hover,
+    .bookmarklet:focus {
+      background: var(--accent-dark);
+    }
+    .bookmarklet:active {
+      transform: translateY(2px);
+    }
+  </style>
 </head>
+
 <body>
-    <p>Drag this link to your bookmarks bar to create a “View in Juncture” bookmarklet.
-Clicking it on any GitHub page with a Markdown file will open that file in Juncture.</p>
-    <a href="javascript:(function()%7Bhttps%3A%2F%2Fv3.juncture-digital.org%3Fgithub%3D%22%2Bdocument.URL%7D)()%3B%7D)()%3B">🔗 View in Juncture</a>
+  <main class="card">
+    <h1>Juncture “View in Juncture” Bookmarklet</h1>
+    <p>
+      Drag the button below to your bookmarks bar.<br>
+      Click it on any GitHub page with a Markdown file and the file opens in Juncture.
+    </p>
+
+    <a
+      class="bookmarklet"
+      href="javascript:(()=>{window.open('https://v3.juncture-digital.org?github='+encodeURIComponent(location.href),'_blank');})();"
+    >🔗 Add to Juncture</a>
+  </main>
 </body>
 </html>
