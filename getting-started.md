@@ -1,34 +1,64 @@
 # The Plant Humanities Lab and Juncture
 
-Juncture is a web platform using GitHub, Markdown and custom viewers for creating interactive web pages.  The Plant Humanities Lab is a web site built using Juncture that explores the cultural histories of plants and their influence on human societies.
+Juncture is a web platform using GitHub, Markdown, and custom viewers for creating interactive web pages. The Plant Humanities Lab is a website built using Juncture that explores the cultural histories of plants and their influence on human societies.
 
-Using Juncture, feature-rich web sites can be created easily at no cost.
+Using Juncture, feature-rich websites can be created easily at no cost.
 
-# Getting Started
+## Getting Started
 
-## 1. Sign-up for a (free) GitHub account
+Follow these four simple steps to create and view your first Juncture page.
 
-## 2. Create a GitHub repository
+### 1. Sign up for a free GitHub account
 
-Create a new repositoru to host the Markdown files that are used by Juncture.  These Markdown files include text and simple tags for formatting and Juncture viewer definition.
+1. Go to [github.com](https://github.com/) and click **Sign up**.  
+2. Choose a username, enter your email, and create a secure password.  
+3. Verify your email address to activate your account.
 
-## 3. Create a Markdown file
+### 2. Create a GitHub repository
 
-Using Juncture v1 syntax, below is Markdown text for a simple web page.  It includes text and a Juncture tag for including an image hosted by Wikimedia Commons.  Below is an example of Juncture compatible Markdown source file.  It includes a Markdown heading and Markdown formatting tags for bold and italicized text, a hyperlink, and a footnote.  It also includes two Juncture tags, a `ve-config` tag defining the header and layout, and an `ve-image` tag to include an interactive image viewer using a Wikimedia Commons image.
+1. From your GitHub dashboard, click **New repository**.  
+2. Give it a name (e.g., \`my-juncture-site\`) and an optional description.  
+3. Select **Public** so your Markdown files are accessible to Juncture.  
+4. (Optional) Initialize with a \`README.md\` if you’d like a landing page.
 
-```markdown
-<param ve-config layout="vtl" title="Common Sunflower" banner="wc:Sunflower_in_Toole_County_MT_banner.jpg">
+### 3. Add your first Markdown file
 
-# Common sunflower
+1. In your new repo, click **Add file** → **Create new file**.  
+2. Name the file \`README.md\`, \`index.md\`, or any other \`.md\` filename.  
+3. Paste in your Markdown content (see example below), including any Juncture tags.  
+4. Commit your changes to the default branch (\`main\` or \`master\`).
 
-The **common sunflower** (_Helianthus annuus_) is a species of large annual forb of the daisy family Asteraceae. The common sunflower is harvested for its edible oily seeds, which are often eaten as a snack food. They are also used in the production of cooking oil, as food for livestock, as bird food, and as plantings in domestic gardens for aesthetics. Wild plants are known for their multiple flower heads, whereas the domestic sunflower often possesses a single large flower head atop an unbranched stem.[^1]
-<param ve-image src="wc:Sunflower_sky_backdrop.jpg">
+    ```markdown
+    <param ve-config layout="vtl" title="Common Sunflower" banner="wc:Sunflower_in_Toole_County_MT_banner.jpg">
 
-[^1]: Wikipedia contributors. (2025, June 24). Common sunflower. In Wikipedia, The Free Encyclopedia. Retrieved 21:57, June 24, 2025, from [https://en.wikipedia.org/w/index.php?title=Common_sunflower](https://en.wikipedia.org/w/index.php?title=Common_sunflower&oldid=1297100912)
-```
+    # Common sunflower
 
-## 4. View the Juncture rendered web page
+    The **common sunflower** (_Helianthus annuus_) is a species of large annual forb of the daisy family Asteraceae. The common sunflower is harvested for its edible oily seeds, which are often eaten as a snack food. They are also used in the production of cooking oil, as food for livestock, as bird food, and as plantings in domestic gardens for aesthetics. Wild plants are known for their multiple flower heads, whereas the domestic sunflower often possesses a single large flower head atop an unbranched stem.[^1]
+    <param ve-image src="wc:Sunflower_sky_backdrop.jpg">
 
-There are various ways to render the Markdown file as a web page, but the easiest is to simply use the Juncture site using a URL syntax that includes the name of the GitHub account and repository hosting the Markdown file and the Markdown file path within the repository.  https://v3.juncture-digital.org/`<GitHub username>/<GitHub repository>/<Markdown file path>`.  For instance - https://v3.juncture-digital.org/rsnyder/demo/README.md.  In this example the shorter form  https://v3.juncture-digital.org/rsnyder/demo will also work.  (When the Markdown file name is `README.md` or `index.md` it may be omitted)
+    [^1]: Wikipedia contributors. (2025, June 24). Common sunflower. In Wikipedia, The Free Encyclopedia. Retrieved 21:57, June 24, 2025, from [https://en.wikipedia.org/w/index.php?title=Common_sunflower](https://en.wikipedia.org/w/index.php?title=Common_sunflower&oldid=1297100912)
+    ```
 
-As a convenience, drag this link to your bookmarks bar - <a href="javascript:(function()%7Bwindow.location.href%3D%22https%3A%2F%2Fv3.juncture-digital.org%3Fgithub%3D%22%2Bdocument.URL%7D)()">🔗 View in Juncture</a>.  This will create a special bookmark (bookmarklet) in your browser toolbar.  Clicking on this bookmark when on a GitHub page associated with a Markdown file will open the Markdown file using Juncture.
+### 4. View your page in Juncture
+
+1. Open your browser and use this URL template:
+
+   ```php-template
+   https://v3.juncture-digital.org/<GitHub-username>/<repository>/<path-to-file>`
+   ```
+   
+   For example:  
+   https://v3.juncture-digital.org/rsnyder/demo/README.md
+
+2. If your file is named `README.md` or `index.md`, you can omit the filename:
+
+   https://v3.juncture-digital.org/rsnyder/demo
+
+3. **Optional bookmarklet:**  
+
+   Drag this link to your bookmarks bar to create a “**View in Juncture**” bookmarklet.  
+   Clicking it on any GitHub page with a Markdown file will open that file in Juncture.
+
+   <a href="javascript:(function()%7Bhttps%3A%2F%2Fv3.juncture-digital.org%3Fgithub%3D%22%2Bdocument.URL%7D)()%3B%7D)()%3B">🔗 View in Juncture</a>
+
+That’s it—your Markdown content will render as a fully featured Juncture page with interactive viewers. Enjoy exploring and extending your new site!  
