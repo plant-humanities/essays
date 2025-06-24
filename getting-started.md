@@ -63,7 +63,7 @@ Follow these four simple steps to create and view your first Juncture page.
    Drag this link to your bookmarks bar to create a “**View in Juncture**” bookmarklet.  
    Clicking it on any GitHub page with a Markdown file will open that file in Juncture.
 
-    **<a href="javascript:(function()%7Bhttps%3A%2F%2Fv3.juncture-digital.org%3Fgithub%3D%22%2Bdocument.URL%7D)()%3B%7D)()%3B">🔗 View in Juncture</a>**
+    **<a href="javascript:(function()%7Bjavascript%3A(function()%7Bhttps%3A%2F%2Fv3.juncture-digital.org%3Fgithub%3D%22%2Bdocument.URL%7D)%3B%7D)()%3B">🔗 View in Juncture</a>**
 
 That’s it—your Markdown content will render as a fully featured Juncture page with interactive viewers. Enjoy exploring and extending your new site!  
 
