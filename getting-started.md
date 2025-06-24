@@ -60,9 +60,9 @@ Follow these four simple steps to create and view your first Juncture page.
 
 3. **Optional bookmarklet:**  
 
-Navigate to this [page](bookmarklet.html) and drag the provided link into your bookmarks.
+    Navigate to this [page](https://lab.plant-humanities.org/bookmarklet) and drag the provided link into your bookmarks.
 
-That’s it—your Markdown content will render as a fully featured Juncture page with interactive viewers. Enjoy exploring and extending your new site!  
+    That’s it—your Markdown content will render as a fully featured Juncture page with interactive viewers. Enjoy exploring and extending your new site!  
 
 ## Next steps
 
