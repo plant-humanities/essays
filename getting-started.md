@@ -2,6 +2,10 @@
 
 Juncture is a web platform using GitHub, Markdown, and custom viewers for creating interactive web pages. The Plant Humanities Lab is a website built using Juncture that explores the cultural histories of plants and their influence on human societies.
 
+**About GitHub and Markdown** 
+- **GitHub** is a website that hosts your files in organized “repositories,” keeps a history of every change you make, and lets you share and collaborate on projects with others.
+- **Markdown** is a lightweight text format that uses simple symbols (like # for headings, * for lists, or []() for links) so you can write plain text that easily converts into neatly formatted web pages.  For more information on Markdown refer to the [Markdown Getting Started Guide](https://www.markdownguide.org/getting-started/)
+
 Using Juncture, feature-rich websites can be created easily at no cost.
 
 ## Getting Started
@@ -17,16 +21,16 @@ Follow these four simple steps to create and view your first Juncture page.
 ### 2. Create a GitHub repository
 
 1. From your GitHub dashboard, click **New repository**.  
-2. Give it a name (e.g., \`my-juncture-site\`) and an optional description.  
+2. Give it a name (e.g., `my-juncture-site`) and an optional description.  
 3. Select **Public** so your Markdown files are accessible to Juncture.  
-4. (Optional) Initialize with a \`README.md\` if you’d like a landing page.
+4. (Optional) Initialize with a `README.md` if you’d like a landing page.
 
 ### 3. Add your first Markdown file
 
 1. In your new repo, click **Add file** → **Create new file**.  
-2. Name the file \`README.md\`, \`index.md\`, or any other \`.md\` filename.  
+2. Name the file `README.md`, `index.md`, or any other `.md` filename.  
 3. Paste in your Markdown content (see example below), including any Juncture tags.  
-4. Commit your changes to the default branch (\`main\` or \`master\`).
+4. Commit your changes to the default branch (`main`).
 
     ```markdown
     <param ve-config layout="vtl" title="Common Sunflower" banner="wc:Sunflower_in_Toole_County_MT_banner.jpg">
@@ -59,6 +63,10 @@ Follow these four simple steps to create and view your first Juncture page.
    Drag this link to your bookmarks bar to create a “**View in Juncture**” bookmarklet.  
    Clicking it on any GitHub page with a Markdown file will open that file in Juncture.
 
-   <a href="javascript:(function()%7Bhttps%3A%2F%2Fv3.juncture-digital.org%3Fgithub%3D%22%2Bdocument.URL%7D)()%3B%7D)()%3B">🔗 View in Juncture</a>
+    **<a href="javascript:(function()%7Bhttps%3A%2F%2Fv3.juncture-digital.org%3Fgithub%3D%22%2Bdocument.URL%7D)()%3B%7D)()%3B">🔗 View in Juncture</a>**
 
 That’s it—your Markdown content will render as a fully featured Juncture page with interactive viewers. Enjoy exploring and extending your new site!  
+
+## Next steps
+
+For more information on Juncture refer to the documentation on the Juncture web site -> https://v3.juncture-digital.org
