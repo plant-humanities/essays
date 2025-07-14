@@ -93,7 +93,7 @@ One possible reason for the ease with which the Gulmohar fit into the Indian con
 
 The plants’ similarity lies in their flowers’ red color. The primary difference between them is morphological: the _Poinciana regia_ is a [deciduous](Q1131316) tree that grows to a height of ten meters, while the _Poinciana pulcherrima_ is a shrub that grows to about three meters.[^28]  While they were placed in the same [genus](Q34740) when the Poinciana regia was discovered, by the latter half of the nineteenth century _Poinciana pulcherrima_ had become _Caesalpinia pulcherrima_, and the _Poinciana regia_ had long been renamed _Delonix regia_. In the latter case, however, the old name stuck: the Gulmohar is still commonly called the Poinciana in Australia and the Western Hemisphere. 
 <param ve-compare
-       src="wc:Starr-090623-1693-Delonix_regia-flowering_habit-Paani_Mai_Park_Hana-Maui_(24340315673).jpg"
+       src="wc:Starr-090623-1693-Delonix_regia-flowering_habit-Paani_Mai_Park_Hana-Maui_(24340315673).jpg">
 <param ve-compare
        src="wc:Caesalpinia_pulcherrima_001.jpg">
 
