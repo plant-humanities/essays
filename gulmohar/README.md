@@ -68,7 +68,7 @@ The Gulmohar snuck into the list of ornamental plants to be introduced to Bombay
        zoom="4" 
        marker-type="circle" 
        radius="4" title="Bombay, Calcutta, and Madras (renamed Mumbai, Kolkata, and Chennai respectively, as non-anglicized names in Independent India), the centers of British power. The Gulmohar first arrived in Bombay and then made its way to the coastal edges of the subcontinent through colonial botanists."
-       show-labels="true">
+       show-labels>
 
 ### Becoming “Gulmohar”: A Tale of Two Flowers
 After its introduction to India, the Gulmohar spread rapidly. What is more surprising than its swift geographical spread, however, is the ease with which it integrated into the subcontinent’s cultures. In [Malayalam](Q36236), the language of present-day Kerala along the [Malabar](Q1534252) coast, it adopts a fascinating vernacular name, Kaalvarippoo. This translates to “Flowers of Calvary” and refers to the belief among [Saint Thomas Christians](Q648601) that the flower gained its blood-red color from growing near the cross at [Calvary](Q170516) hill where Jesus was crucified.[^25] Different languages and cultures adapted the tree to their beliefs, translating it into the language of pre-existing flora or into the regional significance of the flower’s striking color. 
