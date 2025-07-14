@@ -12,8 +12,6 @@ The [Delonix regia](Q238486)—or the Gulmohar, as it is called in India—is a 
 <param ve-image        
        src="wc:Delonix_regia_(Hook.)_Raf._(486405819).jpg"
        caption="The red flowers of the Gulmohar. Wikimedia Commons.">
-<param ve-image
-       url="https://www.amrevmuseum.org/virtualexhibits/cost-of-revolution/pages/a-rare-view-of-irish-life">
 
 This sense that the Gulmohar tree is entrenched in Indian culture, however, belies the fact that the plant only appeared in the subcontinent in the nineteenth century. First ‘discovered’ in 1828 in Madagascar, within a few decades, the tree made its way across the [tropics](Q42530) through the botanical networks of the [British Empire](Q8680), blossoming in India and reaching as far as Jamaica and Singapore.[^2] The Gulmohar’s journey, from its introduction to India by the [East India Company](Q83164) to its eventual cultural integration, tells a fascinating story of how botany, colonization, revolution, art, and memory aligned to root a plant in the [Indian subcontinent](Q60140).
 <param ve-image 
@@ -73,7 +71,6 @@ The Gulmohar snuck into the list of ornamental plants to be introduced to Bombay
        title="Bombay, Calcutta, and Madras, renamed [Mumbai](Q1156), [Kolkata](Q1348), and [Chennai](Q1352) respectively, as non-anglicized names in Independent India, are the centers of British power. The Gulmohar first arrived in Bombay and then made its way to the coastal edges of the subcontinent through colonial botanists."
        show-labels="true">
 
-
 ### Becoming “Gulmohar”: A Tale of Two Flowers
 After its introduction to India, the Gulmohar spread rapidly. What is more surprising than its swift geographical spread, however, is the ease with which it integrated into the subcontinent’s cultures. In [Malayalam](Q36236), the language of present-day Kerala along the [Malabar](Q1534252) coast, it adopts a fascinating vernacular name, Kaalvarippoo. This translates to “Flowers of Calvary” and refers to the belief among [Saint Thomas Christians](Q648601) that the flower gained its blood-red color from growing near the cross at [Calvary](Q170516) hill where Jesus was crucified.[^25] Different languages and cultures adapted the tree to their beliefs, translating it into the language of pre-existing flora or into the regional significance of the flower’s striking color. 
 <param ve-image 
@@ -115,43 +112,39 @@ This dynamic plays out similarly in the [Bengali](Q9610) language: the Gulmohar 
        caption="The divine lovers Radha and Krishna walk in a grove of red flowering trees surrounded by peacocks. Painting circa 1720. Credit: Cynthia Hazen Polsky and Leon B. Polsky Fund, 2003, The Metropolitan Musuem of Art">
 
 ### The Gulmohar as Political Symbol
-Though the British left the subcontinent in 1947, they left behind countries drained of natural resources, shattered by colonization, and separated by religious borders. The massive transformations wrought by the colonizing powers—a radical change in traditional agriculture by the forceful adoption of commercial crops, the destruction of the traditional crafts and artisan class, the fracturing (and sometimes formation) of caste barriers, the creation of an educated class of English speakers through an overhaul of the education system, and the partition of the subcontinent into two nations on religious lines—were accompanied by seemingly more subtle changes in culture and landscape. The sprawl of the Gulmohar across both urban sidewalks and rural farms was one of those changes. 
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/9/92/How_India_be_split_up_%281947%29.jpg?20220923170315" fit="contain" label="An illustration in the Daily Herald of London, outlining the possible partition plan. It calls attention to Punjab and Bengal, the two regions that were split between the two nations due to an equal population of Hindus and Muslims.">
-<param ve-entity eid="Q129053">
+Though the British left the subcontinent in 1947, they left behind countries drained of natural resources, shattered by colonization, and separated by religious borders. The massive transformations wrought by the colonizing powers—a radical change in traditional agriculture by the forceful adoption of commercial crops, the destruction of the traditional crafts and artisan class, the fracturing (and sometimes formation) of caste barriers, the creation of an educated class of English speakers through an overhaul of the education system, and the [partition](Q129053) of the subcontinent into two nations on religious lines—were accompanied by seemingly more subtle changes in culture and landscape. The sprawl of the Gulmohar across both urban sidewalks and rural farms was one of those changes. 
+<param ve-image 
+       src="wc:How_India_be_split_up_(1947).jpg"
+       fit="contain" 
+       caption="An illustration in the *Daily Herald of London*, outlining the possible partition plan. It calls attention to Punjab and Bengal, the two regions that were split between the two nations due to an equal population of Hindus and Muslims.">
 
-Seemingly apolitical subjects sometimes become symbols for political transformation. After Independence, East Pakistan—present-day Bangladesh—was grappling with its dual identities of religion and language. Pakistan had declared Urdu and English to be its only official languages—Urdu was spoken widely in Pakistan, but not in East Pakistan, which was Bengali-speaking. Spurred to action, student protests broke out across Dhaka, the capital of East Pakistan, on February 21, 1952, with the police responding with violence. Mahbub ul Alam Chowdhury, one of the students at the protest, wrote the poem, “Kandte ashini – phanshir dabi niye eshechhi” (I have not come to weep, but to demand they be hanged) where the Gulmohar, called the Krishnachura in Bengali, takes on a deeply symbolic role: 
-“I have not come, where they laid down their lives /
-Under the Krishnachura trees, /
-                 to shed tears. /
-I have not come, where endless patches of blood /
-Glow like so many fiery flowers, to weep.”[^42]
-<param ve-entity eid="Q842931">
-<param ve-entity eid="Q1617">
-<param ve-entity eid="Q1354">
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/70/Rickshaw_in_Dhaka_1960s.jpg?20200609055226" label="A Gulmohar in Dhaka in the 1960s. The tree is a common sight in Dhaka, where it is called Krishnachura in Bengali.">
+Seemingly apolitical subjects sometimes become symbols for political transformation. After Independence, [East Pakistan](Q842931) (present-day Bangladesh) was grappling with its dual identities of religion and language. Pakistan had declared [Urdu](Q1617) and English to be its only official languages—Urdu was spoken widely in Pakistan, but not in East Pakistan, which was Bengali-speaking. Spurred to action, student protests broke out across [Dhaka](Q1354), the capital of East Pakistan, on February 21, 1952, with the police responding with violence. Mahbub ul Alam Chowdhury, one of the students at the protest, wrote the poem, “Kandte ashini – phanshir dabi niye eshechhi” (I have not come to weep, but to demand they be hanged), where the Gulmohar, called the Krishnachura in Bengali, takes on a deeply symbolic role: 
+>“I have not come, where they laid down their lives/ Under the Krishnachura trees,/ to shed tears./ I have not come, where endless patches of blood/ Glow like so many fiery flowers, to weep.”[^42]
+<param ve-image
+       src="wc:Rickshaw_in_Dhaka_1960s.jpg"
+       caption="A Gulmohar in Dhaka in the 1960s. The tree is a common sight in Dhaka, where it is called Krishnachura in Bengali. Wikimedia Commons.">
 
 Comparing the spilled blood of the martyrs to red flowers, instead of aestheticizing the brutal violence, feeds into the poem’s deferral of anger, which eventually reaches its fever pitch with the demand to hang the perpetrators. The poem was banned, and copies of it were seized by the newly created Pakistani government. There was an arrest warrant for Chowdhury, but he managed to escape. The poem gave birth to new genre of poetry that spoke of the mother tongue and the rage of those denied their language: Ekushey literature.[^43] This sentiment would feed into the war that led to the liberation of Bangladesh as a separate nation in 1971. The International Mother Language Day was set up by UNESCO in 1982, commemorating the Bengali Language protests that began on February 21, 1952.[^44]
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/5d/International_Mother_Language_Day_04.jpg" label="A Gathering in Khulna, Bangladesh, celebrating the International Mother Language Day that commemorates the language martyrs of 1952.">
+<param ve-image
+       src="International_Mother_Language_Day_04.jpg"
+       caption="A Gathering in Khulna, Bangladesh, celebrating the International Mother Language Day that commemorates the language martyrs of 1952.">
 
-Across the border in India, the Gulmohar took on a fascinating role in the caste politics of West Bengal. _The Story of the Arjun and the Krishnachura Tree_ (2014), by poet Mandakranta Sen, places two trees in opposition: the Arjun tree and the Krishnachura.[^45] The Arjun tree is “An Aryan male—a pillar of aristocracy” that all other trees bow down to. The term “Aryan” has a complicated history in India, used by upper-caste communities to uphold racial purity and trace their origin to a common “Indo-European” homeland, and on the other hand employed by progressive anti-caste movements to relegate the upper castes to being ancient invaders of the subcontinent.[^46]  Unlike the Arjun Tree, however, the Krishnachura is decidedly new to the land: its seed comes “from somewhere”—the poem does not bother to dwell on its origins—and eventually blossoms into a beautiful “Santhal girl,” from a tribal community that lies outside of the system of caste. The Arjun tree desires this tree that has “crimson in her hair,” but his desire is rooted in superiority and domination: “Only he could claim beauty so fair,” he thinks, being an Aryan male. The Krishnachura does not relent: “She wasn't drawn to the Aryan male / She was busy making the buds bloom.” The Arjun tree is forced only to gaze, shed his bark, and “accept he cannot win,” for the Krishnachura sheds blood —seemingly referring to menstruation, which cuts against caste-based ideas of purity where menstruation is seen as polluting.[^47]  What emerges is a tale of the introduced species, the Gulmohar, representing a space of beauty and subversion that exists outside of a culture rooted in caste domination.
-<param ve-entity eid="Q1356">
-<param ve-entity eid="Q2719381">
-<param ve-entity eid="Q179733">
-<param ve-entity eid="Q484416">
-<param ve-entity eid="Q1260346">
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/ba/Terminalia_arjuna_trunk_01_by_Line1.JPG" label="The Arjun tree shares its name with Arjuna, a key character from the Vedic epic Mahabharata, in which five brothers fight a war of righteous succession against their cousins.">
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/a5/BhagavadGita-19th-century-Illustrated-Sanskrit-Chapter_1.20.21.jpg" label="Arjuna is guided by Lord Krishna, his charioteer and brother-in-law, pictured alongside him above.">
-
+Across the border in India, the Gulmohar took on a fascinating role in the caste politics of [West Bengal](Q1356). _The Story of the Arjun and the Krishnachura Tree_ (2014), by poet Mandakranta Sen, places two trees in opposition: the [Arjun tree](Q2719381) and the Krishnachura.[^45] The Arjun tree is “An Aryan male—a pillar of aristocracy” that all other trees bow down to. The term “[Aryan](Q179733)” has a complicated history in India, used by upper-[caste](Q484416) communities to uphold racial purity and trace their origin to a common “Indo-European” homeland, and on the other hand employed by progressive anti-caste movements to relegate the upper castes to being ancient invaders of the subcontinent.[^46] Unlike the Arjun Tree, however, the Krishnachura is decidedly new to the land: its seed comes “from somewhere”—the poem does not bother to dwell on its origins—and eventually blossoms into a beautiful “[Santhal](Q1260346) girl,” from a tribal community that lies outside of the system of caste. The Arjun tree desires this tree that has “crimson in her hair,” but his desire is rooted in superiority and domination: “Only he could claim beauty so fair,” he thinks, being an Aryan male. The Krishnachura does not relent: “She wasn't drawn to the Aryan male / She was busy making the buds bloom.” The Arjun tree is forced only to gaze, shed his bark, and “accept he cannot win,” for the Krishnachura sheds blood —seemingly referring to menstruation, which cuts against caste-based ideas of purity where menstruation is seen as polluting.[^47]  What emerges is a tale of the introduced species, the Gulmohar, representing a space of beauty and subversion that exists outside of a culture rooted in caste domination.
+<param ve-image 
+       src="wc:Terminalia_arjuna_trunk_01_by_Line1.JPG"
+       caption="The Arjun tree shares its name with Arjuna, a key character from the Vedic epic Mahabharata, in which five brothers fight a war of righteous succession against their cousins.">
+<param ve-image 
+       src="wc:BhagavadGita-19th-century-Illustrated-Sanskrit-Chapter_1.20.21.jpg"
+       caption="Arjuna is guided by Lord Krishna, his charioteer and brother-in-law, pictured alongside him above.">
 
 ### The Gulmohar and Longing 
-
-Desire, temporality, memory, and longing come together in the symbolic power of the Gulmohar in modern India. Turning to film, music, and literature can give a clearer understanding of its influence and associations. “If your name were Gulmohar,” sings the Bollywood hero of the 1978 movie _Devata_ as he presents his lover with a Gulmohar flower, “then making the spring laugh would be my task.”[^48]  Throughout the song, the lovers frolic around the Gulmohar. The camera pans across the tree, taking wide shots of its blossoming canopy, cutting shots of the sighing lovers under its bouncing branches, and focusing on the falling flowers. By the 1970s, the Gulmohar was a common sight in India, and the song uses the tree not only as a lyrical symbol but as a physical, living character that is very much a part of the action and movement on screen. “When the spring comes next time, ask it one small thing,” sings the hero, “without my flower, how could its name be spring?” The heroine sings back with his own words, “If your name were Gulmohar, then making the spring laugh would be my task!”
-<param ve-entity eid="Q93196">
-<param ve-iframe src="https://geo.dailymotion.com/player.html?video=x8mtotz;start=30"
-    style="width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden; border:none;"
-    allowfullscreen
-    title="Dailymotion Video Player"
-    allow="web-share"
+Desire, temporality, memory, and longing come together in the symbolic power of the Gulmohar in modern India. Turning to film, music, and literature can give a clearer understanding of its influence and associations. “If your name were Gulmohar,” sings the [Bollywood](Q93196) hero of the 1978 movie _Devata_ as he presents his lover with a Gulmohar flower, “then making the spring laugh would be my task.”[^48]  Throughout the song, the lovers frolic around the Gulmohar. The camera pans across the tree, taking wide shots of its blossoming canopy, cutting shots of the sighing lovers under its bouncing branches, and focusing on the falling flowers. By the 1970s, the Gulmohar was a common sight in India, and the song uses the tree not only as a lyrical symbol but as a physical, living character that is very much a part of the action and movement on screen. “When the spring comes next time, ask it one small thing,” sings the hero, “without my flower, how could its name be spring?” The heroine sings back with his own words, “If your name were Gulmohar, then making the spring laugh would be my task!”
+<param ve-iframe 
+       src="https://geo.dailymotion.com/player.html?video=x8mtotz;start=30"
+       style="width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden; border:none;"
+       allowfullscreen
+       title="Dailymotion Video Player"
+       allow="web-share"
        start = "30">
 
 In another movie from the 1970s, the devotional _Narad Leela_, the Gulmohar is evoked to represent the unrequited desire of an Apsara—a divine nymph of heaven—for the celibate Narad, the messenger of the Gods. They meet when Narad is deep in ascetic meditation. Indra, the King of Heaven, fearing that Narad is gaining too much divine power, instructs Kaamdev, the god of desire, to end Narad’s meditation. Kaamdev thus sends the Apsara to tempt Narad out of his asceticism. The plan of the gods, however, backfires: the Apsara falls in love with Narad  instead. “I came to color your body in my shade / But mine paled; I have become your shade,”[^49] she sings in the song _Gulmohar Ke Lal Lal Phulwa Khil Gaye_, dancing around the meditating Narad. Though the visuals do not feature the Gulmohar, the tree is immediately conjured in the lyrics: “The red buds of the Gulmohar have blossomed, my love / With red on its cheeks, the pink season has come / Leaving me this gift, childhood has gone away.”  
