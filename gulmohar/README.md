@@ -147,30 +147,49 @@ Desire, temporality, memory, and longing come together in the symbolic power of 
        allow="web-share"
        start = "30">
 
-In another movie from the 1970s, the devotional _Narad Leela_, the Gulmohar is evoked to represent the unrequited desire of an Apsara—a divine nymph of heaven—for the celibate Narad, the messenger of the Gods. They meet when Narad is deep in ascetic meditation. Indra, the King of Heaven, fearing that Narad is gaining too much divine power, instructs Kaamdev, the god of desire, to end Narad’s meditation. Kaamdev thus sends the Apsara to tempt Narad out of his asceticism. The plan of the gods, however, backfires: the Apsara falls in love with Narad  instead. “I came to color your body in my shade / But mine paled; I have become your shade,”[^49] she sings in the song _Gulmohar Ke Lal Lal Phulwa Khil Gaye_, dancing around the meditating Narad. Though the visuals do not feature the Gulmohar, the tree is immediately conjured in the lyrics: “The red buds of the Gulmohar have blossomed, my love / With red on its cheeks, the pink season has come / Leaving me this gift, childhood has gone away.”  
-<param ve-entity eid="Q844066">
-<param ve-entity eid="Q148773">
-<param ve-iframe src="https://www.youtube.com/embed/YGZ9rz1MNbE?si=XFuZomDBpXwagecx&amp;start=74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
-
+In another movie from the 1970s, the devotional _Narad Leela_, the Gulmohar is evoked to represent the unrequited desire of an Apsara—a divine nymph of heaven—for the celibate [Narad](Q844066), the messenger of the Gods. They meet when Narad is deep in ascetic meditation. Indra, the King of Heaven, fearing that Narad is gaining too much divine power, instructs Kaamdev, the god of desire, to end Narad’s meditation. Kaamdev thus sends the Apsara to tempt Narad out of his asceticism. The plan of the gods, however, backfires: the [Apsara](Q148773) falls in love with Narad instead. “I came to color your body in my shade / But mine paled; I have become your shade,”[^49] she sings in the song _Gulmohar Ke Lal Lal Phulwa Khil Gaye_, dancing around the meditating Narad. Though the visuals do not feature the Gulmohar, the tree is immediately conjured in the lyrics: “The red buds of the Gulmohar have blossomed, my love / With red on its cheeks, the pink season has come / Leaving me this gift, childhood has gone away.”  
+<param ve-iframe 
+       src="https://www.youtube.com/embed/YGZ9rz1MNbE?si=XFuZomDBpXwagecx&amp;start=74" 
+       title="YouTube video player" 
+       frameborder="0" 
+       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+       referrerpolicy="strict-origin-when-cross-origin" 
+       allowfullscreen>
 
 Though the Gulmohar is linked with the beginning of desire—–and the end of childhood in _Narad Leela_, it is most often associated with nostalgia and childhood memories. In his 1965 poem _The Krishnachura Tree_, Syed Ali Hasan recalls the sensations of his childhood in a staccato of end-stopped lines, “Green night in the leaves of trees. / The blue of inexhaustible rest in rivers. / Many trees supported by shining vines.” and the poem ends ponderously recalling the eponymous tree: “The history of my memory / the krishnachura as seen / by the eyes of youth.”[^50]  Notably, the Odia poet Pravasani Mahakud’s poem _Forget, forget_ begins with the Gulmohar tree: “Forget the sight of the first blossoming / of the Gulmohar plant: / may be some heart’s blood remains on it, may be / some forehead’s pain and may be even some greenness / of the whole body”.[^51]  There is a magic, it seems, in the first sight of the blossoming Gulmohar tree. The tree is always marred by the “heart’s blood” from the encounter in childhood. 
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/de/Delonix_regia_in_north_kerala.jpg" label="The transience of the Gulmohar blooming brightly in the summer and then losing its color mirrors both the intensity and the ephemerality of youth.">
+<param ve-image 
+       src="wc:Delonix_regia_in_north_kerala.jpg" 
+       caption="The transience of the Gulmohar blooming brightly in the summer and then losing its color mirrors both the intensity and the ephemerality of youth.">
 
-Longing is a recurring motif associated with the Gulmohar tree. The Disney+ Hostar movie _Gulmohar_ revolves around themes of nostalgia, memory, and inheritance.[^52] The family reels from the loss of its patriarch, while his widow Kusum Batra tries to hold three generations together in their house named Gulmohar, which they will soon vacate. Much of the film is about Arun Batra, Kusum’s and her husband’s adopted son, and his struggle to reconcile his “roots” with his upbringing—he discovers that he is the biological son of a poor man who runs a chai stall rather than being the trueborn family heir. The idea of roots allows us to read the title _Gulmohar_ as a metaphor for the Batra family itself, threatened to be uprooted like a tree by the impending loss of their family home. Interestingly, for a film named after a tree, the only time the Gulmohar appears in the movie is in a flashback sequence: Kusum recounts her college years in Pune, where a blossoming queer romance is set against the backdrop of suspended Gulmohar petals and bicycle trails covered with red. There is a clear link between the Gulmohar and nostalgia: for what is both beloved and lost. Fittingly, Tamil poet Kanimozhi’s poem _Never-ending Kiss_ (2002) makes an unfinished kiss a fixed, tangible part of the Gulmohar: “Carved in cold stone / below the flaming / gulmohar tree / is an unfinished / never-ending kiss.”[^53]
-<param ve-entity eid="Q117019661">
-<param ve-entity eid="Q1538">
-<param ve-entity eid="Q467231">
-<param ve-image url="gulmohar_hotstar_1.png" label="The Gulmohar’s only appearance in the eponymous movie is during a flashback sequence, where a queer romance is shown with the backdrop of the plant’s blossom." fit="contain">
-<param ve-image url="gulmohar_hotstar_2.png" label="The Gulmohar’s only appearance in the eponymous movie is during a flashback sequence, where a queer romance is shown with the backdrop of the plant’s blossom." fit="contain">
-<param ve-image url="gulmohar_hotstar_3.png" label="The Gulmohar’s only appearance in the eponymous movie is during a flashback sequence, where a queer romance is shown with the backdrop of the plant’s blossom." fit="contain">
-<param ve-image url="gulmohar_hotstar_4.png" label="The Gulmohar’s only appearance in the eponymous movie is during a flashback sequence, where a queer romance is shown with the backdrop of the plant’s blossom." fit="contain">
-<param ve-image url="gulmohar_hotstar_5.png" label="The Gulmohar’s only appearance in the eponymous movie is during a flashback sequence, where a queer romance is shown with the backdrop of the plant’s blossom." fit="contain">
+Longing is a recurring motif associated with the Gulmohar tree. The Disney+ Hostar movie *[Gulmohar](Q117019661)* revolves around themes of nostalgia, memory, and inheritance.[^52] The family reels from the loss of its patriarch, while his widow Kusum Batra tries to hold three generations together in their house named Gulmohar, which they will soon vacate. Much of the film is about Arun Batra, Kusum’s and her husband’s adopted son, and his struggle to reconcile his “roots” with his upbringing—he discovers that he is the biological son of a poor man who runs a chai stall rather than being the trueborn family heir. The idea of roots allows us to read the title _Gulmohar_ as a metaphor for the Batra family itself, threatened to be uprooted like a tree by the impending loss of their family home. Interestingly, for a film named after a tree, the only time the Gulmohar appears in the movie is in a flashback sequence: Kusum recounts her college years in [Pune](Q1538), where a blossoming queer romance is set against the backdrop of suspended Gulmohar petals and bicycle trails covered with red. There is a clear link between the Gulmohar and nostalgia: for what is both beloved and lost. Fittingly, Tamil poet [Kanimozhi](Q467231)’s poem _Never-ending Kiss_ (2002) makes an unfinished kiss a fixed, tangible part of the Gulmohar: “Carved in cold stone / below the flaming / gulmohar tree / is an unfinished / never-ending kiss.”[^53]
+<param ve-image 
+       src="gh:plant-humanities/media/gulmohar/hotstar1.png" 
+       caption="The Gulmohar’s only appearance in the eponymous movie is during a flashback sequence, where a queer romance is shown with the backdrop of the plant’s blossom." 
+       fit="contain">
+<param ve-image 
+       src="gh:plant-humanities/media/gulmohar/hotstar2.png"
+       caption="The Gulmohar’s only appearance in the eponymous movie is during a flashback sequence, where a queer romance is shown with the backdrop of the plant’s blossom." 
+       fit="contain">
+<param ve-image 
+       src="gh:plant-humanities/media/gulmohar/hotstar3.png"
+       caption="The Gulmohar’s only appearance in the eponymous movie is during a flashback sequence, where a queer romance is shown with the backdrop of the plant’s blossom." 
+       fit="contain">
+<param ve-image 
+       src="gh:plant-humanities/media/gulmohar/hotstar4.png"
+       caption="The Gulmohar’s only appearance in the eponymous movie is during a flashback sequence, where a queer romance is shown with the backdrop of the plant’s blossom." 
+       fit="contain">
+<param ve-image 
+       src="gh:plant-humanities/media/gulmohar/hotstar5.png"
+       caption="The Gulmohar’s only appearance in the eponymous movie is during a flashback sequence, where a queer romance is shown with the backdrop of the plant’s blossom." 
+       fit="contain">
 
 In 1986, Panna Naik wrote the poem _Sub-tropics_ in Pennsylvania: “Uprooting a tropical plant / I replanted it / in this cold alien land / and determined it shall survive.”[^54]  In the next line, however, comes the “yet”: “When the whole earth here erupts hot summer roses / my eyes cry red for gulmohar.” The Indian subject moves to the west and the Gulmohar tree—which the colonial powers introduced in the subcontinent only a century-and-a-half ago—now becomes a marker of her own culture. She attempts to make the plant take root in this foreign land, to bring with her a part of her own cultural roots, but the attempt fails, just as the colonial attempt of its naturalization in Britain never fully fruits. The plants’ trajectory—from its origin in Madagascar, botanical identification in Mauritius, arrival in the Indian subcontinent as part of a colonial experiment, and its cultural adoption to becoming a symbol that represents multitudes of social reform, nostalgia, desire, longing and even the idea of “Indian-ness”—seems both like a journey of leaving and arriving home. In the last stanza of _Sub-tropics_, Naik considers returning to the subcontinent, but the closing, separately indented line ponders, “But where is home?” The Gulmohar, a tree from Madagascar that makes a home for itself in the Indian subcontinent, would perhaps have the most fitting answer. 
 <param ve-entity eid="Q2763668">
 <param ve-entity eid="Q1400">
 <param ve-entity eid="Q1400">
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/8d/M._E._Russell_F-8_%286B-H968%29_-_Royal_Poinciana_Tree_Amidst_Majestic_Royal_Palms%2C_Fort_Myers%2C_Florida_front.jpg" label="The Gulmohar finds an unlikely home in the tropical regions of Florida, where it is called the Royal Poinciana.">
+<param ve-image 
+       src="wc:M._E._Russell_F-8_(6B-H968)_-_Royal_Poinciana_Tree_Amidst_Majestic_Royal_Palms,_Fort_Myers,_Florida_front.jpg"
+       caption="The Gulmohar finds an unlikely home in the tropical regions of Florida, where it is called the Royal Poinciana. Wikimedia Commons">
 
 
 ### References
