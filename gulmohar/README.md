@@ -2,8 +2,10 @@
 
 <param ve-config 
        title="The Gulmohar: Becoming Native"
+       source-image="https://upload.wikimedia.org/wikipedia/commons/d/de/Gulmohar_%28Delonix_regia%29_flower.jpg"
+       banner="https://upload.wikimedia.org/wikipedia/commons/d/de/Gulmohar_%28Delonix_regia%29_flower.jpg" 
+       height=100
        author="Nidhish Birhade"
-       banner="Curtis Gulmohar.jpg"
        layout="vertical">
 
 The [Delonix regia](Q238486)—or the Gulmohar, as it is called in India—is a flowering tree native to Madagascar.[^1] It blossoms every summer across villages and cities in India, and its vivid red flowers are associated strongly with the ideas of home, nostalgia, and summertime. A popular name for housing societies, residential areas, parks, restaurants, resorts, boutiques, companies, songs, a literary magazine, and an award-winning Disney+ Hotstar movie, the Gulmohar takes on many faces in India, each serving as a testament to its cultural significance. 
