@@ -8,8 +8,8 @@
 
 The [Delonix regia](Q238486)—or the Gulmohar, as it is called in India—is a flowering tree native to Madagascar.[^1] It blossoms every summer across villages and cities in India, and its vivid red flowers are associated strongly with the ideas of home, nostalgia, and summertime. A popular name for housing societies, residential areas, parks, restaurants, resorts, boutiques, companies, songs, a literary magazine, and an award-winning Disney+ Hotstar movie, the Gulmohar takes on many faces in India, each serving as a testament to its cultural significance. 
 <param ve-image        
-       url="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Delonix_regia_%28Hook.%29_Raf._%28486405819%29.jpg/2560px-Delonix_regia_%28Hook.%29_Raf._%28486405819%29.jpg" label="The red flowers of the Gulmohar." 
-       license="public domain">
+       src="wc:Delonix_regia_(Hook.)_Raf._(486405819).jpg"
+       caption="The red flowers of the Gulmohar. Wikimedia Commons.">
 
 This sense that the Gulmohar tree is entrenched in Indian culture, however, belies the fact that the plant only appeared in the subcontinent in the nineteenth century. First ‘discovered’ in 1828 in Madagascar, within a few decades, the tree made its way across the [tropics](Q42530) through the botanical networks of the [British Empire](Q8680), blossoming in India and reaching as far as Jamaica and Singapore.[^2] The Gulmohar’s journey, from its introduction to India by the [East India Company](Q83164) to its eventual cultural integration, tells a fascinating story of how botany, colonization, revolution, art, and memory aligned to root a plant in the [Indian subcontinent](Q60140).
 <param ve-image 
