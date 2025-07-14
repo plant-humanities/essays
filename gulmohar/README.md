@@ -25,18 +25,19 @@ The discovery of the Gulmohar in Madagascar reveals the intimate, transnational 
        fit="contain" 
        caption="A French map of Madagascar, dated to 1810. Because of its geological isolation for over 88 million years, Madagascar is a biodiversity hotspot that is home to nearly 11,000 endemic plant species. Wikimedia Commons.">
 
-Mauritius was a budding center of imperial botanical learning. Its past as a French colony—from 1715 until it was seized by the British in 1810—resulted in it being a site of collaboration between English and French speakers. In addition to Bojer was part of a group of botanists that included Irish botanist Charles Telfair and his wife, Anna; Mauritian botanist Louis Bouton; and Julien Desjardins, all of whom were in close contact with Sir William Jackson Hooker, the first director of the Royal Botanic Gardens at Kew. Centers of knowledge in the metropole acted as authorities that legitimized the findings of overseas botanists, while depending on them to discover rare plant species that would expand the Empire’s knowledge, resources, and trade.[^4] The botanists at Mauritius thus sent Hooker regular reports of their discoveries along with seeds and specimens. In exchange, they relied on Hooker to send news of scientific and botanical progress in Europe, as they felt they were “exiled from the world of knowledge.”[^5]
-<param ve-entity eid="Q1066232">
-<param ve-entity eid="Q2114760">
-<param ve-entity eid="Q1712234">
-<param ve-entity eid="Q472639">
-<param ve-entity eid="Q188617">
-<param ve-entity eid="Q21855250">
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/c/ce/Isle_of_France%2C_2_December_1810.jpg" fit="contain" title="'The taking of the Isle of France'. Mauritius was captured by the British in 1810. Prior to the invasion, it was called Isle de France, and French remains a de facto language in the country today." license="public domain">
+Mauritius was a budding center of imperial botanical learning. Its past as a French colony—from 1715 until it was seized by the British in 1810—resulted in it being a site of collaboration between English and French speakers. In addition to Bojer was part of a group of botanists that included Irish botanist [Charles Telfair](Q1066232) and his wife, Anna; Mauritian botanist [Louis Bouton](Q2114760); and [Julien Desjardins](Q1712234), all of whom were in close contact with Sir [William Jackson Hooker](Q472639), the first director of the [Royal Botanic Gardens at Kew](Q188617). Centers of knowledge in the [metropole](Q21855250) acted as authorities that legitimized the findings of overseas botanists, while depending on them to discover rare plant species that would expand the Empire’s knowledge, resources, and trade.[^4] The botanists at Mauritius thus sent Hooker regular reports of their discoveries along with seeds and specimens. In exchange, they relied on Hooker to send news of scientific and botanical progress in Europe, as they felt they were “exiled from the world of knowledge.”[^5]
+<param ve-image
+       src="wc:Isle_of_France,_2_December_1810.jpg" 
+       fit="contain" 
+       caption="*The taking of the Isle of France*. Mauritius was captured by the British in 1810. Prior to the invasion, it was called Isle de France, and French remains a de facto language in the country today. Wikimedia Commons.">
 
 In 1828, Charles Telfair wrote to Hooker about a plant specimen discovered by Bojer that was “worthy of a place” in his works: the _Poinciana regia_ (it would later be renamed _Delonix regia_).[^6] Bojer likely discovered the plant during his second expedition to Madagascar. Following his initial letter, Telfair sent Hooker seeds of the plant and a drawing by Bojer, hoping to get it published in _Curtis’s Botanical Magazine_, for which Hooker was its main editor.[^7]  At the time, the magazine was the largest and most renowned serial publication of its kind. 
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/1e/Hanging_pods_of_Gulmohar.jpg" label="The pods of the Gulmohar are green when young, but turn brown and woody when mature.">
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/c/c9/Starr_020630-0014_Delonix_regia.jpg" label="Each pod contains 20-45 seeds, each about 2cm in length.">
+<param ve-image
+       src="wc:Hanging_pods_of_Gulmohar.jpg" 
+       caption="The pods of the Gulmohar are green when young, but turn brown and woody when mature. Wikimedia Commons.">
+<param ve-image
+       src="wc:Starr_020630-0014_Delonix_regia.jpg" 
+       caption="Each pod contains 20-45 seeds, each about 2cm in length. Wikimedia Commons.">
 
 ### European Fascination
 In 1829, Hooker included an entry on the Poinciana regia in the magazine. The entry was accompanied by Joseph Swan’s stunning engraving of _Poinciana regia_ flowers based on a “magnificent drawing” by Bojer.[^8] In his descriptions, Hooker mentioned that they sometimes published entries on beautiful and rare plants that the English had no hope of cultivating successfully in the country; but this, he claimed, was not the case with the Poinciana regia. He would have waited for the plant to blossom before publishing an entry on it, if it “were not the subject of such great interest”.[^9] He expressed hope “of its blossoming in this country” very soon, thanks to the attempt of Robert Barclay (a wealthy businessman and amateur botanist) to raise saplings of the seeds sent by Telfair. Barclay’s vast garden Bury Hill had been the site of many exotic plants taking root in Britain.[^10]  
