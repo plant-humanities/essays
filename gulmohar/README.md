@@ -2,8 +2,8 @@
 
 <param ve-config 
        title="The Gulmohar: Becoming Native"
-       source-image="https://upload.wikimedia.org/wikipedia/commons/a/af/Gulmohar_flowers_closeup_1.JPG"
-       banner="https://upload.wikimedia.org/wikipedia/commons/a/af/Gulmohar_flowers_closeup_1.JPG" 
+       source-image="gh:plant-humanities/media/gulmohar/CurtisGulmohar.jpg"
+       banner="gh:plant-humanities/media/gulmohar/CurtisGulmohar.jpg" 
        height=100
        author="Nidhish Birhade"
        layout="vertical">
@@ -182,10 +182,7 @@ Longing is a recurring motif associated with the Gulmohar tree. The Disney+ Host
        caption="The Gulmohar’s only appearance in the eponymous movie is during a flashback sequence, where a queer romance is shown with the backdrop of the plant’s blossom." 
        fit="contain">
 
-In 1986, Panna Naik wrote the poem _Sub-tropics_ in Pennsylvania: “Uprooting a tropical plant / I replanted it / in this cold alien land / and determined it shall survive.”[^54]  In the next line, however, comes the “yet”: “When the whole earth here erupts hot summer roses / my eyes cry red for gulmohar.” The Indian subject moves to the west and the Gulmohar tree—which the colonial powers introduced in the subcontinent only a century-and-a-half ago—now becomes a marker of her own culture. She attempts to make the plant take root in this foreign land, to bring with her a part of her own cultural roots, but the attempt fails, just as the colonial attempt of its naturalization in Britain never fully fruits. The plants’ trajectory—from its origin in Madagascar, botanical identification in Mauritius, arrival in the Indian subcontinent as part of a colonial experiment, and its cultural adoption to becoming a symbol that represents multitudes of social reform, nostalgia, desire, longing and even the idea of “Indian-ness”—seems both like a journey of leaving and arriving home. In the last stanza of _Sub-tropics_, Naik considers returning to the subcontinent, but the closing, separately indented line ponders, “But where is home?” The Gulmohar, a tree from Madagascar that makes a home for itself in the Indian subcontinent, would perhaps have the most fitting answer. 
-<param ve-entity eid="Q2763668">
-<param ve-entity eid="Q1400">
-<param ve-entity eid="Q1400">
+In 1986, [Panna Naik](Q2763668) wrote the poem _Sub-tropics_ in [Pennsylvania](Q1400): “Uprooting a tropical plant / I replanted it / in this cold alien land / and determined it shall survive.”[^54]  In the next line, however, comes the “yet”: “When the whole earth here erupts hot summer roses / my eyes cry red for gulmohar.” The Indian subject moves to the west and the Gulmohar tree—which the colonial powers introduced in the subcontinent only a century-and-a-half ago—now becomes a marker of her own culture. She attempts to make the plant take root in this foreign land, to bring with her a part of her own cultural roots, but the attempt fails, just as the colonial attempt of its naturalization in Britain never fully fruits. The plants’ trajectory—from its origin in Madagascar, botanical identification in Mauritius, arrival in the Indian subcontinent as part of a colonial experiment, and its cultural adoption to becoming a symbol that represents multitudes of social reform, nostalgia, desire, longing and even the idea of “Indian-ness”—seems both like a journey of leaving and arriving home. In the last stanza of _Sub-tropics_, Naik considers returning to the subcontinent, but the closing, separately indented line ponders, “But where is home?” The Gulmohar, a tree from Madagascar that makes a home for itself in the Indian subcontinent, would perhaps have the most fitting answer. 
 <param ve-image 
        src="wc:M._E._Russell_F-8_(6B-H968)_-_Royal_Poinciana_Tree_Amidst_Majestic_Royal_Palms,_Fort_Myers,_Florida_front.jpg"
        caption="The Gulmohar finds an unlikely home in the tropical regions of Florida, where it is called the Royal Poinciana. Wikimedia Commons">
