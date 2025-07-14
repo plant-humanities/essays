@@ -51,7 +51,10 @@ The hope for the tree’s [naturalization](Q2878495) on British shores, however,
        title="The gardens at Bury Hill were used as a site for botanical transplantation of newly discovered species through the support of its owner, Robert Barclay.">
 
 European fascination with the plant continued to grow. In the French herbal _Histoire naturelle des végétaux_ (1834), French botanist Édouard Spach wrote of the “magnifique” _Poinciana regia_ and noted that English horticultural establishments possessed its saplings.[^13] In 1837, the tree was included in _Paxton’s Magazine of Botany_’s register of flowering plants, which praised it as a splendid plant that “ought to be in every collection.”[^14] Bojer’s French manuscript about the flora of Mauritius and the surrounding islands, _Hortus Mauritianus_, was published in 1837, with an entry on the Poinciana regia, fittingly called the Flamboyant in French.[^15] By then, however, the tree was already well known across Europe.
-<param ve-image url="coi00001161.jpg" title="Delonix regia: Herbarium Specimen. COI University of Coimbra, John Gossweiler 11368" fit="contain">
+<param ve-image 
+       src="gh:plant-humanities/media/gulmohar/specimenimage.jpg" 
+       caption="Delonix regia: Herbarium Specimen. COI University of Coimbra, John Gossweiler 11368." 
+       fit="contain">
 <param ve-entity eid="Q13548591">
 <param ve-entity eid="Q20897639">
 
