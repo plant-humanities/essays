@@ -2,8 +2,8 @@
 
 <param ve-config 
        title="The Gulmohar: Becoming Native"
-       source-image="https://upload.wikimedia.org/wikipedia/commons/d/de/Gulmohar_%28Delonix_regia%29_flower.jpg"
-       banner="https://upload.wikimedia.org/wikipedia/commons/d/de/Gulmohar_%28Delonix_regia%29_flower.jpg" 
+       source-image="https://upload.wikimedia.org/wikipedia/commons/0/03/Gulmohar_Flowers.png"
+       banner="https://upload.wikimedia.org/wikipedia/commons/0/03/Gulmohar_Flowers.png" 
        height=100
        author="Nidhish Birhade"
        layout="vertical">
