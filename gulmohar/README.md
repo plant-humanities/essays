@@ -193,7 +193,7 @@ In 1986, Panna Naik wrote the poem _Sub-tropics_ in Pennsylvania: “Uprooting a
 
 
 ### References
-[^1]: Plants of the World Online. “Delonix Regia (Bojer Ex Hook.) Raf. | Plants of the World Online | Kew Science,” n.d. https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:491231-1.
+[^1]: Plants of the World Online. “Delonix Regia (Bojer Ex Hook.) Raf., Plants of the World Online, Kew Science,” n.d. https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:491231-1.
 [^2]: Wharton, Thomas. Letter to Sir William Jackson Hooker from Bath, Jamaica. Library and Archives at Royal Botanic Gardens, Kew, Directors' Correspondence 71/418, April 9, 1856. https://plants.jstor.org/stable/10.5555/al.ap.visual.kmdc1611; Singapore Agri-Horticultural Society. Appendix A to Annual Report of the Singapore Agri-Horticultural Society (Singapore: Straits Times Press, 1866.) https://www.biodiversitylibrary.org/bibliography/135433.
 [^3]: Hooker, William Jackson, Sir. “Botanical Information,” Hooker’s Journal of Botany and Kew Garden Miscellany, Vol. VIII, 1865: 312–313. https://www.biodiversitylibrary.org/item/6326#page/321/mode/1up.
 [^4]: Schiebinger, Londa L. “Introduction,” Plants and Empire: Colonial Bioprospecting in the Atlantic World (Cambridge: Harvard University Press, 2004). http://ci.nii.ac.jp/ncid/BA70897084.
