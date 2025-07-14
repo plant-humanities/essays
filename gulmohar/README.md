@@ -55,6 +55,7 @@ European fascination with the plant continued to grow. In the French herbal _His
        src="gh:plant-humanities/media/gulmohar/specimenimage.jpg" 
        caption="Delonix regia: Herbarium Specimen. COI University of Coimbra, John Gossweiler 11368." 
        fit="contain">
+       
 <param ve-entity eid="Q13548591">
 <param ve-entity eid="Q20897639">
 
