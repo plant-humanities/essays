@@ -13,9 +13,8 @@ The [Delonix regia](Q238486)—or the Gulmohar, as it is called in India—is a 
 
 This sense that the Gulmohar tree is entrenched in Indian culture, however, belies the fact that the plant only appeared in the subcontinent in the nineteenth century. First ‘discovered’ in 1828 in Madagascar, within a few decades, the tree made its way across the [tropics](Q42530) through the botanical networks of the [British Empire](Q8680), blossoming in India and reaching as far as Jamaica and Singapore.[^2] The Gulmohar’s journey, from its introduction to India by the [East India Company](Q83164) to its eventual cultural integration, tells a fascinating story of how botany, colonization, revolution, art, and memory aligned to root a plant in the [Indian subcontinent](Q60140).
 <param ve-image 
-       url="https://upload.wikimedia.org/wikipedia/commons/5/50/Marianne_North_%281830-1890%29_-_Foliage_and_Flowers_of_a_Madagascar_Tree_at_Singapore_-_MN343_-_Marianne_North_Gallery.jpg?20250505175207" 
-       title="‘Foliage and Flowers of a Madagascar Tree at Singapore,’ by Marianne North, illustrated in 1876. By 1866, the Gulmohar was noted as an exotic plant that “grows well” on the island of Singapore." 
-       license="public domain">
+       src="wc:Marianne_North_(1830-1890)_-_Foliage_and_Flowers_of_a_Madagascar_Tree_at_Singapore_-_MN343_-_Marianne_North_Gallery.jpg" 
+       caption="*Foliage and Flowers of a Madagascar Tree at Singapore*, by Marianne North, illustrated in 1876. By 1866, the Gulmohar was noted as an exotic plant that “grows well” on the island of Singapore. Wikimedia Commons.">
 
 ### Colonial Discovery
 The discovery of the Gulmohar in Madagascar reveals the intimate, transnational network of botanists who operated out of the colonies, partaking in the trade of botanical material and knowledge with their contemporaries in Europe. The tree was discovered by Wenceslas Bojer (1795–1856), a French-speaking botanist from Prague. Francis I, the Emperor of Austria, sponsored Bojer’s education and marked him “destined at a future period for missions of scientific discovery".[^3] In 1820, Bojer traveled to Mauritius, a British colony, where he lived for the rest of his life and from there undertook botanical expeditions spanning the east coast of Africa and the islands of the Indian Ocean, with a focus on Madagascar. 
