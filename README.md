@@ -21,6 +21,13 @@ This essay provides an approachable overview of herbarium specimens and how they
 # Featured Plant Narratives 
 `.cards`
 
+## The Gulmohar: Becoming Native
+[The Gulmohar: Becoming Native](gulmohar)
+
+- Nidhish Birhade
+
+!![](https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/gulmohar.jpg)
+
 ## What We Know Now: Tracing the Tamarack
 [What We Know Now: Tracing the Tamarack](tamarack)
 
@@ -184,6 +191,14 @@ This essay provides an approachable overview of herbarium specimens and how they
 - Ana Carolina Carmona-Ribeiro, Nathan Cornish, and Sheila Scoville
 
 ![](https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/eggplant.jpg)
+
+## The Gulmohar: Becoming Native
+[The Gulmohar: Becoming Native](gulmohar)
+
+- Nidhish Birhade
+
+!![](https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/gulmohar.jpg)
+
 ## Heliconia: Evolution at Work
 [Heliconia: Evolution at Work](heliconia)
 
