@@ -151,38 +151,33 @@ Several volumes of Tennyson’s work were illustrated by his close friend, the p
 Since Linnaeus’ classification, the known diversity of passionflowers has grown considerably: passionflowers encompass plant life forms that are visual, olfactory, dynamic, and malleable. The proliferation of the flower over evolutionary time represents the numerous and intimate entanglements of the plant with its predators, pollinators, and rainforest habitats. The flowers of *Passiflora mucronata*, for instance, are pollinated by bats and open at night in as little as fifteen seconds to release an odor that smells somewhat like pumpkin, fresh beans, or lemon cake.[^41] The common names of passionflowers indicate their diversity of forms: "moon-shaped-leaved" (*P. murucuza*), "bat-winged" (*P. vespertilio*), "cork-barked" (*P. suberosa*), "square-stalked" (*P. quadrangularis*), "laurel-leaved" (*P. laurifolia*), "apple-fruited" (*P. maliformis*), and even, "sea-anemone-like" (*P. actinia*).[^42]
 <param ve-image
        src="wc:NIEdot346.jpg"
-       caption="Illustrations of various passionflowers, from the *New International Encyclopedia* (1902). Image source: Wikimedia Commons."
-       region="0,388,788,534">
+       caption="Illustrations of various passionflowers, from the *New International Encyclopedia* (1902). Image source: Wikimedia Commons.">
 <param ve-image   
        src="wc:Haeckel_Actiniae_edit.jpg"
-       caption="Illustration of sea anemones (*Actiniae*) from Ernst Haeckel's Kunstformen der Natur (1899). Image source: Wikimedia Commons."
-       region="0,82,1600,1085">
+       caption="Illustration of sea anemones (*Actiniae*) from Ernst Haeckel's Kunstformen der Natur (1899). Image source: Wikimedia Commons.">
 <param ve-image
        src="wc:Passiflora_actinia_flower_12.jpg"
        caption="Photo of *Passiflora actinia*, the sea-anemone passionflower. Image source: Wikimedia Commons."
        fit="contain">
 
 In his painting, *Hummingbird and Passionflowers* (ca. 1875–1885), Martin Johnson Heade conveys a sense of the natural world as dynamic and evolving. The passionflowers (*Passiflora* *racemosa*) are depicted in close association with their tropical habitat and hummingbird pollinators. These striking red flowers, set against the backdrop of thunderous skies, infuse the tropical landscape with drama and allure. The entwining and climbing stems of the plant loop around the birds and the other arboreal branches of the rainforest canopy, bringing them gently into its tangle. The flowers’ curling tendrils are perplexing, quite literally: perplex, from the Latin *plexus*, means interwoven, entangled, involved, intricate, plaited.
-<param ve-image      url="https://upload.wikimedia.org/wikipedia/commons/1/1b/MJ_Heade_Passion_Flowers_and_Hummingbirds.jpg"
-       label="Martin Johnson Heade’s Hummingbird and Passionflowers (ca. 1875-1885). Wikimedia Commons."
-       region="268,224,1836,1245">
+<param ve-image      
+	src="wc:MJ_Heade_Passion_Flowers_and_Hummingbirds.jpg"
+       caption="Martin Johnson Heade’s Hummingbird and Passionflowers (ca. 1875-1885). Wikimedia Commons.">
 
 Passionflower vines form a crucial part of the co-evolutionary enmeshments of the rainforest canopy. Many passionflowers are entangled in close relationships with longwing butterflies (heliconiids) whose caterpillars feed on their leaves. Zebra longwings have developed a resistance to chemicals in the plant’s leaves that discourages other insects from eating them. Not only are these butterflies able to eat passionflower leaves but they also internalize the poisons for their own ends, making themselves toxic to birds.
-<param ve-image
-url="https://upload.wikimedia.org/wikipedia/commons/f/f4/Illustration_from_Moths_and_Butterflies_of_the_United_States_by_Sherman_F._Denton_from_rawpixel%27s_own_original_plates_00040.jpg"
-       caption="Illustration of a zebra longwing butterfly (*Heliconia Charitonia*) from Sherman F. Denton's *Moths and butterflies of the United States* (1900). Image source: Wikimedia Commons."
-       region="253,255,2010,1324">
+<param ve-image src="wc:Illustration_from_Moths_and_Butterflies_of_the_United_States_by_Sherman_F._Denton_from_rawpixel%27s_own_original_plates_00002.jpg"
+       caption="Illustration of a zebra longwing butterfly (*Heliconia Charitonia*) from Sherman F. Denton's *Moths and butterflies of the United States* (1900). Image source: Wikimedia Commons.">
       
 Yet passionflowers are not as immobile and defenseless as they might appear to human eyes and senses of time. The shapes of passionflower leaves, for instance, are some of the most malleable and diverse among plants: in some cases, their leaves can vary and mutate along a single vine, mimicking nonhost plants and discouraging butterflies from laying eggs on them.[^43] The deceit does not stop here: many passionflowers have structures on their leaves, such as little nubs or yellow spots, that mimic the appearance and arrangement of butterfly eggs and so deter longwings from laying eggs on leaves that appear to be occupied. Some even display structures that mimic the eggs of the longwing’s predators. In addition, nectar-producing glands on the leaves can be utilized to attract ants and wasps, which in turn attack the longwing caterpillars.[^44]
 <param ve-image
-url="https://upload.wikimedia.org/wikipedia/commons/2/21/Peter_Charles_Henderson_-_The_Winged_Passion-Flower_%28Passaflora_alata%29%2C_1802.jpg"
+	src="wc:Peter_Charles_Henderson_-_The_Winged_Passion-Flower_(Passaflora_alata),_1802.jpg"
        caption="Illustration of *Passiflora* *alata* (or, the winged passionflower) from Robert Thornton’s *Temple of Flora* (1799). Little nubs on the leaf stem appear like butterfly eggs. Image source: Wikimedia Commons.">
 
 Bees have a far less complicated relationship with passionflowers. As Francis Channing Woodworth describes in her book *Wonders of the Insect World* (1853), "the nectar in the passion flower has an intoxicating effect" upon bees: "they now and then indulge in excessive drinking […] one may see half a dozen of these poor creatures lying on the ground, near the goblet which has so grossly intoxicated them, and entirely unable to stir an inch." [^45] This sprawling scene of inebriated bees places the passionflower not with notions of divine sacrifice and purity, but with indulgence, pleasure, and excess.
 <param ve-image
-         url="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Passiflora_foetida_flower_with_bee.jpg/640px-Passiflora_foetida_flower_with_bee.jpg"
-       label="Photo of *Passiflora foetida* with a bee indulging in 'excessive drinking.' Image source: Wikimedia Commons."
-       fit="contain">
+         src="wc:Passiflora_foetida_flower_with_bee.jpg"
+       label="Photo of *Passiflora foetida* with a bee indulging in 'excessive drinking.' Image source: Wikimedia Commons.">
 		
 ### Passionflowers Under Cultivation
 
