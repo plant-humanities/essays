@@ -101,7 +101,7 @@ The Language of Flowers inspired a greater inclusion of plants in decorative art
 
 Perhaps the most famous instance of passionflowers in Victorian decorative arts are those on the ceiling of Hintze Hall in London’s Natural History Museum (opened 1881). The ceiling is composed of 162 panels painted in the [Arts and Crafts style](https://en.wikipedia.org/wiki/Arts_and_Crafts_movement) and is meant to emphasize the botanical undercurrents of the British empire. The idea for the panels is credited to Alfred Waterhouse, while they were painted in situ by Charles James Lea. Hintze Hall was intended to showcase the wonders of the empire, especially those plants with economic value, such as tobacco or cotton; exotics like the passionflower were included as well.[^32]   
 <param ve-image
-       src="wc:Natural_History_Museum_Main_Hall,_London,_UK_-_Diliff.jpg" 
+       src="gh:plant-humanities/media/passionflower/Natural History Museum.jpg" 
        caption="Hintze Hall. Image source: Wikimedia Commons.">
 <param ve-image
        src="gh:plant-humanities/media/passionflower/Hintz Hall East.jpg" 
@@ -116,7 +116,7 @@ Another notable display of passion flowers is at the Royal Botanic Gardens Kew. 
 	caption="Flowers and Fruit of the Maricojas Passion Flower, Brazil, Marianne North, 1873. The Board of Trustees of the Royal Botanic Gardens, Kew.">
 <param ve-image
 	src="gh:plant-humanities/media/passionflower/marianne north passionflower2.jpg"
-	caption="Two Climbing Plants of Chili and Butterflies, Marianne North, 1880s. The Board of Trustees of the Royal Botanic Gardens, Kew."
+	caption="Two Climbing Plants of Chili and Butterflies, Marianne North, 1880s. The Board of Trustees of the Royal Botanic Gardens, Kew.">
 
 Besides these public, impressive locations, passionflowers were also present in the domestic sphere through textile and porcelain designs. Richard Ovey, the leading furniture fabric purveyor in the early nineteenth century, sold a cotton titled “The Scarlet Ground White Passion Flower Chintz.”[^36]  Manchester calico manufacturer.[^37] Samuel Matley and Sons also sold an upholstery cotton decorated with passionflowers.[^38] As for porcelain, Coalport Porcelain (https://en.wikipedia.org/wiki/Coalport_porcelain), a leading brand of porcelain throughout the nineteenth century, produced a passionflower plate design painted by Thomas Pardoe (https://en.wikipedia.org/wiki/Thomas_Pardoe_(painter)), a notable painter of birds and flowers on porcelain. The presence of passionflowers in these widely available fabrics and porcelain illustrates the extent to which passionflowers became a common motif in nineteenth-century decorative arts. Passionflowers joined the many exotic flowers sprawling over Victorian pattern-crazed homes, adding to the gaudy and saturated aesthetic of the age. 	
 <param ve-image
