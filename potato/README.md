@@ -1,14 +1,13 @@
 <a href="https://www.juncture-digital.org"><img src="https://juncture-digital.github.io/juncture/static/images/ve-button.png"></a>
 
 <param ve-config 
-       title="The Potato: Salvation and Suffering"
+       title="Salvation and Suffering: Potato"
        source-image="https://upload.wikimedia.org/wikipedia/commons/a/ab/Patates.jpg"
        banner="https://upload.wikimedia.org/wikipedia/commons/a/ab/Patates.jpg" 
        height=100
        author="Nola Rettenmaier, Alexander Betz, and Jessica Gomez"
        layout="vertical">
-
-
+	   
 Woven into the history of the potato, from its Indigenous domestication in the Andes to its prevalence in diets around the world today, are the contrasting themes of comedy and tragedy, sustenance and toxicity, manna and misery. Playful and comedic interpretations of the potato abound, as seen in the cartoon by Alfred Le Petit from the 1871 collection *Fleurs, Fruits & Legumes Du Jour*. It lampoons Pierre-Frédéric Dorian, the French Minister of Public Works, by likening him to the humble and earthen tuber.  Translated into English, the text reads, “While the poet wanders in vain through the ether, Dorian acts, as everyone knows; In the reality which we find ourselves in, one can never be too much a man of the earth” (*homme de terre*). The clever wordplay of *homme de terre*/*pomme de terre* (French for potato) alludes to Dorian’s role in weapons manufacturing and policy; unlike poets, he is a grounded person of action—or so one might think. Despite his prominence in the politics of defense, Dorian refused to take a position during the popular uprisings of October 31, 1870, which likely accounts for his inclusion in this 1871 satirical publication.
 <param ve-image 
         src="wc:La_pomme_de_terre._5_M._Dorian._QB.2093-7.jpg"
@@ -32,6 +31,35 @@ The potato plays a significant role in the histories of famine and social inequa
 <param ve-iframe
        src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vSjy6XZYKEdC-kBvDqowP0P37PXI-rYTAb-SjLVN6241TiR_yGcPvjDd60bhF9kuBNv1w5A5iJhvPkv&font=Default&lang=en&initial_zoom=2&width=100%25&height=650">
 
+## What is a Potato?
+ The [potato](Q16587531), *Solanum tuberosum*, belongs to the [Solanaceae](Q134172) family: a collection of flowering plants commonly known as nightshades. Like many other members of the nightshade family—such as tomatoes and eggplants—potatoes are laced with toxic compounds called glycoalkaloids, which early cultivators reduced through selective breeding to make them edible for humans.[^4] Curiously, unlike most crops, the portion of the potato plant used for human consumption is little more than a swollen section of the stem, known as the stolon. While the exact place of origin for the potato remains a point of debate, its native range stretches from the southwest reaches of present-day United States to the slopes of the Andes Mountains in Central Argentina.[^5] A key contributing factor to the potato’s expansive native range is its viability in nearly any soil or climate, aside from soils high in saline or alkaline materials.[^6] As a result, its ability to grow just about anywhere has made it easily adoptable into many societies around the world regardless of their geographies, from wet coastal lowlands to arid terraces high above sea level.
+<param ve-image 
+	   src="gh:Alex-Betz/essays/main/potato/potatoWTmap.jpg"
+	   caption="*Map showing the distribution of wild potato species*, 2020. Map. Image source: David Ellis, Alberto Salas, Oswaldo Chavez, Rene Gomez, and Noelle Anglin, "Ex Situ Conservation of Potato [Solanum Section Petota (Solanaceae)] Genetic Resources in Genebanks, in The Potato Crop, ed. Hugo Campos and Oscar Ortiz" (Cham, Switzerland: Springer International Publishing, 2020), 115. http://dx.doi.org/10.1007/978-3-030-28683-5_4.">
+
+ The part of the plant that comes readily to mind—its carbohydrate-rich stolon extending underground—also serves an unexpected purpose: to self-propagate without sexual reproduction.[^7] Potatoes in the wild can reproduce through two different means, sexually through pollination with other potato plants or asexually through their stolons. The former increases genetic variation by allowing genes to flow between different individual potato plants, while the latter produces genetically identical offspring when environmental pressures limit the number of diverse partners available for reproduction.[^8] The potato’s capacity for asexual reproduction has been a boon for both the plant and humans alike, allowing for easy cultivation of self-propagating, nutrient-rich tubers. However, its asexual propagation does not come without risk: stagnation caused by lack of genetic diversity opens new vulnerabilities for the plant and the human populations that rely on it.[^9] Current estimates mark the potato’s domestication beginning around 10,000 years ago, when early cultivators began selecting individual wild potato plants with larger, nutrient-rich stolons and lower levels of glycoalkaloids for further propagation.[^10] As a result, what is commonly referred to as the potato plant actually consists of seven cultivated species and 228 wild species grown throughout the world, with additional varieties, caused by inter-species hybridization, stretching into the thousands.[^11]
+<param ve-image
+	   src="gh:Alex-Betz/essays/main/potato/Dillon%20Potatoes.jpg" 
+	   caption="Mary Dillon, *Heritage Potatoes*, 2014. Watercolor on paper. Courtesy of the artist.">
+	   
+## Pre-Columbian History
+Indigenous to the Peruvian-Bolivian Andes mountains of South America, the potato has been and continues to be a vital food source for Indigenous communities while remaining vulnerable to disease. It also has had a long-standing cultural and social significance to those communities. In his book, *The History and Social Influence of the Potato*, physician and biologist Redcliffe Salaman uses archaeological materials dating back to the late-Chimu, pre-Inca, and Inca periods, roughly 1000 to 1470 CE, to show how potatoes became common motifs in pottery and earthenware. Interestingly, they were anthropomorphized as humans, with eyes and facial contours, and vice versa, as humans were rendered tuberous, with varying degrees of realism in their decorative aspects.[^12] So important was this crop that it became a part of Incan mythology and ritual, as represented by Axomamma, the divine goddess of potatoes and one of the daughters of the famous Pachamama, the Earth Mother.[^13]
+<param ve-image
+	   src="gh:JessaMaria/Potatos/main/potato/History.png"
+	   caption="Representation of Axomamma, the goddess of potatoes. Samuel Austin, CC BY-SA 3.0.">
+
+Potatoes, along with corn and quinoa, became crucial food crops that Indigenous farmers and communities worked together to plant, harvest, and circulate as part of a complex system of labor and trade that helped sustain the dietary needs of populations dispersed over mountainous terrains. Andean farmers wielded tools, such as the *ayacho* (a mattock with blades) and *taclla* (a foot plough) in Quechua, to break and shift soil for the planting. The labor required to grow and harvest potatoes was formalized under the Incan Empire, in a system called *mit’a* (a turn or season), which required each man and woman of a community to work cooperatively by reciprocating labor and to contribute to the state.[^14]
+<param ve-iframe
+	   src="https://archive.org/details/primer-nueva-coronica-y-buen-gobierno-manuscrito/page/n1157/mode/1up">
+	   
+Incan calendars depicted potato planting and harvest. This can be seen in the manuscript *First New Chronicle and Good Government (El Primer Nueva Corónica y Buen Gobierno)* written by Felipe Guamán Poma de Ayala in 1615 and included in Inca Garcilaso de la Vega’s *The Royal Commentaries of the Incas (Comentarios Reales de los Incas)*. Three months of the year were notable for potato planting and harvest: January, June, and December. De la Vega detailed that January was the month for "work in the potato fields; a man and woman are seen with hoes in their hands." In June, "potatoes are dug with spades." And in December, "the potatoes and quinoa are planted." The illustration for December "shows a peasant being helped by a woman to make a hole in the earth with a spade driven in by a mallet, while a second woman is preparing to place a potato in it."[^15]
+<param ve-image
+	   src="gh:JessaMaria/Potatos/main/potato/Pre-Col.png"
+	   caption="Photos from *Primer Nueva Corónica Y Buen Gobierno, Felipe Guamán Poma de Ayala manuscrito*. Source: Archive.org">
+
+<param ve-image
+	   src="gh:JessaMaria/Potatos/main/potato/Pre-Col2.png">
+	   
 ## The British Potato Debates
 
 The potato arrived in Europe via Spanish sailors, and from the Basque provinces it spread through northern Italy, the Low Countries (including Flanders and the Southern Netherlands), Franche Comté, Alsace, and the Rhineland. Basque fishermen introduced the potato to Ireland. Generally, its diffusion followed the Spanish Road linking Spain’s territories in Northern Italy and the Low Countries. The potato’s introduction to central and northern Europe followed on the heels of the Thirty Years’ War (1618–1648) and it was embraced by peasants who celebrated its capacity to evade military requisitioning, unlike grain.[^16] This potential to alleviate the threat of civilian starvation is referred to by Nally and Kearns as “survival ecology.”[^17] However, the potato’s association with peasants and subsistence farming became a stigma, and it emerged as a target for debates about poverty and class.
@@ -56,8 +84,7 @@ William Cobbett, a journalist with sensationalist instincts and one of the most 
 
 In keeping with these sentiments, Cobbett opens his entry on the potato in *The English Gardener* by stating unequivocally that the potato is to be used “merely in company with meat, and not to be used as a substitute for bread…as a substitute for bread, it is the most wasteful thing that can possibly be used.” Far from being suitable for human consumption, he considered potatoes to be “inferior” livestock feed compared to a host of other vegetables.[^27]
 <param ve-iframe
-       src="https://archive.org/details/perkins73099848/page/n3"
-       caption="William Cobbett, *The English Gardener*, Frontispiece, 1833. archive.org.">
+       src="https://archive.org/details/perkins73099848/page/n3">
 
 In general, the reliance by Irish Catholic peasants on potatoes contrasted with the diets of Protestant landowners, who were influenced by English gardening practices and cultivated a diversity of crops on their estates, thus—by their perspective—improving the land and taking advantage of its productivity.[^28] The class division evident in gardening and cultivation practices comported with an enduring, biblical-tinged rhetoric about the Irish peasant classes dating back to the seventeenth century. In the eyes of English contemporaries, Ireland was untamed, unbroken nature, like Eden before the Fall, its bounties unharnessed by a sybaritic, unindustrious populace.[^29] This view served to justify the negative characterizations of the Irish given voice in the potato debates. Controversy surrounding the potato also linked back to traditional food culture in Europe, which held that vegetables that grew under the ground were the lowliest sort of food.[^30] During the Industrial Revolution, potatoes would come to be embraced by employers: as cheap and plentiful foodstuff, it enabled them to justify paying workers the lowest living wage.[^31]
 <param ve-compare
@@ -104,38 +131,109 @@ It is worth noting that the Irish had become exclusively dependent on a small nu
 <param ve-compare
        src="wc:Columbian_Exchange.webp">
 
-[^1]: Finola O’Kane, “Poverty, Slavery, and Empire: Honoré Daumier’s Caricatures of Ireland, Great Britain, Jamaica and France, 1844–1867,” in The Routledge Companion to Irish Art, ed. Fionna Barber and Fintan Cullen (New York: Routledge, 2025), 324–34.
-[^2]: Catherine Gallagher and Stephen Greenblatt, Practicing New Historicism (Chicago: University of Chicago Press, 2000), 133–35.
-[^3]: William H. McNeill, “How the Potato Changed the World’s History,” Social Research 66, no. 1 (Spring 1999): 67–70, https://www.jstor.org/stable/40971302.
+## Manzanar War Relocation Center
+ The potato’s ability to take root in places where other crops cannot find purchase results in it appearing in unexpected moments in human history. An example of this is captured in American photographer Ansel Adams’ 1943 photograph of a potato harvest, *Farm, farm workers, Mt. Williamson in background, Manzanar Relocation Center, California*. Rows of tilled earth run diagonally across the frame, each attended to by individuals sheltering from the sun under their wide-brimmed hats. In the distance, mountains crest as though they, too, were dug by a great plow coursing through the earth—if only we could stand upon their heights, perhaps we would be met with continuing rows of peaks and troughs just like the foreground. Based on the landscape, one could be forgiven for imagining this to be an image of the potato’s ancestral fields in the foothills of the Andes. And yet, the photograph’s title tells us otherwise. As is often the case with the potato, this image tells a complex story of relocation and struggle in a harsh landscape. Who were these laborers, and why were they there?
+<param ve-image 
+		src="gh:Alex-Betz/essays/potato/AnselAdams.jpg" 
+		caption="Ansel Adams, *Farm, farm workers, Mt. Williamson in background, Manzanar Relocation Center, California*, 1943. Gelatin silver print. Library of Congress, Prints and Photographs Division, https://www.loc.gov/resource/ppprs.00211/#.">
+ 
+[Manzanar](Q985484) was an incarceration camp in Owens Valley, California, created by the United States government for the forced relocation and detainment of Japanese Americans during the Second World War.[^52] At its peak, Manzanar held 10,046 people within the single square mile of its confines. Needing a crop that could produce a high density of nutrition in the rugged terrain of the high Sierra Mountains, the government selected the potato as one of the staple foods of the prisoners’ diet, planting it on a 118-acre field alongside a number of other crops such as melons, tomatoes, and cabbage.[^53] Adams, acclaimed for his photographs of landscapes and natural scenes, visited Manzanar four times between 1943 and 1944. What he doesn’t include in his photographs are the barbed wire fences and guard towers that encircled life within Manzanar.
+<param ve-map center="Q985484,13" basemaps="OpenStreetMap">
 
+The potato was a locus of agricultural labor and sustenance for Japanese Americans in California even prior to their forced incarceration. For example, images such as Dorthea Lange’s 1942 photograph, *Stockton, Calif. Apr. 1942. Cutting potato seed on an industrialized farm where, before evacuation, persons of Japanese ancestry did all the work* captures the centrality of the crop to the geography of the American West and the communities within it. As Japanese Americans were forcibly relocated to camps in the High Sierras, the potato was made to follow.
+<param ve-image 
+		src="gh:Alex-Betz/essays/main/potato/Lange.jpg" 
+		caption="Dorothea Lange, *Stockton, Calif. Apr. 1942. Cutting potato seed on an industrialized farm where, before evacuation, persons of Japanese ancestry did all the work*, April 10, 1942. Gelatin silver print, 24 x 30 cm. Farm Security Administration - Office of War Information Photograph Collection, Library of Congress, Prints and Photographs Division, https://www.loc.gov/item/2021650513/.">
+ 
+ The potato and the materials surrounding its production became a mainstay of life in all the Japanese incarceration camps—not only as a source of food but also as a source for artistic and cultural creation. For example, in her graphic novel [*Citizen 13660*](Q64214564), depicting daily life as a prisoner in the San Bruno and Topaz camps in California and Utah, artist and writer Miné Okubo wrote that "art and hobby shows were of great interest. The residents exhibited vases and desk sets of wood, toys, stuffed animals and dolls…and beautiful hats made of citrus-fruit wrappings woven with potato-sack strings. Ingenious use was made of everything that could be found in the center."[^54] The potato and its various parts provided sustenance for the prisoners, simultaneously providing a bedrock of their diet while being interwoven into their clothing and daily-lived experiences. In her illustration *Art and hobby show, Central Utah Relocation Project, Topaz, Utah, 1942–1944*, Okubo shows how arts objects made by the prisoners out of accessible materials, such as the strings from potato sacks, were displayed and celebrated.
+<param ve-image 
+		 src="gh:Alex-Betz/essays/main/potato/Okubo1.jpeg" 
+		 caption="Miné Okubo, Art and hobby show, Central Utah Relocation Project, Topaz, Utah, 1942–1944. Ink on paper. Japanese American National Museum (Gift of the Mine Okubo Estate, 2007.62.168), Los Angeles, California. https://janm.emuseum.com/objects/55705/art-and-hobby-show-central-utah-relocation-project-topaz. (Artwork also depicted in Okubo, Citizen 13660).">
+  
+  However, while the potato’s presence in the prisoners’ diets provided some nutritional relief against hunger, it quickly became a symbol of the claustrophobic banality of incarcerated life. Louise Ogawa—a prisoner at the [Poston Incarceration Camp](Q7234427) in Poston, Arizona—wrote often to her friend Clara Breed back home in San Diego. In one of her letters Ogawa describes a week’s worth of meals. While the inclusion of other items might superficially suggest a degree of dietary variety, Ogawa's records reveal the relentless recurrence of the potato, which was served at least twice every single day. For example, on January 16, 1943, Ogawa described the day’s meals as the following: "Breakfast: 2 strips of bacon, cup of cocoa, fried potatoes, 2 toast. Lunch: 1 hamburger, mashed potato, bread, 5 half slices of canned peaches. Supper: rice, 2 donuts, chop suey (all kinds of vegetables cooked together with shoyu), pickled vegetables."[^55] Even with other available foods, the potato in its different preparations remained an inescapable daily constant. The ubiquity of the potato was a core component of daily life in incarceration camps across America, from Ogawa’s experience in Arizona to Okubo’s in California. 
+<param ve-image 
+		 src="gh:Alex-Betz/essays/main/potato/Ogawa.jpg" 
+		 caption="Louise Ogawa, *Letter to Clara Breed from Louise Ogawa, Poston, Arizona, January 27, 1943 [page four]*, January 27, 1943. Manuscript letter. Japanese American National Museum (Gift of Elizabeth Y. Yamada, 93.75.31D), Los Angeles, CA.">
 
-[^16]: McNeill,  71-72.
-[^17]: McNeill, 72; David Nally and Gerry Kearns, “Vegetative States: Potatoes, Affordances, and Survival Ecologies,” Antipode 52, no. 5 (2020): 1378, https://doi.org/10.1111/anti.12652.
+While recalling her experience of going for a meal in the camp’s mess hall, Okubo wrote: "At the dishware and the silverware counter I picked up a plate, a knife, and a fork. I wiped my plate clean with my handkerchief and held it out to the first of the cooks, who was serving boiled potatoes with his hands…the entire space was filled with long tables and backless benches. Each table was supposed to accommodate eight persons, but right now each was a bedlam of hungry people. We looked for an empty place but could find none. The air was stuffy and, having temporarily lost our appetites, we decided to forget about eating."[^56] Okubo’s illustration *Inside the mess hall at Tanforan Assembly Center, San Bruno, California, 1942* captures the scene. The potato’s presence in the lives of Okubo and her fellow prisoners permeated every part of life. After long days of forced labor under the harsh California sun spent cultivating the plant—with nothing but the brims of their hats made from its shipping materials to seek shelter under—it was the boiled tubers of the potato that awaited the prisoners in cramped mess halls and narrow tables. It is no surprise Okubo lost her appetite. 
+<param ve-image 
+	   src="gh:Alex-Betz/essays/potato/Okubo2.jpeg" 
+	   caption="Miné Okubo, Inside the mess hall at Tanforan Assembly Center, San Bruno, California, 1942. Ink on paper. Japanese American National Museum (Gift of the Mine Okubo Estate, 2007.62.40), Los Angeles, California. (Artwork also depicted in Okubo, Citizen 13660).">
+
+## A Plant Archive of Survival
+We often ask plants questions such as: Where are you native? How many variants exist? What environment do you strive in? What are you most vulnerable to? Humans ask—at times demand—these questions of plants, and the answers are held not only in science, but also by communities fighting to preserve their native plants. Each answer is a story, and more stories continue to be collected, creating a plant archive of survival. What does the plant archive of the potato tell us? In the public imagination, the potato exists within two dominant narratives.
+<param ve-image
+	   src="gh:JessaMaria/Potatos/main/potato/newspaper.png"
+	   caption="*The Southern Herald.,* March 15, 1912. Provided by: Mississippi Department of Archives and History.">
+
+The first narrative lies in the potato’s monoculture and consumption value as a crop, as different countries and communities have made it a vital part of their diet. As the plant scientist Tiina Särkinen wrote, "We commonly treat the plants beneficial to us—those we cultivate and depend upon—as distinct and disconnected from plant diversity in the wild. But our crops all have their origins in wild biodiversity and have wild ancestors."[^57] The *how* or *when* behind the movement of a plant’s "wild ancestors" across the globe isn’t always easy to pinpoint. Still, the effects of its cross-cultivation transform a plant’s ability to survive.
+<param ve-image
+	   src="wc:Mercado_Modelo_de_Huancayo_Peru-_Solanum_tuberosum_varieties_VI.jpg"
+	   caption="Mercado Modelo de Huancayo Peru- Solanum tuberosum variedades. Source: Thayne Tuason.">
+
+The second narrative centers on famine and the risk of monoculture, both to biodiversity and to communities that have become dependent on the monocrop. Beyond the Irish famine, there are other lesser-known moments when the infection of potato crops caused famine, otherwise known as late blight, that decimated potatoes: in 1843 Pennsylvania, 1921 Soviet Union, and 2003 Papua New Guinea. Given the potato’s vulnerability to disease and climate change, "community conservationists of the Potato Park [in Peru] decided in 2011 to send more than 1,500 seed samples of their own varieties to be stored in the *Svalbard Global Seed Vault*."[^58] Communities and countries within Latin America are taking steps to protect the potato’s many variants. The International Potato Center (CIP), whose main headquarters is in Peru, works with more than twenty countries across Africa, Asia, and Latin America to enhance food security.
+<param ve-image
+	   src="wc:Cip_Handquarters_%3D_CIP本部の玄関.jpg"
+	   caption="*El Centro Internacional de la Papa* (The International Potato Center), Peru. Source: JIRCAS Photo Archive.">
+
+## A Plant Archive of Resistance: the Edinburgh Potato
+Along with the collection of seed samples, research across the globe to find a blight-resistant gene through networks similar to the CIP has been ongoing in Peru, Chile, Mexico, the Philippines, Lithuania, and sub-Saharan Africa.[^59] And another research effort in the fight against the potato’s late blight is being conducted in Edinburgh, Scotland. Due to the "understandable interest in the Edinburgh potato given its proven resistance to late blight over many years," a collaboration between the James Hutton Institute, the Royal Botanic Garden Edinburgh and SASA, have "recreated the Edinburgh potato (*Solanum* × *edinense*) by controlled crossing of the cultivated potato with the wild species *Solanum demissum* found naturally in Mexico.[^60] The fight to find a genetically resistant variant to blight, through a "controlled crossing" using this wild species from Mexico, creates an ongoing and shifting story of plant resistance. If we consider potatoes and their movement, in this case, the wild species from Mexico into Edinburgh, as a form of plant travel narratives, then we can read their histories of blight not necessarily as being antithetical to an archive of survival, but as being one of resistance to disease and decimation.
+<param ve-image
+	   src="wc:Ареал_Solanum_tuberosum_GBIF.jpg"
+	   caption="Distribution of the *Solanum Tuberosum.* Source: Global Biodiversity Information Facility.">
+
+Such "controlled crossings" can be applied to what Carmen Lamas has called the "Latinx return" or "Latin American return," which charts "an endless circuit of arrivals and departures" across existing divides. In her book, *The Latino Continuum and the Nineteenth-Century Americas*, Lamas explains how, when studying or recovering the lives and experiences of Latinx people, "we find markers—geographic, political, affective, aesthetic, and imaginative—that speak to the comings and goings of Latin Americans to the U.S. and back again to their home countries… They all speak of what I call the Latinx return, an endless circuit of arrivals and departures."[^61] Lamas reminds us that the crossing of the divide does not only have to involve an actual person returning, but also in the circulation of the translated works Latin American authors have published within the United States, Latin America, and beyond.
+<param ve-image
+	   src="wc:Mexico_topographic_map-blank.svg"
+	   caption="Map of Mexico.">
+
+Potatoes and the fight to find a genetically resistant variant begs whether the "Latino continuum" can be more-than-human—one found within the texts of plants that are neither entirely Latin American nor European. Gardens, deserts, and the environment are storied archives. When we read each plant and ecosystem as a text, their narratives reflect a historical coming and going. The wild species being brought from Mexico and cultivated to recreate a resistant Edinburgh potato not only offers the chance to read a different "Latin American return" outside of the geographical area of the Americas, but also one that extends beyond published texts and people who return to their country of origin, to include plants. The duration for which the Edinburgh potato will remain resistant is unknown, and scientific research conducted in Edinburgh is ongoing. Research to cultivate a resistant potato will hopefully also benefit not only Latin American countries but also other countries in need, and be conducted collaboratively within their communities. In doing so, we may begin to unearth and tend to the tangled roots of questions we ask of plants at every twist and turn.
+<param ve-image
+	   src="gh:JessaMaria/Potatos/main/potato/second.png"
+	   caption="*The Southern Herald.,* March 15, 1912. Provided by: Mississippi Department of Archives and History.">
+ 
+[^1]: Finola O'Kane, "Poverty, Slavery, and Empire: Honoré Daumier's Caricatures of Ireland, Great Britain, Jamaica and France, 1844–1867," in *The Routledge Companion to Irish Art*, ed. Fionna Barber and Fintan Cullen (New York: Routledge, 2025), 324–34.
+[^2]: Catherine Gallagher and Stephen Greenblatt, *Practicing New Historicism* (Chicago: University of Chicago Press, 2000), 133–35.
+[^3]: William H. McNeill, "How the Potato Changed the World’s History," *Social Research* 66, no. 1 (Spring 1999): 67–70, https://www.jstor.org/stable/40971302.
+ [^4]: John Reader, *Potato: A History of the Propitious Esculent* (New Haven: Yale University Press, 2009), 4.
+ [^5]: Gavin Ramsay, D. Wynne Griffiths, and Nigel Deighton, "Patterns of Solanidine Glycoalkaloid Variation in Four Gene Pools of the Cultivated Potato," *Genetic Resources and Crop Evolution* 51, no. 8 (December 2005): 805–6, https://doi.org/10.1007/s10722-005-0004-y
+ [^6]: Štefan Koco, Jozef Vilček, Stanislav Torma, Eva Michaeli, and Vladimír Solár, "Optimising Potato (Solanum tuberosum L.) Cultivation by Selection of Proper Soils," *Agriculture* 10, no. 5 (2020): 155, https://doi.org/10.3390/agriculture10050155.
+ [^7]: Reader, *Potato*, 23.
+ [^8]: Paul C. Bethke, Dennis A. Halterman, and Shelley H. Jansky, "Potato Germplasm Enhancement Enters the Genomics Era," *Agronomy* 9, no. 10 (2019): 575, 1–2.
+ [^9]: Bethke.
+ [^10]: Domingo Ríos, André Devaux, and José Ignacio Ruiz de Galarreta, "Ancient Potato Varieties of the Canary Islands: Their History, Diversity and Origin of the Potato in Europe," *Potato Research* (2023): 965–66, https://doi.org/10.1007/s11540-023-09672-2. See also David Ellis, Alberto Salas, Oswaldo Chavez, Rene Gomez, and Noelle Anglin, "Ex Situ Conservation of Potato [*Solanum* Section *Petota* (Solanaceae)] Genetic Resources in Genebanks," in *The Potato Crop*, ed. Hugo Campos and Oscar Ortiz, 109–38 (Cham, Switzerland: Springer International Publishing, 2020), 113–15, http://dx.doi.org/10.1007/978-3-030-28683-5_4.
+ [^11]: David M. Spooner, Marc Ghislain, Reinhard Simon, Shelley H. Jansky, and Tatjana Gavrilenko, "Systematics, Diversity, Genetics, and Evolution of Wild and Cultivated Potatoes," *Botanical Review* 80, no. 4 (2014): 283, https://doi.org/10.1007/s12229-014-9146-y.
+ [^12]: Redcliffe N. Salaman, *The History and Social Influence of the Potato* (Cambridge: Cambridge University Press, 1949), 18–19.
+[^13]: Salaman, 28.
+[^14]: Reader, 8–9.
+[^15]: Inca Garcilaso de la Vega, *The Incas: The Royal Commentaries of the Inca Garcilaso de la Vega 1539–1616*, trans. Alain Gheerbrant (New York: The Orion Press, 1961), 164–66.
+[^16]: McNeill, 71-72.
+[^17]: McNeill, 72; David Nally and Gerry Kearns, "Vegetative States: Potatoes, Affordances, and Survival Ecologies," *Antipode* 52, no. 5 (2020): 1378, https://doi.org/10.1111/anti.12652.
 [^18]: Gallagher and Greenblatt; Nally and Kearns, 1385.
-[^19]: Hezekiah Kirkpatrick, An Account of the Manner in Which Potatoes Are Cultivated and Preserved,: And the Uses to Which They Are Applied in the Counties of Lancaster and Chester, Together with a Description of a New Variety of the Potatoe, Peculiarly Convenient for Forcing in Hot-Houses and Frames. By H. Kirkpatrick (Warrington, England, 1796), 2.
+[^19]: Hezekiah Kirkpatrick, *An Account of the Manner in Which Potatoes Are Cultivated and Preserved,: And the Uses to Which They Are Applied in the Counties of Lancaster and Chester, Together with a Description of a New Variety of the Potatoe, Peculiarly Convenient for Forcing in Hot-Houses and Frames. By H. Kirkpatrick* (Warrington, England, 1796), 2.
 [^20]: Gallagher and Greenblatt, 118.
 [^21]: Gallagher and Greenblatt, 114.
 [^22]: Gallagher and Greenblatt, 133–35.
 [^23]: Gallagher and Greenblatt, 129; Nally and Kearns, 1382, 1384.
 [^24]: Nally and Kearns, 1385–86.
-[^25]: Finola O’Kane, “A cabin and not a cottage: the architectural embodiment of the Irish nation,” in Ireland in the European Eye, ed. Gisela Holfter and Bettina Migge (Dublin: Royal Irish Academy, 2019), 260–61.
+[^25]: Finola O’Kane, "A cabin and not a cottage: the architectural embodiment of the Irish nation," in *Ireland in the European Eye*, ed. Gisela Holfter and Bettina Migge (Dublin: Royal Irish Academy, 2019), 260–61.
 [^26]: Gallagher and Greenblatt, 115–16.
-[^27]: William Cobbett, The English Gardener: or, A Treatise on the Situation, Soil Enclosing and Laying-Out, of Kitchen Gardens; on the Making and Managing of Hot-Beds and Green-Houses; and on the Propagation and Cultivation of All Sorts of Kitchen-Garden Plants, and of Fruit-Trees...And Also, on the Formation of Shrubberies and Flower-Gardens; ... Concluding with a Kalendar, Giving Instructions Relative to the Sowings, Plantings, Prunings, and Other Labours, to Be Performed in the Gardens, in Each Month of the Year (London: Published by the author, 1833), 122.
-[^28]: Toby C. Barnard, “Gardening, diet, and ‘improvement’ in later seventeenth-century Ireland,” The Journal of Garden History 10, no. 1 (1990): 81, https://doi.org/10.1080/01445170.1990.10408279.
+[^27]: William Cobbett, *The English Gardener: or, A Treatise on the Situation, Soil Enclosing and Laying-Out, of Kitchen Gardens; on the Making and Managing of Hot-Beds and Green-Houses; and on the Propagation and Cultivation of All Sorts of Kitchen-Garden Plants, and of Fruit-Trees...And Also, on the Formation of Shrubberies and Flower-Gardens; ... Concluding with a Kalendar, Giving Instructions Relative to the Sowings, Plantings, Prunings, and Other Labours, to Be Performed in the Gardens, in Each Month of the Year* (London: Published by the author, 1833), 122.
+[^28]: Toby C. Barnard, "Gardening, diet, and "˜improvement’ in later seventeenth-century Ireland," *The Journal of Garden History* 10, no. 1 (1990): 81, https://doi.org/10.1080/01445170.1990.10408279.
 [^29]: Barnard, 72.
-[^30]: Allen J. Grieco, “The Social Politics of Pre-Linnaean Botanical Classification,” I Tatti Studies: Essays in the Renaissance 4 (1991): 146, https://doi-org.pitt.idm.oclc.org/10.2307/4603673; Barnard, 76–77.
+[^30]: Allen J. Grieco, "The Social Politics of Pre-Linnaean Botanical Classification," *I Tatti Studies: Essays in the Renaissance* 4 (1991): 146, https://doi-org.pitt.idm.oclc.org/10.2307/4603673; Barnard, 76–77.
 [^31]: Salaman, 342.
-[^32]: Emma C. Spary, Feeding France: New Sciences of Food, 1760-1815 (Cambridge University Press, 2014), 67.
+[^32]: Emma C. Spary, *Feeding France: New Sciences of Food, 1760-1815* (Cambridge University Press, 2014), 67.
 [^33]: Spary, 69.
-[^34]: Antoine-Augustin Parmentier, Manière de faire le pain de pommes de terre, sans mélange de farine (Paris: L’Imprimerie Royale, 1779), 36-37.
+[^34]: Antoine-Augustin Parmentier, *Manière de faire le pain de pommes de terre, sans mélange de farine* (Paris: L’Imprimerie Royale, 1779), 36-37.
 [^35]: Spary, 75–76.
 [^36]: Spary, 76.
 [^37]: Spary, 84.
 [^38]: Nally and Kearns, 1383.
 [^39]: Nally and Kearns, 1378.
 [^40]: Nally and Kearns, 1376–77; McNeill, 72.
-[^41]: Christiaan Vandenbroeke, “Cultivation and Consumption of the Potato in the 17th and 18th Century,” Acta Historiae Neerlandicae 5 (1971): 21–22.
-[^42]: M. Bergman, “The Potato Blight in the Netherlands and its Social Consequences (1845–1847),” International Review of Social History 12, no. 3 (1967): 390–93.
+[^41]: Christiaan Vandenbroeke, "Cultivation and Consumption of the Potato in the 17th and 18th Century," *Acta Historiae Neerlandicae* 5 (1971): 21–22.
+[^42]: M. Bergman, "The Potato Blight in the Netherlands and its Social Consequences (1845–1847)," *International Review of Social History* 12, no. 3 (1967): 390–93.
 [^43]: Nally and Kearns, 1380, 1382.
 [^44]: Nally and Kearns, 1380; McNeill, 71.
 [^45]: McNeill, 71.
@@ -145,9 +243,14 @@ It is worth noting that the Irish had become exclusively dependent on a small nu
 [^49]: Nally and Kearns, 1383.
 [^50]: Nally and Kearns, 1381.
 [^51]: Nally and Kearns, 1378.
-
-
-
-
-       
- 
+ [^52]: Anne Hammond, "Ansel Adams at Manzanar War Relocation Center, 1943–1944," *History of Photography* 30, no. 3 (Autumn 2006): 247, https://doi.org/10.1080/03087298.2006.10443467.
+ [^53]: U.S. Department of the Interior, National Park Service, "Chapter Twelve: Operation of Manzanar War Relocation Center, January 1943–November 1945," in *Manzanar Historic Resource Study/Special History Study* (National Park Service, 2002), under the heading "Vegetable Production," accessed May 23, 2025, https://www.nps.gov/parkhistory/online_books/manz/hrs12.htm.
+ [^54]: Miné Okubo, *Citizen 13660*, Classics of Asian American Literature (Seattle: University of Washington Press, 2014), 169.
+ [^55]: Louise Ogawa to Clara Breed, January 27, 1943, Object 93.75.31D, Japanese American National Museum Archives, Los Angeles, CA. Gift of Elizabeth Y. Yamada.
+ [^56]: Okubo, 39.
+ [^57]: Tiina Särkinen et al. "Out of the Wild: The Wild (and Often Weedy) Roots of Our Crops." *New Phytologist*, vol. 234 no. 4, 2022, pp. 1107-1108.
+[^58]: Crop Trust. 2013. "Potatoes, the Underground Heroes." Retrieved from: https://www.croptrust.org/news-events/news/potatoes-the-underground-heroes/
+[^59]: For further scientific research, see, for example: M. Gastelo et al., "New Potato Varieties Resistant to Late Blight and with High Quality for French Fries Generated in Peru," *Potato Research* 67 (2024): 1435–68; https://doi.org/10.1007/s11540-024-09697-1
+F. Figueroa-Grenett et al., "Assessment of Resistance to Late Blight (*Phytophthora infestans* (Mont.) de Bary) in Chilean Native Potatoes (*Solanum tuberosum* Chilotanum group)," *Potato Research* (2024), https://doi.org/10.1007/s11540-024-09779-0 ; G. Díaz-García et al., "Field Screening of *Solanum demissum* Confirms its Late Blight Resistance in the Toluca Valley, Mexico," *American Journal of Potato Research* 101 (2024): 122–31, https://doi.org/10.1007/s12230-024-09945-7 ; P. VanderZaag et al., "Cooperation 88, A Short-day Potato Cultivar Parented New Long-day Potato Cultivars with Stable Field Resistance to Late Blight (*Phytophthora infestans)*," *American Journal of Potato Research* 101 (2024): 95–98, https://doi.org/10.1007/s12230-024-09951-9 ; R. Asakaviciute et al., "Assessment of Potato Varieties of Lithuanian Breeding Resistance to Potato Wart Causative Agents and Late Blight," *Scientific Reports 15* (2025): art. 5915, https://doi.org/10.1038/s41598-025-85526-w ; N. P. M. Phungula et al., "The Response of Potato Late Blight to the Integration of Selected Potato Cultivars, Fungicides and Mulch at Different Levels, and Localities," *European Journal of Plant Pathology* (2025), https://doi.org/10.1007/s10658-025-03028-x
+[^60]: "Protecting Potatoes – Scotland’s Story," SEFARI, accessed May 24, 2025, sefari.scot/research/protecting-potatoes-scotlands-story.
+[^61]: Carmen Lamas, *The Latino Continuum and the Nineteenth-Century Americas: Literature, Translation, and Historiography* (Oxford: Oxford University Press, 2021), 208.
