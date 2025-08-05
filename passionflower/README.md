@@ -190,17 +190,17 @@ Passionflowers have seduced bees and gardeners alike: the vigorous climbers have
 
 The artificial cultivation of these far-away rainforests, and the lush exoticism they came to represent, was often achieved under glass in hothouses, or stoves, and heated greenhouses. As one nineteenth-century periodical writes, passionflowers "attain greatest perfection planted out into good soil, in a hot-house, where its branches can be trained around a pillar, or under the roof, or over any trellis."[^47] In another publication, readers are encouraged to "allow the blooming shoots to hang about in festoons."[^48] The addition of tropical climbers to the hothouse made "the walls themselves constitute an extensive and eccentric garden."[^49] These jungles under glass were intended to recreate the heat and humidity of tropical forests in lavish microcosm.
 <param ve-image
-       src="gh:plant-humanities/media/passionflower/gardener chronicle.jpg"
-       caption="Illustration of climbing plants in the conservatory at Falkland Park, from the *Gardener's Chronicle* (1895). Image source: Wikimedia Common">
+	src="gh:plant-humanities/media/passionflower/gardener chronicle.jpg"
+	caption="Illustration of climbing plants in the conservatory at Falkland Park, from the *Gardener's Chronicle* (1895). Image source: Wikimedia Common.">
 <param ve-image
-       src="gh:plant-humanities/media/passionflower/biodiversity1.jpeg"
-       caption="Illustration of an extravagant hothouse from Shirley Hibberd’s *The Amateur’s Greenhouse and Conservatory* (1873). Image source: Biodiversity Heritage Library.">      
+	src="gh:plant-humanities/media/passionflower/biodiversity1.jpeg"
+ 	caption="Illustration of an extravagant hothouse from Shirley Hibberd’s *The Amateur’s Greenhouse and Conservatory* (1873). Image source: Biodiversity Heritage Library.">
 <param ve-image
-       src="gh:plant-humanities/media/passionflower/biodiversity2.jpeg"
-       caption="Page from *Vick's Garden and Floral guide* (1900) depicting passionflowers as plants for the greenhouse. Image source: Biodiversity Heritage Library.">        
+	src="gh:plant-humanities/media/passionflower/biodiversity2.jpeg"
+ 	caption="age from *Vick's Garden and Floral guide* (1900) depicting passionflowers as plants for the greenhouse. Image source: Biodiversity Heritage Library.">
 <param ve-image
-        src="gh:plant-humanities/media/passionflower/gardener chronicle2.jpg"
-        caption= "A advertisement in the *Gardener's Chronicle* (1889) for Mackenzie & Moncur 'Hot-house builders' from Scotland, offering 'Conservatories, Greenhouses, Vineries, Forcing-houses &c, Erected in Wood or Iron in the most substantial manner in any part of the Kingdom.' Image source: Wikimedia Commons.">
+	src="gh:plant-humanities/media/passionflower/gardener chronicle2.jpg"
+ 	caption="A advertisement in the *Gardener's Chronicle* (1889) for Mackenzie & Moncur 'Hot-house builders' from Scotland, offering 'Conservatories, Greenhouses, Vineries, Forcing-houses &c, Erected in Wood or Iron in the most substantial manner in any part of the Kingdom.' Image source: Wikimedia Commons.">
 
 Hothouses and stoves allowed for the artificial cultivation of passionflower hybrids: the first hybrid species, *Passiflora* x *violacea*, was produced in the United Kingdom in the 1820s by hand pollinating plants already in cultivation. As a nineteenth-century gardening publication described it, "most of the species [of passionflower] ripen fruit in our stoves, and consequently many fine varieties have been raised by impregnating the stigmas of one with the pollen of another…with a feather."[^50] The proliferation of these hybrid species, or "monsters under glass," reflect a horticultural mania intent on mixing the traits of different flowers to create copious varieties of color, size, and growth form.[^51] The hybrid Passiflora x belotii has been described as smelling like "refreshers" sweets.[^52] The "scarlet passionflower," described in one catalogue as "a blaze of fiery scarlet blossoms, which are set off in a never-to-be-forgotten way by the background of bright glossy green foliage," is as sickeningly elaborate as the advertiser’s prose used to describe it.[^53] On top of the five hundred or so "wild" species currently recognized, there are also over four hundred additional hybrid species.
 <param ve-image    
