@@ -59,7 +59,7 @@ Jasmine also symbolizes specific Hindu deities. White jasmine represents Lord Kr
        src="wc:Radha_Syamasundar_Vrindavan_Radhastami_2004.jpg"
        caption="Sahadeva, *The Idols of Krishna and Radharani, Beautifully Adorned in Fine Clothes and Garlands at the Krishna Balarama Temple*, 2004, *Wikimedia Commons*.">
 
-The sacred text of the *Rāmāyaṇa* also features jasmine as a symbol of purity and beauty. The *Rāmāyaṇa* recounts the life of Rāma, a human incarnation of Lord Vishnu who defeats the demon Rāvaṇa. The passage from the Sundarakāṇḍa, the fifth book of the *Rāmāyaṇa*, uses the motif of jasmine to help establish the youthful beauty of Rāma’s wife, Sītā.[^14] Similes liken her features to a waxing moon, a seed on the cusp of germination, and jasmine buds. Jasmine flowers release their strongest, most intoxicating scents when they bloom, so comparing Sītā’s teeth to jasmine buds—rather than an already-blossomed jasmine flower—characterizes her as a youthful, vigorous woman whose enticing beauty is yet to be fully realized.[^15]
+The sacred text of the *Rāmāyaṇa* also features jasmine as a symbol of purity and beauty. The *Rāmāyaṇa* recounts the life of Rāma, a human incarnation of Lord Vishnu who defeats the demon Rāvaṇa. A passage from the Sundarakāṇḍa, the fifth book of the *Rāmāyaṇa*, uses the motif of jasmine to help establish the youthful beauty of Rāma’s wife, Sītā.[^14] Similes liken her features to a waxing moon, a seed on the cusp of germination, and jasmine buds. Jasmine flowers release their strongest, most intoxicating scents when they bloom, so comparing Sītā’s teeth to jasmine buds—rather than an already-blossomed jasmine flower—characterizes her as a youthful, vigorous woman whose enticing beauty is yet to be fully realized.[^15]
 <param ve-image
        src="wc:Rama_and_Sita,_with_Lakshmana_returning_to_Ayodhya.jpg"
        caption="Artist once known, *Rama with Sita and Lakshmana returning to Ayodhya*, ca. 1650. Opaque watercolor on paper, 17.7 x 25.3 cm. National Museum, New Delhi, *Wikimedia Commons*.">
@@ -78,7 +78,7 @@ There are similarities between the ritual use of jasmine in Buddhist and Hindu p
        caption="Chandana Perera, *Pichcha Mal Pooja*, 2014, *Flickr*.">
 
 ### Sacred Gardens
-Jasmine flowers occupy significant sensual and symbolic roles in sacred Islamic gardens. Persian gardens greatly influenced the design of Islamic gardens, including the planting of jasmine.[20] Persian royalty designed their gardens to be sensually engaging, and jasmine was crucial to the cultivation of gardens that appealed to visitors’ sense of smell.[^21] Pleasing scents became an important element of Persian and Islamic gardens in part because Yunani medicine—a traditional form of Perso-Arabic medicine practiced in Muslim cultures—taught that "exhilarating fragrances" have a positive therapeutic effect on the human body.[^22] This emphasis on sweet-smelling flowers in the design of sacred gardens made jasmine one of the earliest flower species to be grown in sacred Islamic gardens.[^23]
+Jasmine flowers occupy significant sensual and symbolic roles in sacred Islamic gardens. Persian gardens greatly influenced the design of Islamic gardens, including the planting of jasmine.[^20] Persian royalty designed their gardens to be sensually engaging, and jasmine was crucial to the cultivation of gardens that appealed to visitors’ sense of smell.[^21] Pleasing scents became an important element of Persian and Islamic gardens in part because Yunani medicine—a traditional form of Perso-Arabic medicine practiced in Muslim cultures—taught that "exhilarating fragrances" have a positive therapeutic effect on the human body.[^22] This emphasis on sweet-smelling flowers in the design of sacred gardens made jasmine one of the earliest flower species to be grown in sacred Islamic gardens.[^23]
 <param ve-image
        src="wc:Shazdeh_Garden_05.jpg"
        caption="Ahmad Masoominezhad, *Shazdeh Garden*, 2005, *Wikimedia Commons*.">
@@ -111,8 +111,8 @@ Seva Kunj situates visitors in embodied, sensual interspecies relationships with
 ### Adornment and Ceremony
 Jasmine flowers have long been used as forms of personal adornment, offering another perspective on the meanings humans attach to jasmine at individual and societal levels. South Indian Tamil poetry dated between 100 BCE and 250 CE describes women scenting and decorating their hair with jasmine. For example, the following stanza from Tamil poet Pēyaṉār Ainkuruṉūru’s *Seven Said by the Foster Mother* describes a young woman wearing jasmine in her hair for a romantic evening with her beloved.
 <param ve-image
-       src="gh:plant-humanities/media/jasmine/Perfumed Oils.png"
-       caption="Dr. John Jackson, “Art. VI.—Note to the Editors on the Native Mode of Preparing the Perfumed Oils of Jasmine and Bela,” in *The Journal of the Asiatic Society of Bengal*, eds. the acting secretaries of the Asiatic Society of Bengal (Calcutta: Bishop’s College Press, 1832), 496–497.">
+       src="wc:HiH_-_Enterprise_-_54_-_Jasmine_Cultivation_(3063468180).jpg"
+       caption="McKay Savage, *Jasmine Cultivation*, 2008, *Wikimedia Commons*.">
 
 > Minstrels sing the jasmine songs / of evening, / and his woman, / brow shining, jewelry flaming, / wears jasmine in her hair.[^35]
 
@@ -150,7 +150,7 @@ Jasmine also holds spiritual significance in Chinese culture. During the Chinese
 Europeans likely first cultivated jasmine in late medieval Islamic gardens along the Iberian Peninsula.[^48] What is perhaps the earliest Western scientific illustration of jasmine can be found in the *Tractatus de herbis*, an herbal thought to have been compiled in Salerno, Italy, sometime between 1280 and 1350.[^49] Salerno was the location of the first lay school of medicine in Europe and brought together a body of mixed-faith practitioners from Muslim, Jewish, and Christian religious traditions.[^50] The fifteenth-century *Hortus Sanitatis*, an encyclopedia of flora and fauna that describes the medicinal properties and uses of each plant, lists *J. sambac* as being "good for sinus headaches and other ills caused by an excess of phlegm."[^51]
 <param ve-image
        src="wc:BL_Egerton_747,_f.098r.jpg"
-       caption="*Tractatus de herbis*(British Library, Egerton MS 747, fol. 98), *Wikimedia Commons*.">
+       caption="*Tractatus de herbis* (British Library, Egerton MS 747, fol. 98), *Wikimedia Commons*.">
 
 As jasmine spread from Asia across Europe, its use as a fragrant source of atmospheric perfume traveled with it. In his mid-fourteenth century collection of tales, *The Decameron*, Italian writer Giovanni Boccaccio describes garden walls heady with the scent of climbing jasmine and roses.[^52] Jasmine features in Christian manuscript illumination as early as the first decade of the sixteenth century, including in the exquisite *Book of Hours*, produced for Anne of Brittany with illustrations by Jean Bourdichon. In one of many decorative floral borders, a sprig of flowering white jasmine is featured to *trompe l'oeil* effect alongside a snail, a fly, and a ladybug. Art historian and plantswoman Celia Fisher has written that "just as fourteenth-century Italian herbals [like the *Tractatus de herbis*] owed a debt to Arabic plantsmanship, so the more exotic plants depicted in [Bourdichon’s] margins were those first cultivated in the gardens of Islam."[^53] Indeed, the *Book of Hours* documents the movement of jasmine from modern-day Spain and Italy into France, which must have occurred before the production of the manuscript.
 <param ve-image
@@ -276,8 +276,8 @@ Throughout the long history of human–jasmine relationships, jasmine has become
 [^11]: Sugata Ray, “A ‘Small’ Story of the Jasmine Flower in the Age of Global Botany,” in *Crafting Enlightenment: Artisanal Histories and Transnational Network*, eds. Lauren R. Cannady and Jennifer Ferng (Liverpool: Liverpool University Press, 2021), 262.
 [^12]: Ray, add page number.
 [^13]: Catherine B. Asher, ”‘It is a Day for Enjoyment and Revelry’: The Monsoon Garden,” in *Monsoon Feelings: A History of Emotions in the Rain*, eds. Imke Rajamani et al. (New Delhi: Niyogi Books, 2018), 209.
-[^14]: Stephen L. Buchmann, *The Reason for Flowers: Their History, Culture, Biology, and How they Change Our Lives* (New York: Scribner, 2015), 13.
-[^15]: Valmiki, “Sundarakāṇḍa, Sarga 27,” in *The Rāmāyaṇa of Vālmīki: The Complete English Translation*, trans. Robert P. Goldman et al. , ed. Robert P. Goldman and Sally Goldman (Princeton: Princeton University Press, 2021), 190.
+[^14]: Valmiki, “Sundarakāṇḍa, Sarga 27,” in *The Rāmāyaṇa of Vālmīki: The Complete English Translation*, trans. Robert P. Goldman et al. , ed. Robert P. Goldman and Sally Goldman (Princeton: Princeton University Press, 2021), 190.
+[^15]: Stephen L. Buchmann, *The Reason for Flowers: Their History, Culture, Biology, and How they Change Our Lives* (New York: Scribner, 2015), 13.
 [^16]: Jack Goody, *The Culture of Flowers* (Cambridge: Cambridge University Press, 1993), 329.
 [^17]: Stephen C. Berkwitz, “Recent trends in Sri Lankan Buddhism,” *Religion* 33, no. 1 (2003): 63. https://doi.org/10.1016/S0048-721X(02)00078-7.
 [^18]: Berkwitz.
