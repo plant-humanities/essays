@@ -25,6 +25,7 @@ This essay provides an approachable overview of herbarium specimens and how they
 [Passionflower: Christian Curiosity, Exotic Vine, Tropical Fruit](passionflower)
 
 - Theo Detweiler, Willa Frank, Rose Kent
+  
 !![](https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/passionflower.jpg)
 
 ## The Gulmohar: Becoming Native
@@ -245,6 +246,7 @@ This essay provides an approachable overview of herbarium specimens and how they
 [Passionflower: Christian Curiosity, Exotic Vine, Tropical Fruit](passionflower)
 
 - Theo Detweiler, Willa Frank, Rose Kent
+  
 !![](https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/passionflower.jpg)
 
 ## Peanut: From Luxury Food to Livestock Feed
