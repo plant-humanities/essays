@@ -42,12 +42,12 @@ In 1828, Charles Telfair wrote to Hooker about a plant specimen discovered by Bo
 ### European Fascination
 In 1829, Hooker included an entry on the *Poinciana regia* in the magazine. The entry was accompanied by Joseph Swan’s stunning engraving of _Poinciana regia_ flowers based on a “magnificent drawing” by Bojer.[^8] In his descriptions, Hooker mentioned that they sometimes published entries on beautiful and rare plants that the English had no hope of cultivating successfully in the country; but this, he claimed, was not the case with the *Poinciana regia*. He would have waited for the plant to blossom before publishing an entry on it, if it “were not the subject of such great interest.”[^9] He expressed hope “of its blossoming in this country” very soon, thanks to the attempt of [Robert Barclay](Q58481113) (a wealthy businessman and amateur botanist) to raise saplings of the seeds sent by Telfair. Barclay’s vast garden [Bury Hill](Q17547713) had been the site of many exotic plants taking root in Britain.[^10]  
 <param ve-iframe 
-       src="https://archive.org/details/mobot31753002721295/page/2884" 
+       src="https://archive.org/embed/mobot31753002721295/page/2884" 
        caption="The engraving of the Gulmohar from Curtis’s Magazine. Image credit: Wikimedia Commons."> 
 
 The hope for the tree’s [naturalization](Q2878495) on British shores, however, did not bear fruit, as Barclay passed away in 1831, and with his death the monetary support for the tree’s growth in the British Isles ended.[^11] In 1833, Telfair and his wife Anna died in Madagascar, both by sudden and strange illness.[^12] 
 <param ve-iframe
-       src="https://archive.org/details/mobot31753002221502/page/122" 
+       src="https://archive.org/embed/mobot31753002221502/page/122" 
        caption="A eulogy written by Telfair for Barclay, detailing his contributions to Botany and the transplantation of non-native species into the British Isles. Telfair himself passed away two years later, in Madagascar.">
 
 European fascination with the plant continued to grow. In the French herbal _Histoire naturelle des végétaux_ (1834), French botanist Édouard Spach wrote of the “magnifique” _Poinciana regia_ and noted that English horticultural establishments possessed its saplings.[^13] In 1837, the tree was included in *[Paxton’s Magazine of Botany](Q13548591)*’s register of flowering plants, which praised it as a splendid plant that “ought to be in every collection.”[^14] Bojer’s French manuscript about the flora of Mauritius and the surrounding islands, *[Hortus Mauritianus](Q20897639)*, was published in 1837, with an entry on the *Poinciana regia*, fittingly called the Flamboyant in French.[^15] By then, however, the tree was already well known across Europe.
