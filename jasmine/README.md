@@ -214,7 +214,7 @@ Such sentiments are echoed in the many symbolic meanings attributed to various s
 ### Current Cultivation of Jasmine for Perfume 
 Jasmine is one of the principal flowers cultivated in Grasse, a town at the foot of the Maritime Alps in the south of France, known globally as a center of perfume production. The flowers are harvested between July and October. *Enfleurage*, the traditional means of harvesting essential oil, entails embedding the fresh flowers in animal fat, which soaks up the scented oils. The fat is then scraped away, and alcohol is used to extract the essential oil from the pomade.[^65] Today, volatile solvent extraction is the more commonly used process, during which the flowers are immersed in a chemical solvent that draws out the scented oil from the flowers' petals, allowing them to be drained. The flowers, now devoid of their scent, are often recycled and used as fertilizer.
 <param ve-iframe
-       src="https://archive.org/embed/mobot31753002852470/page/n9"
+       src="https://archive.org/embed/mobot31753002852470/page/497/"
        caption="Henry Charles Andrews, *The Botanist's Repository, for New and Rare Plants* (London: T. Bensley, 1797), *Internet Archive*.">
 
 In his 1771 *Flora’s Toilette, or Essay on the Plants and Flowers that can serve to ornament Women, including different means of preparing Essences, Pomades, Rouges, Powders, Make-up, and Scented Waters*, French physician and naturalist Pierre Buc’hoz notes that a fragrant water of jasmine can only be produced through a multi-stage process of drawing the scent out of the petals with a combination of substances.[^66]
