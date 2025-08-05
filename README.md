@@ -21,6 +21,12 @@ This essay provides an approachable overview of herbarium specimens and how they
 # Featured Plant Narratives 
 `.cards`
 
+## Passionflower: Christian Curiosity, Exotic Vine, Tropical Fruit
+[Passionflower: Christian Curiosity, Exotic Vine, Tropical Fruit](passionflower)
+
+- Theo Detweiler, Willa Frank, Rose Kent
+!![](https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/passionflower.jpg)
+
 ## The Gulmohar: Becoming Native
 [The Gulmohar: Becoming Native](gulmohar)
 
@@ -70,12 +76,6 @@ This essay provides an approachable overview of herbarium specimens and how they
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Indigofera_heterantha_Indygowiec_2019-07-20_03.jpg/320px-Indigofera_heterantha_Indygowiec_2019-07-20_03.jpg)
 
-## Soybean: The Versatile Miracle Crop
-[Soybean: The Versatile Miracle Crop](soybean)
-
-- Nina Elkadi
-
-!![](https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/soybean.png)
 
 # All Plant Narratives 
 `.cards`
@@ -240,6 +240,12 @@ This essay provides an approachable overview of herbarium specimens and how they
 - Carol Chang, Heather Rose Craddock, and Alejandro Garay
 
 ![](https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/poppy.jpg)
+
+## Passionflower: Christian Curiosity, Exotic Vine, Tropical Fruit
+[Passionflower: Christian Curiosity, Exotic Vine, Tropical Fruit](passionflower)
+
+- Theo Detweiler, Willa Frank, Rose Kent
+!![](https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/passionflower.jpg)
 
 ## Peanut: From Luxury Food to Livestock Feed
 [Peanut: From Luxury Food to Livestock Feed](peanut)
