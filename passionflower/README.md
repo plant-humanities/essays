@@ -134,7 +134,14 @@ The Victorian interest in allegory and symbolism translated well to poetry. Publ
 	src="gh:plant-humanities/media/passionflower/cameron tennyson.jpg"
 	caption="*Alfred Tennyson*, photographed by Julia Margaret Cameron 1869.">
 
->There has fallen a splendid tear/ From the passion-flower at the gate./ She is coming, my dove, my dear;/ She is coming, my life, my fate;/ The red rose cries, ‘She is near, she is near;’/ And the white rose weeps, 'She is late;'/ The larkspur listens, 'I hear, I hear;'/ And the lily whispers, 'I wait.'[^39]
+>There has fallen a splendid tear
+>From the passion-flower at the gate.
+>She is coming, my dove, my dear;
+>She is coming, my life, my fate;
+>The red rose cries, ‘She is near, she is near;’
+>And the white rose weeps, 'She is late;'
+>The larkspur listens, 'I hear, I hear;'
+>And the lily whispers, 'I wait.'[^39]
 
 Tennyson’s poem marks a semantic shift in the use of the word passion. It is clear that, placed among roses, lilies, and violets, the passionflower is not serving as a Christ-symbol. Rather, it was by this point an ornamental vine common in English gardens, and more, the name of passionflower aligns with a certain desperation in the protagonist’s narration.
 <param ve-image
