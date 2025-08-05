@@ -255,6 +255,7 @@ The passionflower's Spanish colonial origins in the European imagination has unf
 	src="gh:plant-humanities/media/passionflower/Passionflower at DO.jpg"
 	caption="A passionflower growing at Dumbarton Oaks in July 2024. Image credit: Willa Frank.">
 
+
 [^1]: Kristen J. Gremillion. "The Development of a Mutualistic Relationship Between Humans and Maypops (Passiflora incarnata L.) in the Southeastern United States," Journal of Ethnobiology 9(2) (1989): 144.
 [^2]: Martín de la Cruz. Libellus de medicinalibus indorum herbis [Cruz-Badiano Codex], translated by Juan Badiano, 1552, Fol. 34. Biblioteca Nacional de Antropología e Historia, México. https://mediateca.inah.gob.mx/repositorio/islandora/object/codice%3A851#page/72/mode/2up. "Coanenepilli," Gran Diccionario Náhuatl online, Universidad Nacional Autónoma de México Ciudad Universitaria, México D.F.: 2012. http://www.gdn.unam.mx.
 [^3]: See Digital Florentine Codex/Códice Florentino Digital, edited by Kim N. Richter and Alicia Maria Houtrouw, "Book 11: Earthly Things," fol. 143v, Getty Research Institute, 2023. https://florentinecodex.getty.edu/en/book/11/folio/143v/images/0 Accessed 16 August 2024. For the plant in a Dumbarton Oaks online exhibition, see Felipe Ledesma-Núñez and May Wang, "Francisco Hernandez’s Expedition," Mesoamerican Herbals, in Colonial Epidemics and Mesoamerican Medicine in Sixteenth-Century Mexico, Dumbarton Oaks 2021. https://www.doaks.org/resources/online-exhibits/epidemics/epidemics-english/mesoamerican-herbals/serpents-tongue.
