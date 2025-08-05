@@ -105,7 +105,8 @@ Perhaps the most famous instance of passionflowers in Victorian decorative arts 
        caption="Hintze Hall. Image source: Wikimedia Commons.">
 <param ve-image
        src="gh:plant-humanities/media/passionflower/Hintze Hall East.jpg"
-       caption="Hintze Hall panels. Image source: Wikimedia Commons.">
+       caption="Hintze Hall panels. Image source: Wikimedia Commons."
+	rotate="90">
 <param ve-image
        src="gh:plant-humanities/media/passionflower/passionflower panel.png"
        caption="Ceiling panel showing passionflower. Image source: Wikimedia Commons (cropped).">
@@ -128,9 +129,12 @@ caption="Samuel Matley and Sons, image credit: Victoria and Albert Museum.">
 
 ### The Passionflower in Victorian Poetry
 
-The Victorian interest in allegory and symbolism translated well to poetry. Published in 1855, Lord Alfred Tennyson’s Maud and Other Poems contains a series of lyrics about a hysterical man who is pained by the unrequited love he feels for Maud. During a ball, he is waiting in the garden, knowing that Maud’s favored suitor dances with her inside. So sets up the famous line, Come into the garden, Maud. In section XXII.10, Tennyson writes: 
+The Victorian interest in allegory and symbolism translated well to poetry. Published in 1855, Lord Alfred Tennyson’s Maud and Other Poems contains a series of lyrics about a hysterical man who is pained by the unrequited love he feels for Maud. During a ball, he is waiting in the garden, knowing that Maud’s favored suitor dances with her inside. So sets up the famous line, Come into the garden, Maud. In section XXII.10, Tennyson writes:
+<param ve-image
+	src="gh:plant-humanities/media/passionflower/cameron tennyson.jpg"
+	caption="*Alfred Tennyson*, photographed by Julia Margaret Cameron 1869.">
 
-> *“There has fallen a splendid tear/ From the passion-flower at the gate./ She is coming, my dove, my dear;/ She is coming, my life, my fate;/ The red rose cries, ‘She is near, she is near;’/ And the white rose weeps, 'She is late;'/ The larkspur listens, 'I hear, I hear;'/ And the lily whispers, 'I wait.'”[^39]
+>There has fallen a splendid tear/ From the passion-flower at the gate./ She is coming, my dove, my dear;/ She is coming, my life, my fate;/ The red rose cries, ‘She is near, she is near;’/ And the white rose weeps, 'She is late;'/ The larkspur listens, 'I hear, I hear;'/ And the lily whispers, 'I wait.'[^39]
 
 Tennyson’s poem marks a semantic shift in the use of the word passion. It is clear that, placed among roses, lilies, and violets, the passionflower is not serving as a Christ-symbol. Rather, it was by this point an ornamental vine common in English gardens, and more, the name of passionflower aligns with a certain desperation in the protagonist’s narration.
 <param ve-image
