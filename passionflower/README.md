@@ -182,34 +182,25 @@ Bees have a far less complicated relationship with passionflowers. As Francis Ch
 
 Passionflowers have seduced bees and gardeners alike: the vigorous climbers have been adopted into cultivation in European gardens as striking, curious, and strange representations of South America’s tropical forests. The allure of the passionflower to the gardener is represented in Asa B. Strong’s *American Flora* (1846–1850), where the plant is described as "the produce of South America and the West Indies, where the dense forests are filled with their numerous species, climbing over shrubs and trees, and bearing flowers of the most curious form of striking beauty."[^46]
 <param ve-image
-url="https://upload.wikimedia.org/wikipedia/commons/7/7d/Philip_Reinagle_-_Blue_Passion_Flower%2C_for_the_%22Temple_of_Flora%22_by_Robert_Thornton_-_Google_Art_Project.jpg"
-       label="Illustration of *The Blue Passion-flower* climbing a pillar, from Robert Thornton’s *Temple of Flora* (1799). Here, the rainforest habitat is replaced by stone pillars in a distinctly European (garden) setting. The plants of the New World have been moved into a Classical setting"
-       description="Image source: Wikimedia Commons">
+       src="gh:plant-humanities/media/passionflower/blue passionflower.jpg"
+       caption="Illustration of *The Blue Passion-flower* climbing a pillar, from Robert Thornton’s *Temple of Flora* (1799). Here, the rainforest habitat is replaced by stone pillars in a distinctly European (garden) setting. The plants of the New World have been moved into a Classical setting. Image source: Wikimedia Commons.">
 <param ve-image
-        src="gh:theodet/do/main/passionflower2025/P_caerulea.jpg"
-	caption="A pressed herbarium specimen of *Passiflora caerulea," or the Blue Passionflower. This specimen was collected in South America.">
+        src="gh:plant-humanities/media/passionflower/caerulea.jpg"
+	caption="A pressed herbarium specimen of *Passiflora caerulea*, or the Blue Passionflower. This specimen was collected in South America.">
 
 The artificial cultivation of these far-away rainforests, and the lush exoticism they came to represent, was often achieved under glass in hothouses, or stoves, and heated greenhouses. As one nineteenth-century periodical writes, passionflowers "attain greatest perfection planted out into good soil, in a hot-house, where its branches can be trained around a pillar, or under the roof, or over any trellis."[^47] In another publication, readers are encouraged to "allow the blooming shoots to hang about in festoons."[^48] The addition of tropical climbers to the hothouse made "the walls themselves constitute an extensive and eccentric garden."[^49] These jungles under glass were intended to recreate the heat and humidity of tropical forests in lavish microcosm.
 <param ve-image
-       url="https://upload.wikimedia.org/wikipedia/commons/d/d6/The_Gardeners%27_Chronicle_-_a_weekly_illustrated_journal_of_horticulture_and_allied_subjects_%281895%29_%2814579763069%29.jpg"
-       label="Illustration of climbing plants in the conservatory at Falkland Park, from the *Gardener's Chronicle* (1895)."
-       description="Image source: Wikimedia Common"
-       fit="cover">
+       src="gh:plant-humanities/media/passionflower/gardener chronicle.jpg"
+       caption="Illustration of climbing plants in the conservatory at Falkland Park, from the *Gardener's Chronicle* (1895). Image source: Wikimedia Common">
 <param ve-image
-       url="https://www.biodiversitylibrary.org/pageImage/19076590"
-       label="Illustration of an extravagant hothouse from Shirley Hibberd’s *The Amateur’s Greenhouse and Conservatory* (1873)"
-       description="BHL"
-       fit="cover">      
+       src="gh:plant-humanities/media/passionflower/biodiversity1.jpeg"
+       caption="Illustration of an extravagant hothouse from Shirley Hibberd’s *The Amateur’s Greenhouse and Conservatory* (1873). Image source: Biodiversity Heritage Library.">      
 <param ve-image
-       url="https://www.biodiversitylibrary.org/pageImage/43864389"
-       label="Page from *Vick's Garden and Floral guide* (1900) depicting passionflowers as plants for the greenhouse."
-       description="BHL"
-       region="1,0,1749,1828">        
+       src="gh:plant-humanities/media/passionflower/biodiversity2.jpeg"
+       caption="Page from *Vick's Garden and Floral guide* (1900) depicting passionflowers as plants for the greenhouse. Image source: Biodiversity Heritage Library.">        
 <param ve-image
-        url="https://upload.wikimedia.org/wikipedia/commons/5/57/The_Gardeners%27_chronicle_-_a_weekly_illustrated_journal_of_horticulture_and_allied_subjects_%281891%29_%2814593557718%29.jpg"
-        label= "A advertisement in the *Gardener's Chronicle* (1889) for Mackenzie & Moncur 'Hot-house builders' from Scotland, offering 'Conservatories, Greenhouses, Vineries, Forcing-houses &c, Erected in Wood or Iron in the most substantial manner in any part of the Kingdom.'"
-         description= "Image source: Wikimedia Commons"
-         region="843,15,1081,714">
+        src="gh:plant-humanities/media/passionflower/gardener chronicle2.jpg"
+        caption= "A advertisement in the *Gardener's Chronicle* (1889) for Mackenzie & Moncur 'Hot-house builders' from Scotland, offering 'Conservatories, Greenhouses, Vineries, Forcing-houses &c, Erected in Wood or Iron in the most substantial manner in any part of the Kingdom.' Image source: Wikimedia Commons.">
 
 Hothouses and stoves allowed for the artificial cultivation of passionflower hybrids: the first hybrid species, *Passiflora* x *violacea*, was produced in the United Kingdom in the 1820s by hand pollinating plants already in cultivation. As a nineteenth-century gardening publication described it, "most of the species [of passionflower] ripen fruit in our stoves, and consequently many fine varieties have been raised by impregnating the stigmas of one with the pollen of another…with a feather."[^50] The proliferation of these hybrid species, or "monsters under glass," reflect a horticultural mania intent on mixing the traits of different flowers to create copious varieties of color, size, and growth form.[^51] The hybrid Passiflora x belotii has been described as smelling like "refreshers" sweets.[^52] The "scarlet passionflower," described in one catalogue as "a blaze of fiery scarlet blossoms, which are set off in a never-to-be-forgotten way by the background of bright glossy green foliage," is as sickeningly elaborate as the advertiser’s prose used to describe it.[^53] On top of the five hundred or so "wild" species currently recognized, there are also over four hundred additional hybrid species.
 <param ve-image    
@@ -217,29 +208,28 @@ Hothouses and stoves allowed for the artificial cultivation of passionflower hyb
        caption="Photo of *Passiflora* 'Sunburst.' Image source: Wikimedia Commons."
        fit="contain">
 <param ve-image
-       src="wc:Cologne_Germany_Flora-Köln-Passiflora_%27Kew_Gardens%27-01.jpg"
+       src="gh:plant-humanities/media/passionflower/german.jpg"
        caption="Photo of *Passiflora* 'Kew Gardens' (*Passiflora x kewensis*). Image source: Wikimedia Commons."
        fit="contain">
 <param ve-image
-       src="wc:Passiflora_Lady_Margaret.jpg"
-       caption="Photo of *Passiflora* 'Lady Margaret' (*Passiflora coccinea x incarnata*). Image source: Wikimedia Commons."
-       fit="contain">
+	src="wc:Passiflora_Lady_Margaret.jpg"
+	caption="Photo of *Passiflora* 'Lady Margaret' (*Passiflora coccinea x incarnata*). Image source: Wikimedia Commons.">
 
 In the multiplication of passionflower species under the heat of the hothouse, the distinctions between wild and hybrid species were not always clear, as an entry on *Passiflora amabilis* in the *Annals of Horticulture* (1849) illustrates: "whether it be a wild species introduced artificially within the culturist's domain, or has sprung up under cultivation—a garden hybrid, is, as far as we can learn, a matter of uncertainty."[^54] At the end of the eighteenth century, Mary Lawrance produced *A Collection of Passionflowers* (1799) consisting of 18 plates in which she aimed to "contain every species of Passion-flowers, now in cultivation in English Gardens."[^55] But by the mid-nineteenth century, the *Annals of Horticulture* reported that "it would be altogether outstepping our limits, to attempt to describe, or even to enumerate, all the kinds [of passionflowers] which exist in our gardens."[^56]
 <param ve-image
-       src="theodet/do/main/passionflower2025/ML_alata.png"
-       caption="*Passiflora alata* from Mary Lawrance’s *A Collection of Passionflowers* (1799)">
+       src="plant-humanities/media/passionflower/alata.png"
+       caption="*Passiflora alata* from Mary Lawrance’s *A Collection of Passionflowers* (1799).">
    		
 The hothouse is a steamy, pungent, intoxicating, but also sickly place: as the Italian poet Gariele D'Annunzio describes in erotic and corrupting terms, "…the over-bold/ Young vines in dense luxuriance rankly grow,/ And strange weird plants their horrid buds unfold…"[^57] The humidity, and the enumeration of such "strange weird plants" together under glass, creates a breeding ground for diseases such as rot. The term "hothouse flower," commonly used to refer to plants kept under glass that would only flower for a few days, developed a figurative meaning in the nineteenth century, to denote something or someone that is artificial, delicate, or fragile. [^58] Women, for instance, were described as hothouse flowers, as sorts of delicate beauties. At the same time, a "hothouse" came to be used as a colloquial term for a brothel—the domain, supposedly, of diseased, corrupted, and impregnated flowers (women).[^59]
 <param ve-image
-       src="gh:plant-humanities/media/passionflower/P. adenophylla.jpg"
-       caption="Herbarium specimen of *Passiflora adenophylla*.">
+	src="gh:plant-humanities/media/passionflower/P. adenophylla.jpg"
+	caption="Herbarium specimen of *Passiflora adenophylla*.">
 <param ve-image
-       src="gh:plant-humanities/media/passionflower/Passiflora sp herb.jpg"
-       caption="Herbarium specimen of a species of *Passiflora*">
+	src="gh:plant-humanities/media/passionflower/Passiflora sp herb.jpg"
+	caption="Herbarium specimen of a species of *Passiflora*.">
 <param ve-image
-       src="gh:plant-humanities/media/passionflower/Passiflora tripatita.jpg"
-       caption="Herbarium specimen of *Passiflora tripartita*">
+	src="gh:plant-humanities/media/passionflower/Passiflora tripartita.jpg"
+	caption="Herbarium specimen of *Passiflora tripartita*.">
 <param ve-image
        src="gh:plant-humanities/media/passionflower/Passiflora subpeltata.jpg">
 
