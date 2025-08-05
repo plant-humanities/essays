@@ -204,13 +204,13 @@ The artificial cultivation of these far-away rainforests, and the lush exoticism
 
 Hothouses and stoves allowed for the artificial cultivation of passionflower hybrids: the first hybrid species, *Passiflora* x *violacea*, was produced in the United Kingdom in the 1820s by hand pollinating plants already in cultivation. As a nineteenth-century gardening publication described it, "most of the species [of passionflower] ripen fruit in our stoves, and consequently many fine varieties have been raised by impregnating the stigmas of one with the pollen of another…with a feather."[^50] The proliferation of these hybrid species, or "monsters under glass," reflect a horticultural mania intent on mixing the traits of different flowers to create copious varieties of color, size, and growth form.[^51] The hybrid Passiflora x belotii has been described as smelling like "refreshers" sweets.[^52] The "scarlet passionflower," described in one catalogue as "a blaze of fiery scarlet blossoms, which are set off in a never-to-be-forgotten way by the background of bright glossy green foliage," is as sickeningly elaborate as the advertiser’s prose used to describe it.[^53] On top of the five hundred or so "wild" species currently recognized, there are also over four hundred additional hybrid species.
 <param ve-image
-	src="wc:Passiflora_Sunburst_0zz.jpg"
+	src="gh:plant-humanities/media/passionflower/sunburst.jpg"
 	caption="Photo of *Passiflora* 'Sunburst.' Image source: Wikimedia Commons.">
 <param ve-image
 	src="gh:plant-humanities/media/passionflower/german.jpg"
 	caption="Photo of *Passiflora* 'Kew Gardens' (*Passiflora x kewensis*). Image source: Wikimedia Commons.">
 <param ve-image
-	src="wc:Passiflora_Lady_Margaret.jpg"
+	src="gh:plant-humanities/media/passionflower/lady margaret.jpg"
  	caption="Photo of *Passiflora* 'Lady Margaret' (*Passiflora coccinea x incarnata*). Image source: Wikimedia Commons.">
 
 In the multiplication of passionflower species under the heat of the hothouse, the distinctions between wild and hybrid species were not always clear, as an entry on *Passiflora amabilis* in the *Annals of Horticulture* (1849) illustrates: "whether it be a wild species introduced artificially within the culturist's domain, or has sprung up under cultivation—a garden hybrid, is, as far as we can learn, a matter of uncertainty."[^54] At the end of the eighteenth century, Mary Lawrance produced *A Collection of Passionflowers* (1799) consisting of 18 plates in which she aimed to "contain every species of Passion-flowers, now in cultivation in English Gardens."[^55] But by the mid-nineteenth century, the *Annals of Horticulture* reported that "it would be altogether outstepping our limits, to attempt to describe, or even to enumerate, all the kinds [of passionflowers] which exist in our gardens."[^56]
