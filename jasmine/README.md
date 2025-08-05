@@ -209,9 +209,9 @@ As a cultivator, Johnson uses the same language as poets to describe jasmine. To
        caption="Mrs. C. M. Kirtland, *The Language and Poetry of Flowers* (Chicago: Belford, Clarke & Co, 1884), 119–124, *Internet Archive*.">
 
 In an issue of *Household Words*, Charles Dickens penned an ode to jasmine. He exclaims "Beautiful Jasmine!," proposes to "crown the Jasmine empress and queen of all [flowers]," and posits that it is "the Isis of flowers, with veiled face and covered feet."[^64] Dickens’s reverence of a chaste jasmine with her "veiled face and covered feet" may reflect a Victorian anxiety over tensions arising from continued cultural glorification of chastity and societally enforced repression of sexuality.
-<param ve-iframe
-       src="https://gallica.bnf.fr/ark:/12148/bpt6k96028635/f14.item.texteImage"
-       caption="Frontispiece for *L’Ancien et le nouveau langage de fleurs* (Paris: Bailly, 1858), *Bibliothèque nationale de France*.">
+<param ve-image
+       src="gh:plant-humanities/media/jasmine/BnF3.jpeg"
+       caption="Frontispiece for *L’Ancien et le nouveau langage de fleurs* (Paris: Bailly, 1858), *Source gallica.bnf.fr / Bibliothèque nationale de France*.">
 
 Such sentiments are echoed in the many symbolic meanings attributed to various species of jasmine in flower dictionaries, which were hugely popular in the nineteenth century. The dictionaries repeatedly use the same language to describe jasmine's symbolic meanings, but they present a multiplicity of distinct connotations depending on the type of jasmine. For example, in *The Language of Flowers: An Alphabet of Floral Emblems*, different meanings are ascribed to Cape Jasmine ("transport of joy"), Carolina Jasmine ("separation"), Indian Jasmine ("I attach myself to you"), Spanish Jasmine ("sensuality"), White Jasmine ("amiability"), and Yellow Jasmine ("grace and elegance"). This poetic fragmentation suggests not only that jasmine’s many varieties were tasked with propping up the plant’s dual associations with the spiritual and sensual, but also perhaps that readers of the time were knowledgeable enough to be able to identify each of these varieties by sight.
 <param ve-iframe
