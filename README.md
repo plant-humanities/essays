@@ -21,6 +21,13 @@ This essay provides an approachable overview of herbarium specimens and how they
 # Featured Plant Narratives 
 `.cards`
 
+## Jasmine: The Sensual and the Sacred
+[Jasmine: The Sensual and the Sacred](jasmine)
+
+- Adriana Ballinger and Tori Champion
+  
+!![](https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/jasmine.jpg)
+
 ## Passionflower: Christian Curiosity, Exotic Vine, Tropical Fruit
 [Passionflower: Christian Curiosity, Exotic Vine, Tropical Fruit](passionflower)
 
@@ -213,6 +220,13 @@ This essay provides an approachable overview of herbarium specimens and how they
 - Jordan Noelle Smith, Gianna Welty, and Hayley Blair
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Indigofera_heterantha_Indygowiec_2019-07-20_03.jpg/320px-Indigofera_heterantha_Indygowiec_2019-07-20_03.jpg)
+
+## Jasmine: The Sensual and the Sacred
+[Jasmine: The Sensual and the Sacred](jasmine)
+
+- Adriana Ballinger and Tori Champion
+  
+!![](https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/jasmine.jpg)
 
 ## Maize: Sacred Plant, Global Commodity
 [Maize: Sacred Plant, Global Commodity](maize)
