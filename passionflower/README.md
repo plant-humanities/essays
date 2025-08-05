@@ -82,7 +82,6 @@ The symbolic resonance of the passionflower on the European continent did not tr
 	src="gh:plant-humanities/media/passionflower/marylawrence.jpeg"
  	caption="From *Passion Flowers* by Mary Lawrence (1781-1845). Image Credit: Author's image courtesy of Oak Spring Garden Foundation.">
 
-
 The increasing interest in the decorative uses and malleable symbolism of the passionflower was part of a larger craze for exotic plants in Victorian England that was paired with the idea of the Language of Flowers. The origin of the Language of Flowers is credited to Lady Mary Wortley Montagu, who alluded to a “Turkish love letter” while traveling in Constantinople between 1716 and 1718.[^27] The language was based on associated meanings of plants. While not an immediate cultural phenomenon, floriographies aimed at upper-class women began to be commonly printed in Victorian England about a century after Montagu’s letters. These floral dictionaries were based on the French Langage des Fleurs published in 1819 by Madame Charlotte de Latour.[^28] Given the Victorians’ hunger for symbolisms of all kinds, the existing tale of the passionflower made a natural entry into floriographies, as well as naturalistic decorative arts looking to showcase a broad range of plants that could, if one looked hard enough, contain secret meanings.	
 <param ve-image 
        src="gh:plant-humanities/media/passionflower/wortleymontagu.jpg" 
@@ -103,32 +102,29 @@ The Language of Flowers inspired a greater inclusion of plants in decorative art
 Perhaps the most famous instance of passionflowers in Victorian decorative arts are those on the ceiling of Hintze Hall in London’s Natural History Museum (opened 1881). The ceiling is composed of 162 panels painted in the [Arts and Crafts style](https://en.wikipedia.org/wiki/Arts_and_Crafts_movement) and is meant to emphasize the botanical undercurrents of the British empire. The idea for the panels is credited to Alfred Waterhouse, while they were painted in situ by Charles James Lea. Hintze Hall was intended to showcase the wonders of the empire, especially those plants with economic value, such as tobacco or cotton; exotics like the passionflower were included as well.[^32]   
 <param ve-image
        src="wc:Natural_History_Museum_Main_Hall,_London,_UK_-_Diliff.jpg" 
-       caption="Hintze Hall. Image source: Wikimedia Commons."
-       rotate="90">
+       caption="Hintze Hall. Image source: Wikimedia Commons.">
 <param ve-image
-       src="wc:Hintze_Hall_ceiling_and_arches_from_east_alcove.jpg" 
-       caption="Hintze Hall panels. Image source: Wikimedia Commons." 
-       rotate="180">
+       src="gh:plant-humanities/media/passionflower/Hintz Hall East.jpg" 
+       caption="Hintze Hall panels. Image source: Wikimedia Commons.">
 <param ve-image
        src="gh:plant-humanities/media/passionflower/passionflower panel.png"
        caption="Ceiling panel showing passionflower. Image source: Wikimedia Commons (cropped).">
 
 Another notable display of passion flowers is at the Royal Botanic Gardens Kew. Marianne North was a painter who combined modes of landscape painting and botanical illustration into her artistry. She was an unmarried Victorian woman who traveled the empire alone after the age of 40 and had an insatiable curiosity for tropical plants.[^33] North was especially interested in the environmental adaptation of the specimens she painted. Today, over 800 of her paintings live in the Marianne North Gallery at the Kew where, for the better part of the past century, they were the only permanent solo exhibition of works by a woman.[^34] Several of her paintings feature the passionflower, which she encountered throughout her travels, from Jamaica to Brazil to India and South Africa. In her autobiography, North makes no mention of the Christian symbolism of the passionflower but focuses on the morphology of the plant and the deliciousness of its fruit which, she notes, makes for a most refreshing treat amid oppressive summer heat.[^35]
-<param ve-iframe
+<param ve-image
 	src="gh:plant-humanities/media/passionflower/marianne north passionflower.jpg"
 	caption="Flowers and Fruit of the Maricojas Passion Flower, Brazil, Marianne North, 1873. The Board of Trustees of the Royal Botanic Gardens, Kew.">
-<param ve-iframe
+<param ve-image
 	src="gh:plant-humanities/media/passionflower/marianne north passionflower2.jpg"
 	caption="Two Climbing Plants of Chili and Butterflies, Marianne North, 1880s. The Board of Trustees of the Royal Botanic Gardens, Kew."
 
 Besides these public, impressive locations, passionflowers were also present in the domestic sphere through textile and porcelain designs. Richard Ovey, the leading furniture fabric purveyor in the early nineteenth century, sold a cotton titled “The Scarlet Ground White Passion Flower Chintz.”[^36]  Manchester calico manufacturer.[^37] Samuel Matley and Sons also sold an upholstery cotton decorated with passionflowers.[^38] As for porcelain, Coalport Porcelain (https://en.wikipedia.org/wiki/Coalport_porcelain), a leading brand of porcelain throughout the nineteenth century, produced a passionflower plate design painted by Thomas Pardoe (https://en.wikipedia.org/wiki/Thomas_Pardoe_(painter)), a notable painter of birds and flowers on porcelain. The presence of passionflowers in these widely available fabrics and porcelain illustrates the extent to which passionflowers became a common motif in nineteenth-century decorative arts. Passionflowers joined the many exotic flowers sprawling over Victorian pattern-crazed homes, adding to the gaudy and saturated aesthetic of the age. 	
 <param ve-image
-       url="https://collections.vam.ac.uk/item/O113964/furnishing-fabric-ovey-richard/?carousel-image=2006AT8976"
+       src="gh:plant-humanities/media/passionflower/Richard Ovey.jpg"
        caption="Richard Ovey (merchant), Bannister Hall (printer). Image credit: Victoria and Albert Museum">
 <param ve-image 
-	url="https://collections.vam.ac.uk/item/O289747/furnishing-fabric-samuel-matley/?carousel-image=2018LF6093"
-caption="Samuel Matley and Sons, image credit: Victoria and Albert Museum
-Coalport Porcelain Factory (manufacturer), Thomas Pardoe (painter). Image credit: Victoria and Albert Museum.">
+	src="gh:plant-humanities/media/passionflower/Samuel Matley.jpg"
+caption="Samuel Matley and Sons, image credit: Victoria and Albert Museum.">
 
 ### The Passionflower in Victorian Poetry
 
@@ -139,13 +135,12 @@ The Victorian interest in allegory and symbolism translated well to poetry. Publ
 Tennyson’s poem marks a semantic shift in the use of the word passion. It is clear that, placed among roses, lilies, and violets, the passionflower is not serving as a Christ-symbol. Rather, it was by this point an ornamental vine common in English gardens, and more, the name of passionflower aligns with a certain desperation in the protagonist’s narration.
 <param ve-image
 	src="gh:plant-humanities/media/passionflower/cameron tennyson.jpg"
-	caption=“*Alfred Tennyson*, photographed by Julia Margaret Cameron 1869.">
+	caption="*Alfred Tennyson*, photographed by Julia Margaret Cameron 1869.">
 
 Several volumes of Tennyson’s work were illustrated by his close friend, the pioneering Victorian photographer Julia Margaret Cameron. “Fanciful” photographs became common in the Victorian era and often depicted biblical allegories or classical tales.[^40] Cameron has two photographs surrounding “the passionflower at the gate” that feature wistful women dressed in white. The innocent, virgin beauty showcased in these photos alters the literal meaning of Tennyson’s “passionflower.” The woman becomes the passionflower—or an extension of its symbolic value. While Maud is absent from Tennyson’s garden, Cameron places the figure of desire into her photographs. Through Cameron and Tennyson’s work, we can see the passionflower of the Victorians becoming related to sensuality. The “enthusiastic imaginations” of the Jesuits noted by Pratt and Miller added an element of curiosity to the already exotic-looking morphology of the passionflower. 
 <param ve-image
        src="gh:plant-humanities/media/passionflower/passionflower at the gate.jpg"
        caption="The passionflower at the gate, 1866; *Maud* “There has fallen a splendid tear/from the passionflower at the gate,” 1875 from the illustrated *Idylls of the King and other Poems*.">
-
 
 ### The Diversity of Passionflowers
 
