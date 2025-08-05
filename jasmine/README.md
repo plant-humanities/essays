@@ -185,13 +185,13 @@ Beyond its medicinal uses, European gardeners primarily cultivated jasmine to cr
        caption="Madeleine Françoise Basseporte and her circle, *Three types of jasmine*, ca. 1750. Watercolor over pencil on vellum. *The Morgan Library & Museum*.">
        
 ### Portraiture and Gendered Symbolism
-Jasmine features in the famous *Guirlande de Julie* (*Garland of Julie*), a book of madrigal poems composed by a group of writers in seventeenth-century Paris as a tribute to the beautiful Julie d’Angennes, the daughter of the noted salon host the Marquise de Rambouillet. In this period, salons were social and intellectual spaces attended by elite men and women and led by an individual woman in the domestic space of her home. The poems in the *Guirlande de Julie* claim to speak in the voice of their flower subject, and their accompanying representations (produced by decorative and scientific flower painter Nicolas Robert) are like painted portraits. The assembled collection of flowers with their associated symbolic meanings are a metaphor communicating the dedicatee’s many virtues.
-<param ve-iframe
-       src="https://gallica.bnf.fr/ark:/12148/btv1b8451620k/f11.item"
-       caption="*La Guirlande de Julie*, 1641. *Bibliothèque nationale de France*.">
-<param ve-iframe
-       src="https://gallica.bnf.fr/ark:/12148/btv1b8451620k/f67.item"
-       caption="*La Guirlande de Julie*, 1641. *Bibliothèque nationale de France*.">
+Jasmine features in the famous [*Guirlande de Julie*](https://gallica.bnf.fr/ark:/12148/btv1b8451620k/f11.item) (*Garland of Julie*), a book of madrigal poems composed by a group of writers in seventeenth-century Paris as a tribute to the beautiful Julie d’Angennes, the daughter of the noted salon host the Marquise de Rambouillet. In this period, salons were social and intellectual spaces attended by elite men and women and led by an individual woman in the domestic space of her home. The poems in the *Guirlande de Julie* claim to speak in the voice of their flower subject, and their [accompanying representations](https://gallica.bnf.fr/ark:/12148/btv1b8451620k/f67.item) (produced by decorative and scientific flower painter Nicolas Robert) are like painted portraits. The assembled collection of flowers with their associated symbolic meanings are a metaphor communicating the dedicatee’s many virtues.
+<param ve-image
+       src="gh:plant-humanities/media/jasmine/BnF1.jpeg"
+       caption="*La Guirlande de Julie*, 1641. *Source gallica.bnf.fr / Bibliothèque nationale de France*.">
+<param ve-image
+       src="gh:plant-humanities/media/jasmine/BnF2.jpeg"
+       caption="*La Guirlande de Julie*, 1641. *Source gallica.bnf.fr / Bibliothèque nationale de France*.">
 
 A century later, in 1754, the official mistress of King Louis XV of France, Jeanne-Antoinette Poisson, Marquise de Pompadour, commissioned a portrait of herself standing outdoors, enveloped in the lush greenery of a garden. Occupying a powerful position at court, Pompadour was a formidable patron of the arts throughout the middle of the eighteenth century. In the portrait, painted by Carle Van Loo, Pompadour carries a chestnut wicker basket which has been filled to the brim with roses, peonies, lilies-of-the-valley, and jasmine, a sprig of which she holds aloft in her right hand. Around 1750, Madame de Pompadour and the king ended the physically intimate part of their relationship and began a steadfast friendship. In the wake of this shift, Pompadour commissioned several allegorical sculptures from Jean-Baptiste Pigalle (1714–1785) which portrayed her in the guise of Friendship. These sculptures were also incorporated into the decorative schemes of her various châteaux, though outdoors, amid her beloved gardens. In her Van Loo portrait, the token of jasmine that Pompadour holds may also gently allude to the spiritual—rather than physical—love she and Louis now shared.
 <param ve-image
