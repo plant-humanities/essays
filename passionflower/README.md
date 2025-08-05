@@ -150,15 +150,14 @@ Several volumes of Tennyson’s work were illustrated by his close friend, the p
 
 Since Linnaeus’ classification, the known diversity of passionflowers has grown considerably: passionflowers encompass plant life forms that are visual, olfactory, dynamic, and malleable. The proliferation of the flower over evolutionary time represents the numerous and intimate entanglements of the plant with its predators, pollinators, and rainforest habitats. The flowers of *Passiflora mucronata*, for instance, are pollinated by bats and open at night in as little as fifteen seconds to release an odor that smells somewhat like pumpkin, fresh beans, or lemon cake.[^41] The common names of passionflowers indicate their diversity of forms: "moon-shaped-leaved" (*P. murucuza*), "bat-winged" (*P. vespertilio*), "cork-barked" (*P. suberosa*), "square-stalked" (*P. quadrangularis*), "laurel-leaved" (*P. laurifolia*), "apple-fruited" (*P. maliformis*), and even, "sea-anemone-like" (*P. actinia*).[^42]
 <param ve-image
-       src="wc:NIEdot346.jpg"
-       caption="Illustrations of various passionflowers, from the *New International Encyclopedia* (1902). Image source: Wikimedia Commons.">
-<param ve-image   
-       src="wc:Haeckel_Actiniae_edit.jpg"
-       caption="Illustration of sea anemones (*Actiniae*) from Ernst Haeckel's Kunstformen der Natur (1899). Image source: Wikimedia Commons.">
+	src="wc:NIEdot346.jpg"
+	caption="Illustrations of various passionflowers, from the *New International Encyclopedia* (1902). Image source: Wikimedia Commons.">
+ <param ve-image
+	 src="wc:Haeckel_Actiniae_edit.jpg"
+	 caption="Illustration of sea anemones (*Actiniae*) from Ernst Haeckel's Kunstformen der Natur (1899). Image source: Wikimedia Commons.">
 <param ve-image
-       src="wc:Passiflora_actinia_flower_12.jpg"
-       caption="Photo of *Passiflora actinia*, the sea-anemone passionflower. Image source: Wikimedia Commons."
-       fit="contain">
+	src="wc:Passiflora_actinia_flower_12.jpg"
+	caption="Photo of *Passiflora actinia*, the sea-anemone passionflower. Image source: Wikimedia Commons.">
 
 In his painting, *Hummingbird and Passionflowers* (ca. 1875–1885), Martin Johnson Heade conveys a sense of the natural world as dynamic and evolving. The passionflowers (*Passiflora* *racemosa*) are depicted in close association with their tropical habitat and hummingbird pollinators. These striking red flowers, set against the backdrop of thunderous skies, infuse the tropical landscape with drama and allure. The entwining and climbing stems of the plant loop around the birds and the other arboreal branches of the rainforest canopy, bringing them gently into its tangle. The flowers’ curling tendrils are perplexing, quite literally: perplex, from the Latin *plexus*, means interwoven, entangled, involved, intricate, plaited.
 <param ve-image      
