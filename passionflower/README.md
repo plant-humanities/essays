@@ -40,7 +40,7 @@ While many plants in the *Passiflora* genus offer edible fruits, it was their fl
 
 Early seventeenth-century religious works elucidated the symbolism contained within the flower’s morphology. In 1609 in Bologna, Simone Parlasca published *The Flower of the Granadiglia, or of The Passion of Our Lord Jesus Christ*, which compiled prose, poetry, and woodcut and copper engravings depicting the plant. Giovanni Rossi’s illustrations did as much to popularize its Christian symbolism as did written descriptions: they depicted an exaggerated passionflower plant whose coronal filaments form Jesus’ Crown of Thorns and whose stylized stigmas resemble the three nails that pinned him to the cross.[^8] Though the most common passionflower species have trifoliate leaves, the Bolognese illustrations picture oval leaves, which subsequent illustrations often emulated. One Jesuit polemicist [assessed](https://www.biodiversitylibrary.org/item/188320#page/189/mode/1up) in 1610 that the plant’s leaves are shaped like the "point of the lance that pierced through the side of Christ our Lord."[^9]  Other seventeenth-century contemporaries identified the flower’s five stamens with the wounds Jesus suffered on the cross, inspiring another early name for the flower: la Flor de las cinco llagas, or "Flower of the Five Wounds."[^10]
 <param ve-iframe
-       src="https://archive.org/details/Il-fiore-della-granadiglia-ouero-della-passione-di-Nostro-Signore-Giesu-Christo-PHAIDRA_o_361211/page/n13"> 
+       src="https://archive.org/embed/Il-fiore-della-granadiglia-ouero-della-passione-di-Nostro-Signore-Giesu-Christo-PHAIDRA_o_361211/page/n13"> 
 	
 ### A Natural Wonder for the Global Church
 
@@ -62,17 +62,17 @@ It is likely that the passionflower was added to the painting by a different art
 
 It was this natural history of wonder—rather than economic botany—that brought fame to the passionflower across seventeenth-century Europe. Jesuit mystic and theologian Juan Eusebio Nieremberg depicted the bud of the passionflower as the Holy Grail in his book devoted to the natural history of faraway lands. For Nieremberg, each species might "reveal the enigmas of divine wisdom," since the "mysteries of sacred history were written in nature" and its wonders like the passionflower.[^17] By inscribing European symbolism and cosmologies into the flower, Christian naturalists and missionaries rendered the American plant not only a material possession, but a spiritual or "imaginary possession" of Europe.[^18]
 <param ve-iframe
-src="https://archive.org/details/ioanniseusebiini00nier_0/page/299">
+src="https://archive.org/embed/ioanniseusebiini00nier_0/page/299">
 
 ### Passionflower in Early Modern Botany
 	
 Others were skeptical of the Jesuits’ belief that the flower held esoteric meaning. Even José de Acosta had admitted when he first documented the symbolic interpretation that "some piety is necessary to help it appear, but much is well expressed" in the flower.[^19] British herbalist, John Parkinson, though Catholic, impugned the "superstitious Jesuite" and their professed symbolism, warning that "God never willed his Priests to instruct his people with lyes."[^20] By the first two decades of the seventeenth century, *Passiflora incarnata* (Maypop) and *caerulea* (blue passionflower) grew in Paris, Rome, and London.[^21] Faced with real passionflowers growing in Rome in 1625, an Italian botanist similarly [struggled](https://www.biodiversitylibrary.org/item/111765#page/72/mode/1up) to see the Arma Christi.[^22] These botanists’ works were often accompanied by more realist botanical illustrations over the stylized popular woodcuts.
 <param ve-iframe
-       src="https://archive.org/details/paradisiinsolepa00park/page/394"> 
+       src="https://archive.org/embed/paradisiinsolepa00park/page/394"> 
 
 Still, both religious and scientific works nourished the flower’s myth into the eighteenth century. An encyclopedia of mathematics and natural history published by the German Johann Zahn in 1696 mimicked Nieremberg’s stylized illustration of the passionflower on the page featuring popular and scientific wonders of early modern Europe, including the anthropomorphic mandrake and the "Boromez" plant that purportedly grew live sheep as its fruit.[^23] Though the Jesuit interpretation of the passionflower emanated from Iberian colonies, the mythic illustrations also circulated in North American colonies. In a manuscript cataloging the natural history of French Canada at the end of the seventeenth century, the Jesuit author sketched just two species not native to the region: the unicorn and the passionflower, clearly imitating Nieremberg’s woodcut.[^24] When Carl Linnaeus catalogued species and standardized plant taxonomy in 1753, he [identified](https://www.biodiversitylibrary.org/page/358980#page/397/mode/1up) 24 species in the genus *Passiflora*, ensuring the plant’s Jesuit legacy would live on in the age of Linnean botany. He named *Passiflora incarnata*—the species cultivated by the Powhatan in Virginia—as the genus’s type species.[^25]
 <param ve-iframe 
-       src="https://archive.org/details/speculaphysicoma00zahn/page/n935" 
+       src="https://archive.org/embed/speculaphysicoma00zahn/page/n935" 
        caption="The passionflower and other mythic curiosities in Johann Zahn’s *Specula physico-mathematico-historica*.">
 
 ### The Language of the Passionflower
@@ -89,7 +89,7 @@ The increasing interest in the decorative uses and malleable symbolism of the pa
 
 In Anne Pratt and Thomas Miller’s mid-nineteenth-century floriography, The Language of Flowers: The Associations of Flowers, Popular Tales of Flowers, the passionflower is described exotically as “hanging in beautiful festoons about the venerable trees of the American forests.”[^29] It is noted only for its Christian symbolism, and no alternate symbol is offered. However, the entry seems to be more of a “popular tale” than an accepted element of the Victorian “secret language.” Pratt and Miller write snidely about the Spanish Jesuit’s floral reach of the imagination: “To their enthusiastic imaginations, the different parts of the blossoms figured the number of the Apostles, the rays of glory, the nails, the hammer— those sad signs of the Saviour’s passion ! and the sight of this wonderful symbol in the far-off wilderness, was to them an assurance of conquests which were to be effected under the name of religion.” To Pratt and Miller, the passionflower’s symbolism is far-fetched and requires, as they put it, an “enthusiastic imagination.” They use this story to critique the colonial Jesuit enterprise, saying: “More anxious to promote their own peculiar doctrines of faith, and to ensure a temporal dominion, than to exemplify the spirit of Him whom they profess to follow, the very men who beheld in a flower of the forest an emblem of love—an emblem for faith to rest upon—carried misery wherever they raised their standard.”[^30] This quote, however, is less a critique of colonialism than of the Jesuits themselves, suggesting that the Jesuits are not properly acting in the name of God. This difference of religion is ultimately what weakened the Christian symbolism of the passionflower as it was popularized in England. 
 <param ve-iframe 
-       src="https://archive.org/details/languageofflower00prat/page/110"
+       src="https://archive.org/embed/languageofflower00prat/page/110"
        caption="*The Language of Flowers, The Associations of Flowers, Popular Tales of Flowers* by Anne Pratt and Thomas Miller.">			
        
 ### The Passionflower in the Decorative Arts
@@ -235,7 +235,7 @@ The hothouse is a steamy, pungent, intoxicating, but also sickly place: as the I
 
 As noted by Pedro Cieza de Leon and Captain John Smith in the seventeenth century, passionflower vines bear a tart fruit with a bright, citrus-adjacent flavor. In addition to their continued cultivation as ornamental plants in gardens all over the world, passionfruit has become an increasingly available and popular flavor in the American culinary world.[^60] Its gastronomical success depends upon its association with tropicality, even when that tropicality is a marketed fiction. Passionfruit was introduced to Hawai’i in the 1930s, and in the postwar period, market development for passionfruit and value-added products proliferated.  
 <param ve-iframe 
-       src="https://archive.org/details/edpasfru00unit/mode/2up"
+       src="https://archive.org/embed/edpasfru00unit/mode/2up"
        caption="*The Edible Passion Fruit in Hawaii* by W.T. Pope, Senior Horticulturist at the Hawaii Agricultural Experiment Station, Honolulu, HI.">
 
 Passionfruit's symbolic value in American food culture is almost an inverse of its Christian symbolism. Instead of being "discovered" in a tropical region and appropriated for Christian colonial purposes, the passionfruit was actively introduced into the exoticized landscape of Hawai'i by the colonizing force of the United States in the early twentieth century and the engine of the United States Department of Agriculture’s Hawai'i Agricultural Experiment Station.[^62] This was part of a broader trend of agricultural research based in Honolulu through which the United States sought to plunder the fertile tropical islands at the far reaches of its early twentieth century empire. The passionfruit seemingly delivered some sense of adventure and novelty as an ingredient for Anglo-American consumers.
