@@ -262,6 +262,7 @@ Throughout the long history of human–jasmine relationships, jasmine has become
        src="wc:Chinese_jasmine_in_spring_bloom.JPG"
        caption="HelenOnline, *Chinese Jasmine in Spring Bloom*, 2013, *Wikimedia Commons*.">
 
+### References
 [^1]: “Common jasmine,” Kew, accessed August 26, 2024, https://www.kew.org/plants/-jasmine; Sugata Ray, “A ‘Small’ Story of the Jasmine Flower in the Age of Global Botany,” in *Crafting Enlightenment: Artisanal Histories and Transnational Network*, eds. Lauren R. Cannady and Jennifer Ferng (Liverpool: Liverpool University Press, 2021), 247–272.
 [^2]: “Common jasmine,” Kew, accessed August 26, 2024, https://www.kew.org/plants/-jasmine.
 [^3]: Ernest Weekley, *An Etymological Dictionary of Modern English* (London: John Murray, 1921), 779.
