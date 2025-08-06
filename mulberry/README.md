@@ -70,7 +70,7 @@ Silk is sacred in many cultures.[^18]  As is the mulberry tree. In cosmologies, 
 
 Fame is surely secured by myths, art, and song, and the mulberry plays a prominent role in all three. In the Babylonian love story about Pyramus and Thisbe by the Roman poet, Ovid in the first century BCE, the lovers arrange to meet under a mulberry tree, most likely a black mulberry since the white mulberry was not present in Babylon as the time. Thisbe arrives first but runs away after a lion attacks her, leaving behind her bloodied scarf. When Pyramus arrives, he sees the scarf and, believing Thisbe to be dead, stabs himself. When Thisbe returns to the tree and sees her lover’s body, she ends her life. It is said their blood is what gave the berry its dark color.
 <param ve-image
-       src="gh:plant-humanities/media/mulberry/"
+       src="gh:plant-humanities/media/mulberry/P11 PyramusThisbe-c 1510.jpg"
        caption="Pyramus and Thisbe by Hans Wechtlin c1510. Public domain.">
 
 Van Gogh painted a mulberry tree in 1889, one year before his death, in brushstrokes that pulsate with life, echoing perhaps his feverish state of mind during a stay at an asylum. More cheerful is the depiction in folklore where the mulberry tree inspires carousing songs, odes to its juicy fruit,[^22] and the tree around which children dance as they sing the popular nursery rhyme.[^23]
@@ -110,6 +110,29 @@ Evidence of white mulberry cultivation in Khotan emerging from 150–350 CE migh
        src="gh:plant-humanities/media/mulberry/Indian deity.jpg"
        caption="Khotanese votive panel portraying a possible three-headed God of Silk or Patron of Weaving, circa 6th to 8th century. Publicly available via Wikimedia Commons.">
 
+According to another legend, the sixth century Byzantine Emperor Justinian I bribed Nestorian monks to smuggle silkworm eggs and white mulberry seeds to Constantinople, which they did using hollow canes purportedly from Persia.[^34] Whether or not these stories are true, the secret of sericulture spread—and the mulberry trees themselves, first to the Byzantine Empire in the 500s, then to Spain in the 900s and to England in the 1600s.[^35] Sericulture slowly expanded westward, further spurred by industrialization and new, cheap silk production methods, with the black mulberry planted as sericulture’s companion. Eventually, the white mulberry followed, appreciated for both its sericultural importance and the versatility of its fruit.[^36]
+<param ve-image
+       src="gh:plant-humanities/media/mulberry/Justinian plate2.jpg"
+       caption="Plate depicting Justinian I recieving silkworm eggs from Nestorian monks, circa 1595. Metropolitan Museum of Art via Wikimedia Commons.">
+<param ve-image
+       src="gh:plant-humanities/media/mulberry/incubation eggs.jpg"
+       caption="Third plate from the same 1595 series *Vermis Sericus*: The Introduction of the Silkworm. Depicts the incubation of the eggs.">
+<param ve-image
+       src="gh:plant-humanities/media/mulberry/eggs shelf.jpg"
+       caption="The fourth plate, depicting the eggs spread on shelves.">
+<param ve-image
+       src="gh:plant-humanities/media/mulberry/leaves silkworms.jpg"
+       caption="The fifth plate, depicting gathering of mulberry leaves and feeding of the silkworms.">
+<param ve-image
+       src="gh:plant-humanities/media/mulberry/reeling silk.jpg"
+       caption="The sixth plate, depicting the reeling of silk.">
+
+By the late 1400s, France—which had witnessed the prosperity silk had brought to Italy and Spain—established its own thriving silk industry with Lyon serving as the heart of French silk weaving, albeit with minimal in-country sericulture and thread production. It was due to Henri IV and his agronomist friend Olivier de Serres in the late 1500s that the first consequential planting of mulberries occurred. However, until the eighteenth century, the French silk industry remained reliant on Piedmontese silk threads—known as organzine—which were vastly superior to French alternatives in terms of uniformity, quality, and fabric production.[^37] At one point, in the mid 1500s, 30 percent of all silk imports to France were from Italy, which also accounted for 20 percent of imports to other European countries, at times even surpassing China.[^38] Because the exportation of silk fabric was such a significant portion of France’s economy, the French desired to produce their own organzine on par with the Italians.
+<param ve-iframe
+       src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vQ_scA3HeQbfRmsvLmQjatJ-LY7axuwoYbUAdV1ss75k3Fg4lPYHdybYwwXSmHSpiNaHFEFAUMa2fi4&font=Default&lang=en&initial_zoom=2&width=100%25&height=650">
+
+
+
 
 
 
@@ -147,3 +170,9 @@ Evidence of white mulberry cultivation in Khotan emerging from 150–350 CE migh
 [^28]: Coles, *Mulberry*. 
 [^29]: Coles.
 [^30]: Fortune, Robert. *Three Years' Wanderings in the Northern Provinces of China.* (London: Spottiswoode and Shaw, 1847).
+[^31]: Erika Forte, "Images of Patronage in Khotan," in *Buddhism in Central Asia I* (Leiden, The Netherlands: Brill, 2020), 58–82. https://doi.org/10.1163/9789004417731_004. 
+[^32]: Forte, "Images of Patronage in Khotan." 
+[^33]: Forte.
+[^34]: Arnold Krochmal, "The Vanishing White Mulberry of Northern Greece," *Economic Botany* 8, no. 2 (1954): 145–151. 
+[^35]: Coles, *Mulberry*. 
+[^36]: Coles.
