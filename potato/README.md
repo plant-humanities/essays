@@ -56,10 +56,9 @@ Incan calendars depicted potato planting and harvest. This can be seen in the ma
 	src="gh:plant-humanities/media/potato/Pre-Col.png"
 	caption="Image from *Primer Nueva Corónica Y Buen Gobierno, Felipe Guamán Poma de Ayala manuscrito*. Source: Internet Archive">
 <param ve-image
-	src="gh:plant-humanities/media/potato/Pre-Col2.png"
- 	caption="Image from *Primer Nueva Corónica Y Buen Gobierno, Felipe Guamán Poma de Ayala manuscrito*. Source: Internet Archive">
+	src="gh:plant-humanities/media/potato/Pre-Col2.png">
 	   
-## The British Potato Debates
+### The British Potato Debates
 
 The potato arrived in Europe via Spanish sailors, and from the Basque provinces it spread through northern Italy, the Low Countries (including Flanders and the Southern Netherlands), Franche Comté, Alsace, and the Rhineland. Basque fishermen introduced the potato to Ireland. Generally, its diffusion followed the Spanish Road linking Spain’s territories in Northern Italy and the Low Countries. The potato’s introduction to central and northern Europe followed on the heels of the Thirty Years’ War (1618–1648) and it was embraced by peasants who celebrated its capacity to evade military requisitioning, unlike grain.[^16] This potential to alleviate the threat of civilian starvation is referred to by Nally and Kearns as “survival ecology.”[^17] However, the potato’s association with peasants and subsistence farming became a stigma, and it emerged as a target for debates about poverty and class.
 <param ve-image
