@@ -56,7 +56,8 @@ Incan calendars depicted potato planting and harvest. This can be seen in the ma
 	src="gh:plant-humanities/media/potato/Pre-Col.png"
 	caption="Image from *Primer Nueva Corónica Y Buen Gobierno, Felipe Guamán Poma de Ayala manuscrito*. Source: Internet Archive">
 <param ve-image
-	src="gh:plant-humanities/media/potato/Pre-Col2.png">
+	src="gh:plant-humanities/media/potato/Pre-Col2.png"
+	caption="Image from *Primer Nueva Corónica Y Buen Gobierno, Felipe Guamán Poma de Ayala manuscrito*. Source: Internet Archive">
 	   
 ### The British Potato Debates
 
@@ -77,7 +78,8 @@ Among the debaters, the potato also bore an unwelcome association with Irish Cat
 
 The potato debaters rejected the earlier efforts of agricultural reformers like Arthur Young, who sought to promote acceptance of the potato and its cultivation on private allotments of land to feed the lower classes. Those who opposed Young’s Enlightenment ideals feared that his plans for its cultivation would position the potato—and those who consumed it—outside of the population-regulating apparatus of the grain economy. The potato patch was thought to encourage unchecked population growth among the lower classes and the proliferation of an unproductive labor pool.[^23] Young’s opponents often subscribed to a new set of capitalistic values that cast traditional subsistence practices as pernicious and slothful rather than tenacious and resourceful.[^24] Descriptions of the Irish peasantry from the 1770s—1830s are lurid exercises in conveying abjection and extreme poverty, though such accounts were evidently motivated by divergent goals. To support his reform agenda, Young detailed the conditions he found in the "miserable-looking hovels" he encountered during his travels in Ireland, painting a picture of smoky, windowless, and rudimentary living quarters in which humans and animals cohabitated.[^25]
 <param ve-image
-       src="wc:Arthur_Young,_PA06180.jpg">
+       src="wc:Arthur_Young,_PA06180.jpg"
+	caption="Portrait of Arthur Young, by W. Hinton after John Rising stiple engraving, 1795. Wikimedia Commons.">
 
 William Cobbett, a journalist with sensationalist instincts and one of the most ardent opponents of the potato, spoke of "miserable shed[s]" and "holes" where people lived and dined, alongside their livestock, on potatoes: "nasty, filthy hog-feed."[^26] Cobbett’s dehumanizing language portrays potato eaters as scarcely better than animals, living in filth and misery. In keeping with these sentiments, Cobbett opens his entry on the potato in *The English Gardener* by stating unequivocally that the potato is to be used "merely in company with meat, and not to be used as a substitute for bread…as a substitute for bread, it is the most wasteful thing that can possibly be used." Far from being suitable for human consumption, he considered potatoes to be "inferior" livestock feed compared to a host of other vegetables.[^27]
 <param ve-iframe
