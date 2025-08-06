@@ -165,6 +165,74 @@ Since a silkworm consumes about sixty grams of white mulberry leaves during its 
 ### The Love Affair Turns Sour
 
 Present in the landscapes of our childhoods and imaginations, how was it that the mulberry tree transformed from the harbinger of wealth to a pest, by some accounts, even an invasive species? A key factor is "mulberry mania," which took hold of the northeastern United States in the 1830s. The fast-growing *Morus multicaulis* tree—a white mulberry variant that arrived in the United States from China, had immediate appeal. Its large leaves were easy to harvest and provided an abundant and nutritious source of food for silkworms. State subsidies encouraged the widespread planting of trees to supply an ever-increasing number of forays into silk production.[^56]
+<param ve-image
+       src="gh:plant-humanities/media/mulberry/P26 growth silk 1828.jpeg"
+       caption="Representation of the different ages of the silk worm. Illustration in The growth and manufacture of silk 1828 Secretary of the Treasury. Courtesy of Oak Springs Library.">
+<param ve-image
+       src="gh:plant-humanities/media/mulberry/LoC hand silk mill.jpg"
+       caption="Group of workers at the Hand Silk Mill. In 1889, George Wheeler of Baltimore and C.W. Wilder of New York built a silk throwing factory in Fredericksburg, Virginia. Credit National Child Labor Committee collection, Library of Congress, Prints and Photographs Division.">
+
+The hype spread from state to state: New Jersey, Pennsylvania, Delaware, Maryland, and Virginia were early adopters,[^57] and Vermont, Massachusetts, and Connecticut followed suit. Mulberry mania spread south to South Carolina.[^58]  Advertisements in newspapers and magazines promised buyers a ten-fold increase in trees and, therefore, in profits over just one season.[^59]  Millions of hastily raised white mulberry trees were sold, inflating a speculative bubble that burst just as the entire nation’s economy collapsed in the late 1830s.[^60] It seems true to say that the role of the leaves of the white mulberry in the failed economy of silk production tainted the tree itself.[^61]
+<param ve-image
+       src="gh:plant-humanities/media/mulberry/P27 rearing silk worms.png"
+       caption="A page from a manual on rearing silkworms issued by the U.S. Department of Agriculture in 1903. Open Access Biodiversity Heritage Library.">
+
+*"Nor is this tree less beautiful to the eye than the fairest elm, and is very proper for walks and avenues."*[^62]
+<param ve-image
+       src="wc:Morus_rubra_93979.png"
+       caption="Drawing of Morus rubra L, the red mulberry from The Silva of North America vol 7 (1898) by C.S. Sargent. Courtesy of Missouri Botanical Garden public domain on Wikimedia.">
+
+Horticulturists writing about the red mulberry use language that elevates the tree in words that suggest a patriotic pride in the species that is native to North America. A popular handbook from 1900 quotes Charles Sprague Sargent, author of the periodic survey of American trees, Silva of North America, who lists the many winning qualities of the red mulberry.[^63] Apart from a wide and dense canopy that provides abundant shade, "its freedom from disease and the attacks of disfiguring insects, its prolificness, its hardiness except in its earliest years, and the rapidity of its growth in good soil, make it a most desirable ornamental tree."[^64] Silva of North America 1892-1902 admires the red mulberry’s "shapely head" and remarks on it being a "venerable tree."[^65]
+<param ve-image
+       src="wc:Morus_rubra_93979.png"
+       caption="Drawing of Morus rubra L, the red mulberry from The Silva of North America vol 7 (1898) by C.S. Sargent. Courtesy of Missouri Botanical Garden public domain on Wikimedia.">
+
+At Lewis Ginter Botanical Garden near Richmond, Virginia, a 100-year-old red mulberry is venerated and is a popular feature in its [Children’s Garden](https:www.lewisginter.org/a-giving-tree/). It's the only tree visitors are allowed to climb and harvest for berries. Websites devoted to native species and plant nurseries in the surrounding areas encourage gardeners to grow red mulberries, both for their fruit and the shade of their generous canopies. As summer temperatures continue to rise every year, these shade or cooling trees, in the vernacular of horticulture, become ever more alluring. In addition, they are also necessary for humans, birds, and insects as resting spaces, homes, and sources of nutritious berries.
+<param ve-image
+       src="gh:plant-humanities/media/mulberry/Lewis Ginter garden.jpg"
+       caption="Children climbing the 100 year old Morus rubra at Lewis Ginter Botanical Gardens, Virginia. Credit: Robert Llwellyn.">
+
+During his travels around North America in the in the eighteenth century, the Swedish naturalist Pehr Kalm described the view of red mulberries on "fields, hills and near houses."[^66] The red mulberry was not only common in these landscapes of home, their timber was used to make homes. Red mulberry wood is weather- and insect-resistant and makes for fine cabinets and musical instruments.[^67] Its bark is suitable for "good and rough bast ropes."[^68] And it caters to birds, insects, and domestic animals. Species of birds that feed on the tree’s fruit include the yellow-billed cuckoo, kingbird, tree swallow, thrush, and warbler.[^69] In the southern states, the fruit of the red mulberry was good for fattening hogs and feeding poultry.[^70] Hardy and easy to grow, the red mulberry can be coppiced and pruned to make excellent hedges "keeping children in and animals out."[^71]
+<param ve-image
+       src="wc:UB_Maastricht_-_Kalm_1772_-_frontispiece.jpg"
+       caption="Frontispiece of the 1772 Dutch translation of Pehr Kalm En Resa till Norra America. Credit: Maastricht University Library digital collections, Wikimedia Commons.">
+
+For centuries, people in different parts of the world have used mulberry trees for multiple purposes in both house and homestead. Settlers in the United States, including farmers and gardeners, discovered how adaptable the white and red mulberry tree were to being shaped for human convenience. White mulberry was pruned so that children and "aged women" could harvest its leaves.[^72] In Europe, Macedonian farmers selected and bred white mulberry trees to have broad leaves with low moisture and fiber content.[^73] In China, it was common to graft cultivated stock from the white mulberry onto established wild rootstock—five years later, the leaves were ready to harvest.[^74] Mulberry trees were so malleable that even their sex could be changed through simple grafting of a branch from a female tree onto a male tree.[^75]
+<param ve-image
+       src="gh:plant-humanities/media/mulberry/krochmal 1954.png"
+       caption="An orchard of 150 year old mulberry trees (Morus alba L) near the village of Basilica, Macedonia.Credit: Krochmal 1954 The Vanishing Mulberry Open Access on JSTOR.">
+<param ve-image
+       src="gh:plant-humanities/media/mulberry/vanishing white.png"
+       caption="A young woman in the village of Basilica, Macedonia holds a home-spun silk dress. Credit: Krochmal 1954 The Vanishing Mulberry Open Access on JSTOR.">
+
+Alongside the pruning, grafting, altering, and shaping to suit human needs, a different quality of relationship with the red mulberry co-evolved with Native American peoples. In his travelogue recounting his journeys through North American landscapes in the eighteenth century, Pehr Kalms wrote of the fruit bread he ate with the Iroquois peoples: it was "just like the puddings which our women pack full of raisins."[^76] The tree’s berries provided fruit, preserves, such as jams and syrups, as well as mulberry wine.
+<param ve-video
+       src="NFXZCJwRRs8&t=13s">
+
+In 1979, the "alley-cat nature" of the white mulberry recommended the adaptability and fast growth of the species.[^82] However, the fast propagation of the white mulberry has put red mulberry in danger of dying out in parts of Canada.[^83] In Ontario, red mulberry is an endangered species. In 2023, only three hundred trees remained.[^84] Along with loss and fragmentation of its forest habitat, the red mulberry’s main threat is the white mulberry, which both outcompetes and quickly hybridizes red mulberry. The hybrid trees are difficult to distinguish as either purely white or red until they are adults, when the glossy and smooth leaves of the white mulberry contrast with the leaves of the red mulberry, which aren’t shiny and feel rough to the touch. Conservation efforts of the red mulberry center around controlled pollination once they have been confirmed as a pure species through genetic testing.[^85]
+<param ve-image
+       src="gh:plant-humanities/media/mulberry/distribution map morus rubra.jpg"
+       caption="Map showing the distribution of red mulberry in North America. Credit IUCN.">
+
+The red mulberry has not dwindled to the same extent in the United States.[^86] Nevertheless, in Maine and New Hampshire, the species has disappeared.[^87] In Vermont and Massachusetts, it is considered "extremely rare."[^88] While the future of the species is unclear, the place of the red mulberry is embedded in the cultural heritage along the length and breadth of the northeastern seaboard, as a source of food and medicine, cloth and wood, for humans, our domestic animals, birds and insects.
+<param ve-image
+       src="gh:plant-humanities/media/mulberry/tree book.jpg"
+       caption="Photograph in the book A popular guide to knowledge of the trees of North America and to their uses and cultivation by Julia Ellen Rogers. Wikimedia Commons.">
+
+In the landscapes of past and present, the red mulberry inhabits a deep history that is particularly North American. The centenarian tree at Lewis Ginter Botanical Garden attracts generations of children and adults every season, whether to savor its juicy berries, climb its branches, or sit in its shade when it is in full and generous leaf. While this beloved red mulberry is firmly part of visitors’ memories, blogs, texts and photographs, there is another tree whose chronicle stretches further back in time, to the early days of the nation: the Yorktown-Washington tree, a mulberry tree under which it is said that George Washington slept "undisturbed, unvisited, unphotographed."[^89]
+<param ve-image
+       src="wc:Bataille_de_Yorktown_by_Auguste_Couder.jpg"
+       caption="George Washington accepts the surrender of the British General Charles Cornwallis in 1781 after the battle of Yorktown. Photograph of a painting by Auguste Couder. Wikimedia Commons.">
+
+Building on its deeply rooted presence in American history, the mulberry, particularly the native red mulberry, once held great promise for hopeful American planters. Although it had existed in the Americas for thousands of years, it was silk that moved the white mulberry and its genus to international prominence. The eventual end of sericulture and the American silk industry condemned the white mulberry as messy and undesirable.
+<param ve-image
+       src="gh:plant-humanities/media/mulberry/P38 nrcs.png"
+       caption="The full canopy of a red mulberry tree. Wikimedia Commons.">
+
+White mulberry is malleable, and the qualities that human cultivators imbued in the species—cropped short for ease of picking and grafting trees from male to female—were easily achieved. However, once the white mulberry's utilitarian purpose was lost, it was vilified in American gardens and fields as a relic of a failed sericultural project. While in horticulture, the white mulberry is considered a nuisance in the United States, in its wild form, it is revered in India as a Kalpavriksha—an old, gnarled, and wise tree of plenty. Today, as we look beyond the functional characterization of the tree, its true value—rooted in its cultural history and ecological significance—calls for recognition long overdue. Perhaps now, the red mulberry can be appreciated not for what it failed to provide but for what it has always offered.
+<param ve-image
+       src="gh:plant-humanities/media/mulberry/Julia Ellen Rogers.png"
+       caption="Drawing of a red mulberry tree by Julia Ellen Rogers in the 1927 edition of The Nature Library Trees.">
 
 
 
@@ -229,7 +297,44 @@ Present in the landscapes of our childhoods and imaginations, how was it that th
 [^49]: Hatch.
 [^50]: Watanabe, Tadao. "Substances in Mulberry Leaves Which Attract Silkworm Larvæ (Bombyx mori)," *Nature* 182 (1958): 325–326, https://doi.org/10.1038/182325a0. 
 [^51]: By 1616, moderate success of sericulture in Jamestown, Virginia, was proof enough to send to England cocoons and possibly spooled threads of silk. Hatch, 8–9. 
-[^52]: There were several bitterly cold winters in the 1840s that ravaged burgeoning white mulberry trees; survivors were further thinned by an 1844 fungal blight. Ben Marsh, "The Republic's New Clothes: Making Silk in the Antebellum United States," *Agricultural History* 86, no. 4 (fall 2012): 206–34. https://www.jstor.org/stable/10.3098/ah.2012.86.4.206, p 226; Harris 2015; Billings 1996. 
+[^52]: There were several bitterly cold winters in the 1840s that ravaged burgeoning white mulberry trees; survivors were further thinned by an 1844 fungal blight. Ben Marsh, "The Republic's New Clothes: Making Silk in the Antebellum United States," *Agricultural History* 86, no. 4 (fall 2012): 206–34. https://www.jstor.org/stable/10.3098/ah.2012.86.4.206, p 226; Harris 2015; Billings 1996.
+[^53]: Hatch, Jr., *Mulberry Trees and Silkworms: Sericulture in Early Virginia*, 61.
+[^54]: Chambliss, "The mulberry craze."
+[^55]: Harris, *What Have Plants Ever Done for Us?*, 117.
+[^56]: Chambliss, "The mulberry craze."
+[^57]: Ryland, Elizabeth Hawes. "America’s ‘Multicaulis Mania.’" The William and Mary College Quarterly Historical Magazine 19, no. 1 (1939): 25–33. https://doi.org/10.2307/1923038.
+[^58]: Chambliss, "The mulberry craze."
+[^59]: Chambliss.
+[^60]: Marsh, "The Republic's New Clothes."
+[^61]: Ryland, "America’s ‘Multicaulis Mania.’"
+[^62]: Thornton, Robert. A new family herbal. London: for Richard Phillips, 1810, 756.
+[^63]: Keeler, Harriet. Our Native Trees and How to Identify Them: A Popular Study of Their Habits and Their Peculiarities. New York: Charles Scribner’s Sons, 1917. 
+[^64]: Keeler, Harriet. Our Native Trees and How to Identify Them: A Popular Study of Their Habits and Their Peculiarities. New York: Charles Scribner’s Sons, 1917. 
+[^65]: Sargent, Charles Sprague. Silva of North America. (Boston and New York: Houghton, Mifflin and Company, 1895), 79.
+[^66]: Kalm 1770 cited in Keeler, Harriet L. Our Native Trees and How to Identify Them; a Popular Study of Their Habits and Their Peculiarities. (New York: Charles Scribner’s Sons, 1910). https://doi.org/10.5962/bhl.title.56389.
+[^67]: Eric Meier, "Mulberry," The Wood Database, accessed August 9, 2024, https://www.wood-database.com/mulberry/#google_vignette.
+[^68]: Thornton, A new family herbal.
+[^69]: Gary L. Koller and Michael A. Dirr, "Arnoldia," Arnoldia 39, no. 3 (1979).
+[^70]: Sargent, Silva of North America.
+[^71]: Koller and Dirr, "Arnoldia." 
+[^72]: Kenrick, William. American Silk Growers’ Guide. Boston: Weeks, Jordon and Company, 1839. 
+[^73]: Krochmal, A. "The vanishing white mulberry of northern Greece." Economic Botany 8, no. 2 (1954): 145-151.
+[^74]: Laws, Bill. Fifty plants that changed the course of history. Newton Abbot: David & Charles, 2010.
+[^75]: The male tree produces clouds of pollen that cause hay fever, but when a branch from a female tree is grafted onto it, the male tree becomes female and stops producing pollen. The tree is allergy free! (https://arboretum.uoguelph.ca,)
+[^76]: Kalm, Pehr. Travels into North America Containing Its Natural History, and a Circumstantial Account of Its Plantations and Agriculture in General : With the Civil, Ecclesiastical and Commercial State of the Country, the Manners of the Inhabitants, and Several Curious and Important Remarks on Various Subjects. London: Printed for the editor; and sold by T. Lowndes, 1771. https://www.biodiversitylibrary.org/page/32458197. 	
+[^77]: Nolan, Justin. "The Roots of Tradition: Social Ecology, Cultural Geography, and Medicinal Plant Knowledge in the Ozark-Ouachita Highlands." Journal of Ethnobiology 18(2) (1998): 249–269.
+[^78]: Banisteria : a journal devoted to the natural history of Virginia
+[^79]: Johnson, Laurence. A Manual of the Medical Botany of North America. (New York: William Wood & Company, 1884). 
+[^80]: Andreu, Michael G., Melissa H. Friedman, Mary McKenzie, and Heather V. Quintana. 2010. "Morus Rubra, Red Mulberry: FOR 264 FR326, 6 2010.". EDIS 2010 (4). Gainesville, FL. https://doi.org/10.32473/edis-fr326-2010.
+[^81]: Sargent, Silva of North America.
+[^82]: Koller and Dirr, "Arnoldia." 
+[^83]: See Julian Campbell about the negative impact of Morus alba on the native Morus rubra in North America: the nakedoaktreefarm.com/services-6-1. 
+[^84]: Government of Ontario. "Red Mulberry (Species at Risk)." Ontario.ca. Last modified September 25, 2014. https://www.ontario.ca/page/red-mulberry-species-risk.
+[^85]: University of Guelph Arboretum. "Red Mulberry Conservation." Arboretum at the University of Guelph. Accessed August 9, 2024. https://arboretum.uoguelph.ca/research-conservation/red-mulberry-conservation.
+[^86]: Native Plant Trust. "Morus rubra (Red Mulberry)." Go Botany. Accessed August 9, 2024. https://gobotany.nativeplanttrust.org/species/morus/rubra/.
+[^87]: Native Plant Trust. "Morus rubra (Red Mulberry)." 
+[^88]: Native Plant Trust.
+[^89]: The William and Mary College Quarterly Historical Magazine, Vol. 13, No. 4 Apr.,1905: 246.
 [^53]: Hatch, Jr., *Mulberry Trees and Silkworms: Sericulture in Early Virginia*, 61.
 [^54]: Chambliss, "The mulberry craze."
 [^55]: Harris, *What Have Plants Ever Done for Us?*, 117.
