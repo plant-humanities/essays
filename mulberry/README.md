@@ -40,7 +40,7 @@ The mulberry genus *Morus* is part of the family *Moraceae*, which includes mulb
 src="wc:Illustration_from_Medical_Botany,_digitally_enhanced_from_rawpixel%27s_own_original_plates_88.jpg"
        caption="Illustration of *Morus nigra* from *Medical Botany* by John Stephenson and James Morss Churchill, circa 1836. Wikimedia Commons.">
 
-The white mulberry is believed to be native to East Asia and the Himalayas, although centuries of domestication and human movement have made it difficult to know its native range for certain.[^7] Less intensive human relationships have allowed more certainty to the whereabouts of the other groups’ native ranges: the red mulberry is from North America and the black mulberry is from the area around the Caspian Sea in what used to be the Persian Empire. This narrative focuses on the white mulberry—most famous for its role in silk production—and the red mulberry, which, as we will discover, plays a less well-known but equally valuable role in North America’s biocultural heritage.[^8]
+The [white mulberry](flyto/35.67,104.49) is believed to be native to East Asia and the Himalayas, although centuries of domestication and human movement have made it difficult to know its native range for certain.[^7] Less intensive human relationships have allowed more certainty to the whereabouts of the other groups’ native ranges: the [red mulberry](flyto/42.6,-94.41) is from North America and the [black mulberry](flyto/45.47,38.88) is from the area around the Caspian Sea in what used to be the Persian Empire. This narrative focuses on the white mulberry—most famous for its role in silk production—and the red mulberry, which, as we will discover, plays a less well-known but equally valuable role in North America’s biocultural heritage.[^8]
 <param ve-map prefer-geojson
        center="19.1,31.3"
        zoom="2"
@@ -70,7 +70,7 @@ The white mulberry is believed to be native to East Asia and the Himalayas, alth
        circle="true">
 <param ve-map-marker
        url="wc:MorusRubra5.jpg"
-       coords="37.92,-83.342"
+       coords="41.557,-96.895"
        circle="true">
 
 
