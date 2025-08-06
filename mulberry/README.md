@@ -204,8 +204,7 @@ For centuries, people in different parts of the world have used mulberry trees f
 
 Alongside the pruning, grafting, altering, and shaping to suit human needs, a different quality of relationship with the red mulberry co-evolved with Native American peoples. In his travelogue recounting his journeys through North American landscapes in the eighteenth century, Pehr Kalms wrote of the fruit bread he ate with the Iroquois peoples: it was "just like the puddings which our women pack full of raisins."[^76] The tree’s berries provided fruit, preserves, such as jams and syrups, as well as mulberry wine.
 <param ve-video
-       src="NFXZCJwRRs8"
-       start="18">
+       src="NFXZCJwRRs8">
 
 In 1979, the "alley-cat nature" of the white mulberry recommended the adaptability and fast growth of the species.[^82] However, the fast propagation of the white mulberry has put red mulberry in danger of dying out in parts of Canada.[^83] In Ontario, red mulberry is an endangered species. In 2023, only three hundred trees remained.[^84] Along with loss and fragmentation of its forest habitat, the red mulberry’s main threat is the white mulberry, which both outcompetes and quickly hybridizes red mulberry. The hybrid trees are difficult to distinguish as either purely white or red until they are adults, when the glossy and smooth leaves of the white mulberry contrast with the leaves of the red mulberry, which aren’t shiny and feel rough to the touch. Conservation efforts of the red mulberry center around controlled pollination once they have been confirmed as a pure species through genetic testing.[^85]
 <param ve-image
