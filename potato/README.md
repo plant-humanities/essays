@@ -41,23 +41,23 @@ The part of the plant that comes readily to mind—its carbohydrate-rich stolon 
 	src="gh:plant-humanities/media/Dillo Potatoes.jpg"
 	caption="Mary Dillon, *Heritage Potatoes*, 2014. Watercolor on paper. Courtesy of the artist.">
 	   
-## Pre-Columbian History
-Indigenous to the Peruvian-Bolivian Andes mountains of South America, the potato has been and continues to be a vital food source for Indigenous communities while remaining vulnerable to disease. It also has had a long-standing cultural and social significance to those communities. In his book, *The History and Social Influence of the Potato*, physician and biologist Redcliffe Salaman uses archaeological materials dating back to the late-Chimu, pre-Inca, and Inca periods, roughly 1000 to 1470 CE, to show how potatoes became common motifs in pottery and earthenware. Interestingly, they were anthropomorphized as humans, with eyes and facial contours, and vice versa, as humans were rendered tuberous, with varying degrees of realism in their decorative aspects.[^12] So important was this crop that it became a part of Incan mythology and ritual, as represented by Axomamma, the divine goddess of potatoes and one of the daughters of the famous Pachamama, the Earth Mother.[^13]
+### Pre-Columbian History
+Indigenous to the Peruvian-Bolivian Andes mountains of South America, the potato has been and continues to be a vital food source for Indigenous communities while remaining vulnerable to disease. It has also had a long-standing cultural and social significance to those communities. In his book, *The History and Social Influence of the Potato*, physician and biologist Redcliffe Salaman uses archaeological materials dating back to the late-Chimu, pre-Inca, and Inca periods, roughly 1000 to 1470 CE, to show how potatoes became common motifs in pottery and earthenware. Interestingly, they were anthropomorphized as humans, with eyes and facial contours, and vice versa, as humans were rendered tuberous, with varying degrees of realism in their decorative aspects.[^12] So important was this crop that it became a part of Incan mythology and ritual, as represented by Axomamma, the divine goddess of potatoes and one of the daughters of the famous Pachamama, the Earth Mother.[^13]
 <param ve-image
-	   src="gh:JessaMaria/Potatos/main/potato/History.png"
-	   caption="Representation of Axomamma, the goddess of potatoes. Samuel Austin, CC BY-SA 3.0.">
+	src="gh:plant-humanities/media/potato/History.png"
+	caption="Representation of Axomamma, the goddess of potatoes. Samuel Austin, CC BY-SA 3.0.">
 
 Potatoes, along with corn and quinoa, became crucial food crops that Indigenous farmers and communities worked together to plant, harvest, and circulate as part of a complex system of labor and trade that helped sustain the dietary needs of populations dispersed over mountainous terrains. Andean farmers wielded tools, such as the *ayacho* (a mattock with blades) and *taclla* (a foot plough) in Quechua, to break and shift soil for the planting. The labor required to grow and harvest potatoes was formalized under the Incan Empire, in a system called *mit’a* (a turn or season), which required each man and woman of a community to work cooperatively by reciprocating labor and to contribute to the state.[^14]
 <param ve-iframe
-	   src="https://archive.org/details/primer-nueva-coronica-y-buen-gobierno-manuscrito/page/n1157/mode/1up">
+	   src="https://archive.org/embed/primer-nueva-coronica-y-buen-gobierno-manuscrito/page/n1157/">
 	   
-Incan calendars depicted potato planting and harvest. This can be seen in the manuscript *First New Chronicle and Good Government (El Primer Nueva Corónica y Buen Gobierno)* written by Felipe Guamán Poma de Ayala in 1615 and included in Inca Garcilaso de la Vega’s *The Royal Commentaries of the Incas (Comentarios Reales de los Incas)*. Three months of the year were notable for potato planting and harvest: January, June, and December. De la Vega detailed that January was the month for "work in the potato fields; a man and woman are seen with hoes in their hands." In June, "potatoes are dug with spades." And in December, "the potatoes and quinoa are planted." The illustration for December "shows a peasant being helped by a woman to make a hole in the earth with a spade driven in by a mallet, while a second woman is preparing to place a potato in it."[^15]
+Incan calendars depicted potato planting and harvest. This can be seen in the manuscript *First New Chronicle and Good Government (El Primer Nueva Corónica y Buen Gobierno)* written by Felipe Guamán Poma de Ayala in 1615 and included in Inca Garcilaso de la Vega’s *The Royal Commentaries of the Incas (Comentarios Reales de los Incas)*. Three months of the year were notable for potato planting and harvest: January, June, and December. De la Vega detailed that January was the month for "work in the potato fields; a man and woman are seen with hoes in their hands." In June, "potatoes are dug with spades." And in December, "potatoes and quinoa are planted." The illustration for December "shows a peasant being helped by a woman to make a hole in the earth with a spade driven in by a mallet, while a second woman is preparing to place a potato in it."[^15]
 <param ve-image
-	   src="gh:JessaMaria/Potatos/main/potato/Pre-Col.png"
-	   caption="Photos from *Primer Nueva Corónica Y Buen Gobierno, Felipe Guamán Poma de Ayala manuscrito*. Source: Archive.org">
-
+	src="gh:plant-humanities/media/potato/Pre-Col.png"
+	caption="Image from *Primer Nueva Corónica Y Buen Gobierno, Felipe Guamán Poma de Ayala manuscrito*. Source: Internet Archive">
 <param ve-image
-	   src="gh:JessaMaria/Potatos/main/potato/Pre-Col2.png">
+	src="gh:plant-humanities/media/potato/Pre-Col2.png"
+ 	caption="Image from *Primer Nueva Corónica Y Buen Gobierno, Felipe Guamán Poma de Ayala manuscrito*. Source: Internet Archive">
 	   
 ## The British Potato Debates
 
