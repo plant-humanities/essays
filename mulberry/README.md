@@ -49,17 +49,17 @@ The white mulberry is believed to be native to East Asia and the Himalayas, alth
        url="https://raw.githubusercontent.com/genieyoo818/plant-humanities/mulberry/mulberry/morusalbamap.json"
        show-labels
        stroke-width="0"
-       fillColor="#eeeee4">
+       fillColor="eeeee4">
 <param ve-map-layer geojson
        url="https://raw.githubusercontent.com/genieyoo818/plant-humanities/mulberry/mulberry/morusnigra.json"
        show-labels
        stroke-width="0"
-       fillColor="#01295a">
+       fillColor="01295a">
 <param ve-map-layer geojson
        url="https://raw.githubusercontent.com/genieyoo818/plant-humanities/mulberry/mulberry/morusrubra.json"
        show-labels
        stroke-width="0"
-       fillColor="#df532f">
+       fillColor="df532f">
 
 
 
