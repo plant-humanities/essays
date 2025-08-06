@@ -41,6 +41,11 @@ src="wc:Illustration_from_Medical_Botany,_digitally_enhanced_from_rawpixel%27s_o
        caption="Illustration of *Morus nigra* from *Medical Botany* by John Stephenson and James Morss Churchill, circa 1836. Wikimedia Commons.">
 
 The white mulberry is believed to be native to East Asia and the Himalayas, although centuries of domestication and human movement have made it difficult to know its native range for certain.[^7] Less intensive human relationships have allowed more certainty to the whereabouts of the other groups’ native ranges: the red mulberry is from North America and the black mulberry is from the area around the Caspian Sea in what used to be the Persian Empire. This narrative focuses on the white mulberry—most famous for its role in silk production—and the red mulberry, which, as we will discover, plays a less well-known but equally valuable role in North America’s biocultural heritage.[^8]
+<param ve-map prefer-geojson
+       center="28.6,141.7"
+       zoom="1.69"
+       title="Possible native distribution of white, black, and red mulberry species.">
+
 
 *Morus* trees bear long aggregate fruit, somewhat resembling a blackberry, which come in various colors—green, white, red, black—and are rich in antioxidants. But the most historically significant, valuable part of most mulberry trees has been their leaves. Like the trees themselves, the leaves of the mulberry vary greatly in form, with leaf texture and shape ranging from shiny to matte, lobed or not. There can be dozens of differently shaped leaves even on the same tree. On no other tree has the leaf been more valuable than the white mulberry. Characterized in one text as a "sociable and loyal" tree that is "used to being of service to others," it is the white mulberry whose leaves allow the silkworm to produce the best quality of silk.[^9]
 <param ve-image
