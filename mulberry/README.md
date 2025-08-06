@@ -5,7 +5,7 @@
        source-image="https://upload.wikimedia.org/wikipedia/commons/6/63/Singing_games_-_The_Mulberry_Bush.jpg"
        banner="https://upload.wikimedia.org/wikipedia/commons/6/63/Singing_games_-_The_Mulberry_Bush.jpg" 
        height=100
-       author="ate Aubrecht and Viveca Mellegärd"
+       author="Kate Aubrecht and Viveca Mellegärd"
        layout="vertical">
 
 ### Introduction
