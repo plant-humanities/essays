@@ -43,7 +43,7 @@ src="wc:Illustration_from_Medical_Botany,_digitally_enhanced_from_rawpixel%27s_o
 The white mulberry is believed to be native to East Asia and the Himalayas, although centuries of domestication and human movement have made it difficult to know its native range for certain.[^7] Less intensive human relationships have allowed more certainty to the whereabouts of the other groups’ native ranges: the red mulberry is from North America and the black mulberry is from the area around the Caspian Sea in what used to be the Persian Empire. This narrative focuses on the white mulberry—most famous for its role in silk production—and the red mulberry, which, as we will discover, plays a less well-known but equally valuable role in North America’s biocultural heritage.[^8]
 <param ve-map prefer-geojson
        center="28.6,141.7"
-       zoom="1.69"
+       zoom="2"
        title="Possible native distribution of white, black, and red mulberry species.">
 <param ve-map-layer geojson
        url="https://raw.githubusercontent.com/genieyoo818/plant-humanities/mulberry/mulberry/morusalbamap.json"
@@ -63,6 +63,14 @@ The white mulberry is believed to be native to East Asia and the Himalayas, alth
 <param ve-map-marker
        url="wc:Morus-alba.jpg"
        coords="34.2663,103.0972"
+       circle="true">
+<param ve-map-marker
+       url="wc:Black_mulberry_fruit_(Morus_nigra).jpg"
+       coords="49.386,34.372"
+       circle="true">
+<param ve-map-marker
+       url="wc:MorusRubra5.jpg"
+       coords="37.92,-83.342"
        circle="true">
 
 
