@@ -70,13 +70,6 @@ This essay provides an approachable overview of herbarium specimens and how they
 
 !![](https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/paperbark.jpg)
 
-## Pecan: Beyond Thanksgiving Pie to Indigenous Reciprocity
-[Pecan: Beyond Thanksgiving Pie to Indigenous Reciprocity](pecan)
-
-- MaryKathryn Underwood, Stefania Rocca, and Paolo Taffaro
-
-!![](https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/pecan.jpg)
-
 ## Okra: An Enduring Kitchen Staple
 [Okra: An Enduring Kitchen Staple](okra)
 
