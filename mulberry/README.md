@@ -152,9 +152,6 @@ To kill the worms within their cocoons, the best practice was using cauldrons, h
        src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vQ_scA3HeQbfRmsvLmQjatJ-LY7axuwoYbUAdV1ss75k3Fg4lPYHdybYwwXSmHSpiNaHFEFAUMa2fi4&font=Default&lang=en&initial_zoom=2&start_at_slide=5&width=100%25&height=650">
 
 Apart from these ventures in Virginia, successful silkworm-rearing attempts in the United States were few and far between.[^51] Suboptimal climate, disease, a focus on other agricultural pursuits, and often a general lack of knowledge meant that few of these pursuits ever took hold, with exceptions in Virginia, Georgia, Kentucky, and Pennsylvania (1725).[^52] Virginia’s moderately successful venture from 1609 to 1676 eventually faded away too, lost to tobacco and rebellion.[^53] Though faded, silk production would be given another chance nearly two hundred years later in Virginia’s 1830s mulberry craze.[^54]
-<param ve-image
-       src="wc:Silk_doublers_at_work.jpg"
-       caption="Silk doublers twisting silk from bobbins into a single thread circa 1843. Via Wikimedia Commons.">
 <param ve-iframe
        src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vQ_scA3HeQbfRmsvLmQjatJ-LY7axuwoYbUAdV1ss75k3Fg4lPYHdybYwwXSmHSpiNaHFEFAUMa2fi4&font=Default&lang=en&initial_zoom=2&start_at_slide=7&width=100%25&height=650">
 
@@ -207,7 +204,8 @@ For centuries, people in different parts of the world have used mulberry trees f
 
 Alongside the pruning, grafting, altering, and shaping to suit human needs, a different quality of relationship with the red mulberry co-evolved with Native American peoples. In his travelogue recounting his journeys through North American landscapes in the eighteenth century, Pehr Kalms wrote of the fruit bread he ate with the Iroquois peoples: it was "just like the puddings which our women pack full of raisins."[^76] The tree’s berries provided fruit, preserves, such as jams and syrups, as well as mulberry wine.
 <param ve-video
-       src="NFXZCJwRRs8&t=13s">
+       src="NFXZCJwRRs8"
+       start="18">
 
 In 1979, the "alley-cat nature" of the white mulberry recommended the adaptability and fast growth of the species.[^82] However, the fast propagation of the white mulberry has put red mulberry in danger of dying out in parts of Canada.[^83] In Ontario, red mulberry is an endangered species. In 2023, only three hundred trees remained.[^84] Along with loss and fragmentation of its forest habitat, the red mulberry’s main threat is the white mulberry, which both outcompetes and quickly hybridizes red mulberry. The hybrid trees are difficult to distinguish as either purely white or red until they are adults, when the glossy and smooth leaves of the white mulberry contrast with the leaves of the red mulberry, which aren’t shiny and feel rough to the touch. Conservation efforts of the red mulberry center around controlled pollination once they have been confirmed as a pure species through genetic testing.[^85]
 <param ve-image
