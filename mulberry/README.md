@@ -49,7 +49,18 @@ The white mulberry is believed to be native to East Asia and the Himalayas, alth
        url="https://raw.githubusercontent.com/genieyoo818/plant-humanities/mulberry/mulberry/morusalbamap.json"
        show-labels
        stroke-width="0"
-       fillColor="white">
+       fillColor="#eeeee4">
+<param ve-map-layer geojson
+       url="https://raw.githubusercontent.com/genieyoo818/plant-humanities/mulberry/mulberry/morusnigra.json"
+       show-labels
+       stroke-width="0"
+       fillColor="#01295a">
+<param ve-map-layer geojson
+       url="https://raw.githubusercontent.com/genieyoo818/plant-humanities/mulberry/mulberry/morusrubra.json"
+       show-labels
+       stroke-width="0"
+       fillColor="#df532f">
+
 
 
 *Morus* trees bear long aggregate fruit, somewhat resembling a blackberry, which come in various colors—green, white, red, black—and are rich in antioxidants. But the most historically significant, valuable part of most mulberry trees has been their leaves. Like the trees themselves, the leaves of the mulberry vary greatly in form, with leaf texture and shape ranging from shiny to matte, lobed or not. There can be dozens of differently shaped leaves even on the same tree. On no other tree has the leaf been more valuable than the white mulberry. Characterized in one text as a "sociable and loyal" tree that is "used to being of service to others," it is the white mulberry whose leaves allow the silkworm to produce the best quality of silk.[^9]
