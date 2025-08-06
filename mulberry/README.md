@@ -135,6 +135,13 @@ By the late 1400s, France—which had witnessed the prosperity silk had brought 
 <param ve-iframe
        src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vQ_scA3HeQbfRmsvLmQjatJ-LY7axuwoYbUAdV1ss75k3Fg4lPYHdybYwwXSmHSpiNaHFEFAUMa2fi4&font=Default&lang=en&initial_zoom=2&width=100%25&height=650">
 
+In the 1740s, Philibert Orry, the General Controller of Finances, ordered another increase in cultivation of mulberry trees and opened spinning manufacturers in an attempt to eventually match the quality of Piedmont organzine. As this endeavor proved largely unsuccessful, the physicist Jean-Antoine Nollet was sent to Italy as an "intelligence agent" to learn the secrets of Piedmont silk thread production. Through the information Nollet gathered, the French concluded that it was the superior production methods of the raw silk itself that produced quality organzine, which led to the invention of an automated spinning machine by Jacques Vaucanson, the inspector of silk manufacturing. Several decades later, Joseph Marie Jacquard drew inspiration from Vaucanson’s machine and invented the Jacquard loom, revolutionizing French textiles and the silk weaving industry along with it.
+<param ve-iframe
+       src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vQ_scA3HeQbfRmsvLmQjatJ-LY7axuwoYbUAdV1ss75k3Fg4lPYHdybYwwXSmHSpiNaHFEFAUMa2fi4&font=Default&lang=en&initial_zoom=2&start_at_slide=6&width=100%25&height=650">
+<param ve-image
+       src="gh:plant-humanities/media/mulberry/silk lampas.jpeg"
+       caption="Silk lampas furnishing fabric woven in Lyon, France circa 1785. Produced during a period of technological innovation in French textile production and mechanized looms. Patricia Harris Gallery of Textiles & Costume at the Royal Ontario Museum, Wikimedia Commons."
+
 
 
 
