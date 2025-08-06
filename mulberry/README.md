@@ -14,9 +14,25 @@ Addressing the House of Representatives on Thursday, February 24, 1831, Abel Whe
        src="gh:plant-humanities/media/mulberry/The House.jpg"
        caption="The House of Representatives, painting by Samuel F.B. Morse 1822-1823. Corcoran Collection (Museum Purchase, Gallery Fund), National Gallery of Art.">
 
+>The only appropriate food for the silkworm is the leaf of the mulberry tree. It should be the first business therefore of the silk grower to provide himself with the source of a constant supply of mulberry leaves.[^4]
+
+Here we tell the story of loss, but also one of renewal and metamorphosis. In the shadows of the fields haunted by white mulberries rose the canopies of another tree: *Morus rubra*, the red mulberry native to North America. While the red mulberry is found almost nowhere else in the world but North America, more often than not it is the white mulberry that comes to mind when we think of a mulberry tree. The white mulberry has captured attention throughout history, both within and outside its native ranges, overshadowing the red mulberry, even in its home continent.
+<param ve-image
+       src="gh:plant-humanities/media/mulberry/"
+       caption="Leaf of *Morus rubra*, the red mulberry. Photo credit lanechaffin 2024.">
+
+The story of the red mulberry is a less glamorous one than that of the white mulberry and the dreams of riches promised by silk. It is a story earthier in its substance, more of root, trunk, and twig; bark and berry; and the breeze that gets caught in a generous canopy. These are the threads of Indigenous wisdom, landscapes of heritage and memory, in which the red mulberry is a horticultural marvel: a medicine chest, source of food, fiber, wood, and respite. Neglected and overlooked because it was not the favorite food of the silkworm, the red mulberry tree is reclaiming its legacy in the landscapes of North America. It may not be the money tree of silk production like the white mulberry, but as we will discover, every part of the tree offers wealth of its own kind.[^5]
+<param ve-image
+       src="gh:plant-humanities/media/mulberry/"
+       caption="Morus rubra 1818, Austrian National Library. Public domain.">
+
+### Taxonomy, Genus, and Types of Mulberry
+
 
 ### References
 
 [^1]: J. H. Cobb, *A Manual Containing Information Respecting the Growth of the Mulberry Tree, with Suitable Directions for the Culture of Silk. In Three Parts* (Boston: Carter, Hendee, and Babcock, 1833), 13.
 [^2]: United States Department of Treasury Doc. No. 158
 [^3]: United States Department of Treasury Doc. No. 158. p iii. Although mulberry trees prefer moist, well-drained soil, they can tolerate acidic or alkaline conditions as well as full sun or partial shade.
+[^4]: Cobb, *A Manual Containing Information*.
+[^5]: Peter Coles, Mulberry (London, UK: Reaktion Books, Ltd., 2019).
