@@ -58,6 +58,61 @@ During the usual production process, sericulturists steam the cocoons to kill th
 
 ### Obsessed by Silk
 
+Smooth and lustrous, silk has enchanted the wealthy all over the world for millennia. Imagine the wonder and delight of discovering the delicate threads that shone like silver. It’s no surprise that the silkworm itself was revered as an extraordinary organism with its ability to convert white mulberry leaves into precious filaments. Writing about the mysteries of animal husbandry in 1668, John Worlidge, an English agriculturalist, mused on the sublime powers of "This, though but a Worm, yet glorious Creature."[^15] Cleopatra was enamored with the billowing silk sails of her pleasure boat.[^16] Possibly because it was so ephemeral and delicate, in ancient Rome silk was considered too effeminate for men to wear. In the reign of the second Roman Emperor, Tiberius (42 BCE—37 CE), a law was passed "that no man should dishonor himself by wearing silken garments."[^17]
+<param ve-image
+       src="plant-humanities/media/potato/Tiberius horseback.jpg"
+       caption="Emperor Tiberius rejected silk as effeminate. Instead, his image here embodies masculinity by appearing in a suit of metal armour. Etching of the Emperor Tiberius on horseback by Matthäus Merian the Elder (1593-1650). Public domain The Metropolitan Museum of Art.">
+
+Silk is sacred in many cultures.[^18]  As is the mulberry tree. In cosmologies, myths, and legends, there is an aura of reverence for the mulberry tree. In Hindu-Buddhist cosmology for example, the divine Kalpavriksha is thought to be a white mulberry.[^19] The Romans considered the black mulberry sacred to Minerva.[^20] Sicilians still celebrate the Feast of St Nicholas by cutting a branch from the black and keeping it home for a year.[^21]
+<param ve-image
+       src="wc:Kalpvriksh_Bilara_Jodhpur_Rajasthan.jpg"
+       caption="Thought to be over 800 years old, this tree in Rajasthan, India is dedicated to Kalpvriksha. Wikimedia commons. Credit Seervims."
+
+Fame is surely secured by myths, art, and song, and the mulberry plays a prominent role in all three. In the Babylonian love story about Pyramus and Thisbe by the Roman poet, Ovid in the first century BCE, the lovers arrange to meet under a mulberry tree, most likely a black mulberry since the white mulberry was not present in Babylon as the time. Thisbe arrives first but runs away after a lion attacks her, leaving behind her bloodied scarf. When Pyramus arrives, he sees the scarf and, believing Thisbe to be dead, stabs himself. When Thisbe returns to the tree and sees her lover’s body, she ends her life. It is said their blood is what gave the berry its dark color.
+<param ve-image
+       src="gh:plant-humanities/media/mulberry/"
+       caption="Pyramus and Thisbe by Hans Wechtlin c1510. Public domain.">
+
+Van Gogh painted a mulberry tree in 1889, one year before his death, in brushstrokes that pulsate with life, echoing perhaps his feverish state of mind during a stay at an asylum. More cheerful is the depiction in folklore where the mulberry tree inspires carousing songs, odes to its juicy fruit,[^22] and the tree around which children dance as they sing the popular nursery rhyme.[^23]
+<param ve-image
+       src="gh:plant-humanities/media/mulberry/three men.jpg"
+       caption="Three men carousing beneath a mulberry tree. Letterpress after etching by Isaac Cruikshank 1808. Wellcome Collection Open Access on JSTOR.">
+
+### The Beginnings of Silk
+
+We begin in 2700 BCE, with the invention of sericulture: the production of silk. Illustrations on ox bones from 1600 BCE show that early versions of the process included the cultivation of mulberry groves and silkworms, silk reeling and spinning, preparing the silk threads, and weaving the threads together, like sericulture practices today.[^24]
+<param ve-image
+       src="wc:Heji_37986_Ganzhi_table.jpg"
+       caption="Shang Dynasty ox bone inscription of the sexagenary cycle, dating several centuries after earliest ox bone depictions of sericulture. CC0, via Wikimedia Commons.">
+
+According to a popular legend, the Chinese Empress Xi Ling-Shi (西陵氏), also known as Leizu (嫘祖), first discovered silk while sitting under a white mulberry tree. As she drank her tea, a silkworm cocoon fell from the branches into her teacup and she found that the hot liquid had unwound the cocoon into soft, silky strings that were long and plentiful enough to be wrapped around her entire garden. Indeed, considering that a single cocoon may contain 1.5 km of silk, the legend does not exaggerate the wonders of the silkworm.[^25] Now celebrated as the silkworm goddess, it is said that Leizu also invented the silk loom and the art of sericulture.[^26]
+<param ve-image
+       src="gh:plant-humanities/media/mulberry/leizu.jpg"
+       caption="Image of Leizu (嫘祖) printed via movable type, from the book 廿一史通俗衍義, compiled by Lü Fu circa 1723. Public domain, available via Wikimedia Commons.">
+
+The first concrete evidence of sericulture was discovered in Shandong and Huzhou from around 2700 BCE: silk ribbons and threads, and a silkworm cocoon split cleanly with a sharp tool.[^27] The first evidence of Chinese cultivation of the white mulberry was discovered a thousand years later.[^28] Refined for several hundred years, sericulture techniques were subsequently printed in the Chinese text Qimin Yaoshu (齐民要术), a work from 533 BCE containing information on ancient agricultural practices.[^29] By the nineteenth century, visiting English explorers reported highly specialized cultivation practices of both the mulberry trees and silkworms. In May 1845, Robert Fortune wrote that the Chinese did not allow mulberry trees "to grow more than from four to six feet in height"—indicating copious pruning of the tree for ease of leaf-picking since women and children mostly did this.[^30]
+<param ve-image
+       src="wc:Neolithic_Bone_Needles_(9929219405).jpg"
+       caption="Neolithic-age bone needles found in Shanxi, China, which is believed to be some of the earliest evidence of sericulture ever found. Gary Todd from Xinzheng, China, CC0, via Wikimedia Commons.">
+<param ve-image
+       src="gh:plant-humanities/media/mulberry/P15 Gathering Mulberry.jpeg"
+       caption="Engraving of silk manufacture in China, gathering mulberry leaves. Circa 19th century. Wellcome Collection. CC BY.">
+
+### White Mulberry's Journey to Virginia
+
+Although the Chinese had closely guarded the secret of the mulberry and silkworm for centuries, upon the second-century BCE, trading of silk on the Silk Road, the white mulberry, and the practice of silkworm sericulture began to appear elsewhere. How this secret first escaped China is unclear. It is possible Chinese migrants making their way to Korea or Japan brought the process with them. However, according to popular myth, a Chinese princess engaged to a Khotanese king brought the mulberry and silkworm out of China. To learn the Chinese art of sericulture, the king sent word that there was no silk production in his country, prodding the princess to bring sericulture to Khotan lest she lose access to silk entirely.[^31] Cleverly, she smuggled silkworm eggs and white mulberry seeds out of the country in her hairpiece, which Chinese inspectors dared not touch.[^32]
+<param ve-image
+       src="wc:British Museum silk princess painting.jpg"
+       caption="Khotanese votive panel from Dandan-oilik (Place of Houses with Ivory) depicting Silk Princess, circa 7th to 8th century. Wikimedia Commons.">
+
+Evidence of white mulberry cultivation in Khotan emerging from 150–350 CE might support this story. By the seventh to eighth centuries CE, the legend was being incorporated artistically into artifacts such as wall paintings and votive panels. Interestingly, in both the panel presented here, and in different depictions, a four-armed deity is present, possibly representing a god of silk or a smaller local deity who protected silk production.[^33]
+<param ve-image
+       src="gh:plant-humanities/media/mulberry/Indian deity.jpg"
+       caption="Khotanese votive panel portraying a possible three-headed God of Silk or Patron of Weaving, circa 6th to 8th century. Publicly available via Wikimedia Commons.">
+
+
+
+
 
 
 ### References
@@ -76,3 +131,19 @@ During the usual production process, sericulturists steam the cocoons to kill th
 [^12]: "Sericulture." Britannica Academic, Encyclopædia Britannica, 26 Jan. 2012. academic-eb-com.ezp-prod1.hul.harvard.edu/levels/collegiate/article/sericulture/470923. Accessed 25 Nov. 2024. 
 [^13]: https://en.wikipedia.org/wiki/Ahimsa_silk. Accessed 18 Dec. 2024
 [^14]: Coles, *Mulberry*.
+[^15]: John Worlidge, Systema Agriculturae: The Mystery of Husbandry Discovered (London: T. Dring, 1668), 176.
+[^16]: United States Department of Treasury Doc. No. 158.
+[^17]: United States Department of Treasury Doc. No. 158.
+[^18]: Anbumozhi 2007.	
+[^19]: Coles, Mulberry; Indosphere, "Kalpavriksha: The Primordial World Tree." Medium, March 23, 2021. 2019.
+[^20]: Coles, Mulberry, p174
+[^21]: Coles, Mulberry, p174
+[^22]: Platt, Mulberry Fruit Poem; Isaac Cruikshank, Three Men Carousing beneath a Mulberry Tree, with Verses of a Song Comparing the Life of Humans to the Life of a Tree, etching after I. Cruikshank, March 1, 1808, [1 print: etching and letterpress], Wellcome Collection.
+[^23]: According to one source, the rhyme is about women prisoners walking around the mulberry tree at Wakefield Prison in Great Britain. The prison was originally built in 1594 and has housed some of the UK’s most notorious prisoners. The tree died and was removed in 2019 but cuttings from it have been germinated and the next generation tree is now in Yorkshire Sculpture Park (Dave Higgens, "Mulberry bush that inspired nursery rhyme has new lease of life," The Independent,  March 30, 2023).
+[^24]: Coles, *Mulberry*. 
+[^25]: Harris, *What Have Plants Ever Done for Us? Western Civilization in Fifty Plants*. 
+[^26]: Himani G. Choudhary, "Reviving the Magic of Silk for Beauty and Health," *International Journal of Research in Engineering and Applied Sciences* 6, no. 4 (2016): 77–86.
+[^27]: Coles, *Mulberry*; Dieter Kuhn, *Science and Civilisation in China, Volume 5, Part 9* (Cambridge: Cambridge University Press, 1988), 284.
+[^28]: Coles, *Mulberry*. 
+[^29]: Coles.
+[^30]: Fortune, Robert. *Three Years' Wanderings in the Northern Provinces of China.* (London: Spottiswoode and Shaw, 1847).
