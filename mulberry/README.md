@@ -60,6 +60,10 @@ The white mulberry is believed to be native to East Asia and the Himalayas, alth
        show-labels
        stroke-width="0"
        fillColor="df532f">
+<param ve-map-marker
+       url="wc:Morus-alba.jpg"
+       coords="34.2663,103.0972"
+       circle="true">
 
 
 
