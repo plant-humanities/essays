@@ -152,12 +152,19 @@ To kill the worms within their cocoons, the best practice was using cauldrons, h
        src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vQ_scA3HeQbfRmsvLmQjatJ-LY7axuwoYbUAdV1ss75k3Fg4lPYHdybYwwXSmHSpiNaHFEFAUMa2fi4&font=Default&lang=en&initial_zoom=2&start_at_slide=5&width=100%25&height=650">
 
 Apart from these ventures in Virginia, successful silkworm-rearing attempts in the United States were few and far between.[^51] Suboptimal climate, disease, a focus on other agricultural pursuits, and often a general lack of knowledge meant that few of these pursuits ever took hold, with exceptions in Virginia, Georgia, Kentucky, and Pennsylvania (1725).[^52] Virginia’s moderately successful venture from 1609 to 1676 eventually faded away too, lost to tobacco and rebellion.[^53] Though faded, silk production would be given another chance nearly two hundred years later in Virginia’s 1830s mulberry craze.[^54]
+<param ve-image
+       src="wc:Silk_doublers_at_work.jpg"
+       caption="Silk doublers twisting silk from bobbins into a single thread circa 1843. Via Wikimedia Commons.">
 <param ve-iframe
        src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vQ_scA3HeQbfRmsvLmQjatJ-LY7axuwoYbUAdV1ss75k3Fg4lPYHdybYwwXSmHSpiNaHFEFAUMa2fi4&font=Default&lang=en&initial_zoom=2&start_at_slide=7&width=100%25&height=650">
 
 Since a silkworm consumes about sixty grams of white mulberry leaves during its six-week life cycle and only produces 0.2 grams of silk, one hectare of white mulberry trees would likely produce around forty kilograms of silk.[^55] Having a vast stock of mulberry trees to provide food for the silkworms was essential to firmly reestablish sericulture in Virginia. To this end, new acres of white mulberry were planted across Virginia to support the hopeful, renewed industry—the red mulberry, once again, was considered of no use. As we will learn next, the white mulberry spread far beyond Virginia—in fact, the highly invasive species spread throughout the country. Today, the tree can be found in every continent but the poles. As garden historian Bill Laws put it, "The silken mulberry had crossed the world."
 <param ve-iframe
        src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vQ_scA3HeQbfRmsvLmQjatJ-LY7axuwoYbUAdV1ss75k3Fg4lPYHdybYwwXSmHSpiNaHFEFAUMa2fi4&font=Default&lang=en&initial_zoom=2&start_at_slide=8&width=100%25&height=650">
+
+### The Love Affair Turns Sour
+
+Present in the landscapes of our childhoods and imaginations, how was it that the mulberry tree transformed from the harbinger of wealth to a pest, by some accounts, even an invasive species? A key factor is "mulberry mania," which took hold of the northeastern United States in the 1830s. The fast-growing *Morus multicaulis* tree—a white mulberry variant that arrived in the United States from China, had immediate appeal. Its large leaves were easy to harvest and provided an abundant and nutritious source of food for silkworms. State subsidies encouraged the widespread planting of trees to supply an ever-increasing number of forays into silk production.[^56]
 
 
 
