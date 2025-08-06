@@ -28,7 +28,7 @@ Here we tell the story of loss, but also one of renewal and metamorphosis. In th
 The story of the red mulberry is a less glamorous one than that of the white mulberry and the dreams of riches promised by silk. It is a story earthier in its substance, more of root, trunk, and twig; bark and berry; and the breeze that gets caught in a generous canopy. These are the threads of Indigenous wisdom, landscapes of heritage and memory, in which the red mulberry is a horticultural marvel: a medicine chest, source of food, fiber, wood, and respite. Neglected and overlooked because it was not the favorite food of the silkworm, the red mulberry tree is reclaiming its legacy in the landscapes of North America. It may not be the money tree of silk production like the white mulberry, but as we will discover, every part of the tree offers wealth of its own kind.[^5]
 <param ve-image
        src="gh:plant-humanities/media/mulberry/P3 Morus Rubra 1818.jpeg"
-       caption="Morus rubra 1818, Austrian National Library. Public Domain.">
+       caption="*Morus rubra* 1818, Austrian National Library. Public Domain.">
 
 ### Taxonomy, Genus, and Types of Mulberry
 
@@ -214,17 +214,17 @@ The hype spread from state to state: New Jersey, Pennsylvania, Delaware, Marylan
 *"Nor is this tree less beautiful to the eye than the fairest elm, and is very proper for walks and avenues."*[^62]
 <param ve-image
        src="wc:Morus_rubra_93979.png"
-       caption="Drawing of Morus rubra L, the red mulberry from The Silva of North America vol 7 (1898) by C.S. Sargent. Courtesy of Missouri Botanical Garden public domain on Wikimedia.">
+       caption="Drawing of *Morus rubra L*, the red mulberry from *The Silva of North America*, vol. 7 (1898), by C.S. Sargent. Courtesy of Missouri Botanical Garden public domain on Wikimedia.">
 
 Horticulturists writing about the red mulberry use language that elevates the tree in words that suggest a patriotic pride in the species that is native to North America. A popular handbook from 1900 quotes Charles Sprague Sargent, author of the periodic survey of American trees, Silva of North America, who lists the many winning qualities of the red mulberry.[^63] Apart from a wide and dense canopy that provides abundant shade, "its freedom from disease and the attacks of disfiguring insects, its prolificness, its hardiness except in its earliest years, and the rapidity of its growth in good soil, make it a most desirable ornamental tree."[^64] Silva of North America 1892-1902 admires the red mulberry’s "shapely head" and remarks on it being a "venerable tree."[^65]
 <param ve-image
        src="wc:Morus_rubra_93979.png"
-       caption="Drawing of Morus rubra L, the red mulberry from The Silva of North America vol 7 (1898) by C.S. Sargent. Courtesy of Missouri Botanical Garden, Wikimedia Commons.">
+       caption="Drawing of *Morus rubra L*, the red mulberry from *The Silva of North America*, vol 7 (1898), by C.S. Sargent. Courtesy of Missouri Botanical Garden, Wikimedia Commons.">
 
 At Lewis Ginter Botanical Garden near Richmond, Virginia, a 100-year-old red mulberry is venerated and is a popular feature in its [Children’s Garden](https:www.lewisginter.org/a-giving-tree/). It's the only tree visitors are allowed to climb and harvest for berries. Websites devoted to native species and plant nurseries in the surrounding areas encourage gardeners to grow red mulberries, both for their fruit and the shade of their generous canopies. As summer temperatures continue to rise every year, these shade or cooling trees, in the vernacular of horticulture, become ever more alluring. In addition, they are also necessary for humans, birds, and insects as resting spaces, homes, and sources of nutritious berries.
 <param ve-image
        src="gh:plant-humanities/media/mulberry/Lewis Ginter garden.jpg"
-       caption="Children climbing the 100 year old Morus rubra at Lewis Ginter Botanical Gardens, Virginia. Credit: Robert Llwellyn.">
+       caption="Children climbing the 100 year old *Morus rubra* at Lewis Ginter Botanical Gardens, Virginia. Credit: Robert Llwellyn.">
 
 During his travels around North America in the in the eighteenth century, the Swedish naturalist Pehr Kalm described the view of red mulberries on "fields, hills and near houses."[^66] The red mulberry was not only common in these landscapes of home, their timber was used to make homes. Red mulberry wood is weather- and insect-resistant and makes for fine cabinets and musical instruments.[^67] Its bark is suitable for "good and rough bast ropes."[^68] And it caters to birds, insects, and domestic animals. Species of birds that feed on the tree’s fruit include the yellow-billed cuckoo, kingbird, tree swallow, thrush, and warbler.[^69] In the southern states, the fruit of the red mulberry was good for fattening hogs and feeding poultry.[^70] Hardy and easy to grow, the red mulberry can be coppiced and pruned to make excellent hedges "keeping children in and animals out."[^71]
 <param ve-image
@@ -266,7 +266,7 @@ Building on its deeply rooted presence in American history, the mulberry, partic
 White mulberry is malleable, and the qualities that human cultivators imbued in the species—cropped short for ease of picking and grafting trees from male to female—were easily achieved. However, once the white mulberry's utilitarian purpose was lost, it was vilified in American gardens and fields as a relic of a failed sericultural project. While in horticulture, the white mulberry is considered a nuisance in the United States, in its wild form, it is revered in India as a Kalpavriksha—an old, gnarled, and wise tree of plenty. Today, as we look beyond the functional characterization of the tree, its true value—rooted in its cultural history and ecological significance—calls for recognition long overdue. Perhaps now, the red mulberry can be appreciated not for what it failed to provide but for what it has always offered.
 <param ve-image
        src="gh:plant-humanities/media/mulberry/Julia Ellen Rogers.png"
-       caption="Drawing of a red mulberry tree by Julia Ellen Rogers in the 1927 edition of The Nature Library Trees.">
+       caption="Drawing of a red mulberry tree by Julia Ellen Rogers in the 1927 edition of *The Nature Library Trees*.">
 
 ### References
 
