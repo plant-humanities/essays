@@ -21,6 +21,13 @@ This essay provides an approachable overview of herbarium specimens and how they
 # Featured Plant Narratives 
 `.cards`
 
+## Salvation and Suffering: Potato
+[Salvation and Suffering: Potato](potato)
+
+- Nola Rettenmaier, Alexander Betz, and Jessica Gomez
+  
+!![](https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/potato.jpg)
+
 ## Jasmine: The Sensual and the Sacred
 [Jasmine: The Sensual and the Sacred](jasmine)
 
@@ -62,13 +69,6 @@ This essay provides an approachable overview of herbarium specimens and how they
 - Bethany Kidd and Sierra Roark
 
 !![](https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/paperbark.jpg)
-
-## Pecan: Beyond Thanksgiving Pie to Indigenous Reciprocity
-[Pecan: Beyond Thanksgiving Pie to Indigenous Reciprocity](pecan)
-
-- MaryKathryn Underwood, Stefania Rocca, and Paolo Taffaro
-
-!![](https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/pecan.jpg)
 
 ## Okra: An Enduring Kitchen Staple
 [Okra: An Enduring Kitchen Staple](okra)
@@ -290,6 +290,13 @@ This essay provides an approachable overview of herbarium specimens and how they
 - Ashley Buchanan
 
 ![](https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/Peony_Thumbnail.jpg)
+
+## Salvation and Suffering: Potato
+[Salvation and Suffering: Potato](potato)
+
+- Nola Rettenmaier, Alexander Betz, and Jessica Gomez
+  
+!![](https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/potato.jpg)
 
 ## The Sensitive Plant: Meaning and Movement
 [The Sensitive Plant: Meaning and Movement](mimosa_pudica)
