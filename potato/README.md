@@ -14,8 +14,9 @@ Woven into the history of the potato, from its Indigenous domestication in the A
         caption="Alfred Le Petit, *Fleurs, Fruits & Legumes Du Jour*, Cartoon of Pierre-Frédéric Dorian, 1871. Wikimedia Commons.">
 
 In sharp contrast to the humorous irreverence of Le Petit, the realm of caricature art also yields potent depictions of the suffering and privation associated with the potato. In Honoré Daumier’s illustrations, the archetypal Irishman is shown as emaciated, ravaged by the 1845–1852 potato famine, and presented in juxtaposition to caricatures of England’s John Bull as a plump colonial oppressor. Daumier’s work serves as a provocative interjection by another national entity, France, into the fraught space of the Britain-Ireland dialectic, presumably to reinforce and promote France and its republican, anti-monarchist ideals.[^1] In this way, the caricatures suggest a connection between the potato and events of transnational significance that this essay will explore.
-<param ve-iframe
-       src="https://view.collections.yale.edu/m3/?manifest=https://manifests.collections.yale.edu/yuag/obj/17354">
+<param ve-image
+       src="wc:Honoré_Daumier,_Ce_qu%27on_appelle_le_Royaume-Uni,_1866,_NGA_57404.jpg"
+	caption="Honoré Daumier, *Ce qu'on appelle le Royaume-Uni*, 1866.>
 
 Over the millennia, the potato has been the subject of diverse associations, meanings, and values. This multivalence is a product of societal context, and this essay will examine the perceptions and role of the potato in different societies including South America prior to European colonization, Great Britain, France, the United States, as well as through the broader lens of contemporary transnationalism. During the colonization of the Americas, the potato—along with other plants of dietary and economic value—underwent a transatlantic migration that saw its introduction to Europe. In the wake of this, attempts to integrate the potato into the fabric of European agriculture and food consumption were met with fierce resistance and debate across the social spectrum.
 <param ve-image
