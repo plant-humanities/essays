@@ -13,3 +13,10 @@ Addressing the House of Representatives on Thursday, February 24, 1831, Abel Whe
 <param ve-image
        src="gh:plant-humanities/media/mulberry/The House.jpg"
        caption="The House of Representatives, painting by Samuel F.B. Morse 1822-1823. Corcoran Collection (Museum Purchase, Gallery Fund), National Gallery of Art.">
+
+
+### References
+
+[^1]: J. H. Cobb, *A Manual Containing Information Respecting the Growth of the Mulberry Tree, with Suitable Directions for the Culture of Silk. In Three Parts* (Boston: Carter, Hendee, and Babcock, 1833), 13.
+[^2]: United States Department of Treasury Doc. No. 158
+[^3]: United States Department of Treasury Doc. No. 158. p iii. Although mulberry trees prefer moist, well-drained soil, they can tolerate acidic or alkaline conditions as well as full sun or partial shade.
