@@ -10,12 +10,12 @@
 
 ### Introduction
 
-"The only appropriate food for the silkworm is the leaf of the mulberry tree. It should be the first business therefore of the silk grower to provide himself with the source of a constant supply of mulberry leaves."[^4]
+*"The only appropriate food for the silkworm is the leaf of the mulberry tree. It should be the first business therefore of the silk grower to provide himself with the source of a constant supply of mulberry leaves."*[^1]
 <param ve-image
        src="gh:plant-humanities/media/mulberry/The House.jpg"
        caption="The House of Representatives, painting by Samuel F.B. Morse 1822-1823. Corcoran Collection (Museum Purchase, Gallery Fund), National Gallery of Art.">
 
-Addressing the House of Representatives on Thursday, February 24, 1831, Abel Wheeler, Chairman of the Committee on Agriculture, reported that the power and wealth of France were mainly derived from silk production and that a number of other European countries had embarked on the same path "with zeal."[^1] Conversely, the United States was spending a fortune on foreign silk: between 1821 and 1825 the total value of imported silk was worth approximately $945 million in today’s currency.[^2]  To further his point, Mr. Wheeler compared this vast sum to the revenue generated from US bread exports: a paltry $5 million a year, or about $180 million today. Not only could mulberry leaves—the food of silkworms—be transformed into stacks of cash, but the mulberry tree itself was undemanding, requiring neither good soil nor good climate.[^3] However, as we will discover, despite years of effort to establish sericulture in the U.S, Wheeler's dream of turning leaves into gold came to nothing.
+Addressing the House of Representatives on Thursday, February 24, 1831, Abel Wheeler, Chairman of the Committee on Agriculture, reported that the power and wealth of France were mainly derived from silk production and that a number of other European countries had embarked on the same path "with zeal."[^2] Conversely, the United States was spending a fortune on foreign silk: between 1821 and 1825 the total value of imported silk was worth approximately $945 million in today’s currency.[^3]  To further his point, Mr. Wheeler compared this vast sum to the revenue generated from US bread exports: a paltry $5 million a year, or about $180 million today. Not only could mulberry leaves—the food of silkworms—be transformed into stacks of cash, but the mulberry tree itself was undemanding, requiring neither good soil nor good climate.[^4] However, as we will discover, despite years of effort to establish sericulture in the U.S, Wheeler's dream of turning leaves into gold came to nothing.
 <param ve-image
        src="gh:plant-humanities/media/mulberry/The House.jpg"
        caption="The House of Representatives, painting by Samuel F.B. Morse 1822-1823. Corcoran Collection (Museum Purchase, Gallery Fund), National Gallery of Art.">
@@ -92,7 +92,7 @@ We begin in 2700 BCE, with the invention of sericulture: the production of silk.
 According to a popular legend, the Chinese Empress Xi Ling-Shi (西陵氏), also known as Leizu (嫘祖), first discovered silk while sitting under a white mulberry tree. As she drank her tea, a silkworm cocoon fell from the branches into her teacup and she found that the hot liquid had unwound the cocoon into soft, silky strings that were long and plentiful enough to be wrapped around her entire garden. Indeed, considering that a single cocoon may contain 1.5 km of silk, the legend does not exaggerate the wonders of the silkworm.[^25] Now celebrated as the silkworm goddess, it is said that Leizu also invented the silk loom and the art of sericulture.[^26]
 <param ve-image
        src="gh:plant-humanities/media/mulberry/leizu.jpg"
-       caption="Image of Leizu (嫘祖) printed via movable type, from the book 廿一史通俗衍義, compiled by Lü Fu circa 1723. Public domain, available via Wikimedia Commons.">
+       caption="Image of Leizu (嫘祖) printed via movable type, compiled by Lü Fu circa 1723. Public domain, available via Wikimedia Commons.">
 
 The first concrete evidence of sericulture was discovered in Shandong and Huzhou from around 2700 BCE: silk ribbons and threads, and a silkworm cocoon split cleanly with a sharp tool.[^27] The first evidence of Chinese cultivation of the white mulberry was discovered a thousand years later.[^28] Refined for several hundred years, sericulture techniques were subsequently printed in the Chinese text Qimin Yaoshu (齐民要术), a work from 533 BCE containing information on ancient agricultural practices.[^29] By the nineteenth century, visiting English explorers reported highly specialized cultivation practices of both the mulberry trees and silkworms. In May 1845, Robert Fortune wrote that the Chinese did not allow mulberry trees "to grow more than from four to six feet in height"—indicating copious pruning of the tree for ease of leaf-picking since women and children mostly did this.[^30]
 <param ve-image
@@ -147,7 +147,7 @@ By the late 1400s, France—which had witnessed the prosperity silk had brought 
 [^1]: J. H. Cobb, *A Manual Containing Information Respecting the Growth of the Mulberry Tree, with Suitable Directions for the Culture of Silk. In Three Parts* (Boston: Carter, Hendee, and Babcock, 1833), 13.
 [^2]: United States Department of Treasury Doc. No. 158
 [^3]: United States Department of Treasury Doc. No. 158. p iii. Although mulberry trees prefer moist, well-drained soil, they can tolerate acidic or alkaline conditions as well as full sun or partial shade.
-[^4]: Cobb, *A Manual Containing Information*.
+[^4]: Cobb, *A Manual Containing Information*, 13.
 [^5]: Peter Coles, Mulberry (London, UK: Reaktion Books, Ltd., 2019).
 [^6]: Laws, Bill. *Fifty plants that changed the course of history.* Newton Abbot: David & Charles, 2010. 
 [^7]: Coles, *Mulberry*.
