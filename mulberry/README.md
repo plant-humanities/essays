@@ -66,7 +66,7 @@ Smooth and lustrous, silk has enchanted the wealthy all over the world for mille
 Silk is sacred in many cultures.[^18]  As is the mulberry tree. In cosmologies, myths, and legends, there is an aura of reverence for the mulberry tree. In Hindu-Buddhist cosmology for example, the divine Kalpavriksha is thought to be a white mulberry.[^19] The Romans considered the black mulberry sacred to Minerva.[^20] Sicilians still celebrate the Feast of St Nicholas by cutting a branch from the black and keeping it home for a year.[^21]
 <param ve-image
        src="wc:Kalpvriksh_Bilara_Jodhpur_Rajasthan.jpg"
-       caption="Thought to be over 800 years old, this tree in Rajasthan, India is dedicated to Kalpvriksha. Wikimedia commons. Credit Seervims."
+       caption="Thought to be over 800 years old, this tree in Rajasthan, India is dedicated to Kalpvriksha. Wikimedia commons. Credit Seervims.">
 
 Fame is surely secured by myths, art, and song, and the mulberry plays a prominent role in all three. In the Babylonian love story about Pyramus and Thisbe by the Roman poet, Ovid in the first century BCE, the lovers arrange to meet under a mulberry tree, most likely a black mulberry since the white mulberry was not present in Babylon as the time. Thisbe arrives first but runs away after a lion attacks her, leaving behind her bloodied scarf. When Pyramus arrives, he sees the scarf and, believing Thisbe to be dead, stabs himself. When Thisbe returns to the tree and sees her lover’s body, she ends her life. It is said their blood is what gave the berry its dark color.
 <param ve-image
