@@ -28,14 +28,14 @@ Here we tell the story of loss, but also one of renewal and metamorphosis. In th
 The story of the red mulberry is a less glamorous one than that of the white mulberry and the dreams of riches promised by silk. It is a story earthier in its substance, more of root, trunk, and twig; bark and berry; and the breeze that gets caught in a generous canopy. These are the threads of Indigenous wisdom, landscapes of heritage and memory, in which the red mulberry is a horticultural marvel: a medicine chest, source of food, fiber, wood, and respite. Neglected and overlooked because it was not the favorite food of the silkworm, the red mulberry tree is reclaiming its legacy in the landscapes of North America. It may not be the money tree of silk production like the white mulberry, but as we will discover, every part of the tree offers wealth of its own kind.[^5]
 <param ve-image
        src="gh:plant-humanities/media/mulberry/P3 Morus Rubra 1818.jpeg"
-       caption="Morus rubra 1818, Austrian National Library. Public domain.">
+       caption="Morus rubra 1818, Austrian National Library. Public Domain.">
 
 ### Taxonomy, Genus, and Types of Mulberry
 
 The mulberry genus *Morus* is part of the family *Moraceae*, which includes mulberries and figs. Even within mulberry species, morphology differs greatly, especially with the white mulberry. It is unclear how many mulberry species listed in the genus are distinct, with estimates ranging from eight to seventeen.[^6] However, the three main types of mulberry are generally considered to be white, red, and black, the most common species of which are the *Morus alba* (white mulberry), *Morus rubra* (red mulberry), and *Morus nigra* (black mulberry).
 <param ve-image
        src="gh:plant-humanities/media/mulberry/P4 Morus Rubra Watercolor.jpg"
-       caption="Watercolor illustration of *Morus rubra* by Tessie Frank, circa 1895-1935. Courtesy of Harvard University, public domain via Harvard Library.">
+       caption="Watercolor illustration of *Morus rubra* by Tessie Frank, circa 1895-1935. Courtesy of Harvard University, Public Domain via Harvard Library.">
 <param ve-image
 src="wc:Illustration_from_Medical_Botany,_digitally_enhanced_from_rawpixel%27s_own_original_plates_88.jpg"
        caption="Illustration of *Morus nigra* from *Medical Botany* by John Stephenson and James Morss Churchill, circa 1836. Wikimedia Commons.">
@@ -45,7 +45,7 @@ The white mulberry is believed to be native to East Asia and the Himalayas, alth
 *Morus* trees bear long aggregate fruit, somewhat resembling a blackberry, which come in various colors—green, white, red, black—and are rich in antioxidants. But the most historically significant, valuable part of most mulberry trees has been their leaves. Like the trees themselves, the leaves of the mulberry vary greatly in form, with leaf texture and shape ranging from shiny to matte, lobed or not. There can be dozens of differently shaped leaves even on the same tree. On no other tree has the leaf been more valuable than the white mulberry. Characterized in one text as a "sociable and loyal" tree that is "used to being of service to others," it is the white mulberry whose leaves allow the silkworm to produce the best quality of silk.[^9]
 <param ve-image
        src="wc:Morus_alba-leaves.jpg"
-       caption="A variety of forms *Morus alba* leaves can take. Publicly available via Wikimedia Commons.">
+       caption="A variety of forms *Morus alba* leaves can take. Wikimedia Commons.">
 
 ### Sericulture: The Alchemy that Creates Raw Silk
 
@@ -56,7 +56,7 @@ The larvae of a species of moth called *Bombyx mori*, more commonly known as the
 During the usual production process, sericulturists steam the cocoons to kill the larvae. This prevents the precious thread from breaking when the adolescent moth emerges, although sometimes twisting the filaments from several cocoons together is required.[^12] A more humane production method uses the filzament left over after the moth has emerged from the cocoon, rejoining them with the filaments that have been broken through twisting. By sparing the silkworm, the silk this method produces becomes Ahimsa silk. The result in either case is a single strand of silk thread.[^13] This incredible substance traveled around the globe, and where silk went, so too did the silkworm *Bombyx mori* and the white mulberry.[^14]
 <param ve-compare
        src="wc:Shawl_(AM 2017.103.9-8).jpg"
-       caption="Swipe across images to compare regular silk (left) and Ahimsa/tussah silk (right).">
+       caption="Swipe across images to compare regular silk (left) and Ahimsa/tussah silk (right). Wikimedia Commons.">
 <param ve-compare
        src="wc:Handkerchief_(AM 1996.72.7-3).jpg">
 
@@ -65,39 +65,39 @@ During the usual production process, sericulturists steam the cocoons to kill th
 Smooth and lustrous, silk has enchanted the wealthy all over the world for millennia. Imagine the wonder and delight of discovering the delicate threads that shone like silver. It’s no surprise that the silkworm itself was revered as an extraordinary organism with its ability to convert white mulberry leaves into precious filaments. Writing about the mysteries of animal husbandry in 1668, John Worlidge, an English agriculturalist, mused on the sublime powers of "This, though but a Worm, yet glorious Creature."[^15] Cleopatra was enamored with the billowing silk sails of her pleasure boat.[^16] Possibly because it was so ephemeral and delicate, in ancient Rome silk was considered too effeminate for men to wear. In the reign of the second Roman Emperor, Tiberius (42 BCE—37 CE), a law was passed "that no man should dishonor himself by wearing silken garments."[^17]
 <param ve-image
        src="gh:plant-humanities/media/mulberry/Tiberius horseback.jpg"
-       caption="Emperor Tiberius rejected silk as effeminate. Instead, his image here embodies masculinity by appearing in a suit of metal armour. Etching of the Emperor Tiberius on horseback by Matthäus Merian the Elder (1593-1650). Public domain The Metropolitan Museum of Art.">
+       caption="Emperor Tiberius rejected silk as effeminate. Instead, his image here embodies masculinity by appearing in a suit of metal armour. Etching of the Emperor Tiberius on horseback by Matthäus Merian the Elder (1593-1650). Public Domain, The Metropolitan Museum of Art.">
 
 Silk is sacred in many cultures.[^18]  As is the mulberry tree. In cosmologies, myths, and legends, there is an aura of reverence for the mulberry tree. In Hindu-Buddhist cosmology for example, the divine Kalpavriksha is thought to be a white mulberry.[^19] The Romans considered the black mulberry sacred to Minerva.[^20] Sicilians still celebrate the Feast of St Nicholas by cutting a branch from the black and keeping it home for a year.[^21]
 <param ve-image
        src="wc:Kalpvriksh_Bilara_Jodhpur_Rajasthan.jpg"
-       caption="Thought to be over 800 years old, this tree in Rajasthan, India is dedicated to Kalpvriksha. Wikimedia commons. Credit Seervims.">
+       caption="Thought to be over 800 years old, this tree in Rajasthan, India is dedicated to Kalpvriksha. Wikimedia Commons. Credit Seervims.">
 
 Fame is surely secured by myths, art, and song, and the mulberry plays a prominent role in all three. In the Babylonian love story about Pyramus and Thisbe by the Roman poet, Ovid in the first century BCE, the lovers arrange to meet under a mulberry tree, most likely a black mulberry since the white mulberry was not present in Babylon as the time. Thisbe arrives first but runs away after a lion attacks her, leaving behind her bloodied scarf. When Pyramus arrives, he sees the scarf and, believing Thisbe to be dead, stabs himself. When Thisbe returns to the tree and sees her lover’s body, she ends her life. It is said their blood is what gave the berry its dark color.
 <param ve-image
        src="gh:plant-humanities/media/mulberry/P11 PyramusThisbe-c 1510.jpg"
-       caption="Pyramus and Thisbe by Hans Wechtlin c1510. Public domain.">
+       caption="Pyramus and Thisbe by Hans Wechtlin c1510. Public Domain.">
 
 Van Gogh painted a mulberry tree in 1889, one year before his death, in brushstrokes that pulsate with life, echoing perhaps his feverish state of mind during a stay at an asylum. More cheerful is the depiction in folklore where the mulberry tree inspires carousing songs, odes to its juicy fruit,[^22] and the tree around which children dance as they sing the popular nursery rhyme.[^23]
 <param ve-image
        src="gh:plant-humanities/media/mulberry/three men.jpg"
-       caption="Three men carousing beneath a mulberry tree. Letterpress after etching by Isaac Cruikshank 1808. Wellcome Collection Open Access on JSTOR.">
+       caption="Three men carousing beneath a mulberry tree. Letterpress after etching by Isaac Cruikshank 1808. Wellcome Collection, Open Access on JSTOR.">
 
 ### The Beginnings of Silk
 
 We begin in 2700 BCE, with the invention of sericulture: the production of silk. Illustrations on ox bones from 1600 BCE show that early versions of the process included the cultivation of mulberry groves and silkworms, silk reeling and spinning, preparing the silk threads, and weaving the threads together, like sericulture practices today.[^24]
 <param ve-image
        src="wc:Heji_37986_Ganzhi_table.jpg"
-       caption="Shang Dynasty ox bone inscription of the sexagenary cycle, dating several centuries after earliest ox bone depictions of sericulture. CC0, via Wikimedia Commons.">
+       caption="Shang Dynasty ox bone inscription of the sexagenary cycle, dating several centuries after earliest ox bone depictions of sericulture. Wikimedia Commons.">
 
 According to a popular legend, the Chinese Empress Xi Ling-Shi (西陵氏), also known as Leizu (嫘祖), first discovered silk while sitting under a white mulberry tree. As she drank her tea, a silkworm cocoon fell from the branches into her teacup and she found that the hot liquid had unwound the cocoon into soft, silky strings that were long and plentiful enough to be wrapped around her entire garden. Indeed, considering that a single cocoon may contain 1.5 km of silk, the legend does not exaggerate the wonders of the silkworm.[^25] Now celebrated as the silkworm goddess, it is said that Leizu also invented the silk loom and the art of sericulture.[^26]
 <param ve-image
        src="gh:plant-humanities/media/mulberry/leizu.jpg"
-       caption="Image of Leizu (嫘祖) printed via movable type, compiled by Lü Fu circa 1723. Public domain, available via Wikimedia Commons.">
+       caption="Image of Leizu (嫘祖) printed via movable type, compiled by Lü Fu circa 1723. Wikimedia Commons.">
 
 The first concrete evidence of sericulture was discovered in Shandong and Huzhou from around 2700 BCE: silk ribbons and threads, and a silkworm cocoon split cleanly with a sharp tool.[^27] The first evidence of Chinese cultivation of the white mulberry was discovered a thousand years later.[^28] Refined for several hundred years, sericulture techniques were subsequently printed in the Chinese text Qimin Yaoshu (齐民要术), a work from 533 BCE containing information on ancient agricultural practices.[^29] By the nineteenth century, visiting English explorers reported highly specialized cultivation practices of both the mulberry trees and silkworms. In May 1845, Robert Fortune wrote that the Chinese did not allow mulberry trees "to grow more than from four to six feet in height"—indicating copious pruning of the tree for ease of leaf-picking since women and children mostly did this.[^30]
 <param ve-image
        src="wc:Neolithic_Bone_Needles_(9929219405).jpg"
-       caption="Neolithic-age bone needles found in Shanxi, China, which is believed to be some of the earliest evidence of sericulture ever found. Gary Todd from Xinzheng, China, CC0, via Wikimedia Commons.">
+       caption="Neolithic-age bone needles found in Shanxi, China, which is believed to be some of the earliest evidence of sericulture ever found. Gary Todd from Xinzheng, China. Wikimedia Commons.">
 <param ve-image
        src="gh:plant-humanities/media/mulberry/P15 Gathering Mulberry.jpeg"
        caption="Engraving of silk manufacture in China, gathering mulberry leaves. Circa 19th century. Wellcome Collection. CC BY.">
@@ -112,12 +112,12 @@ Although the Chinese had closely guarded the secret of the mulberry and silkworm
 Evidence of white mulberry cultivation in Khotan emerging from 150–350 CE might support this story. By the seventh to eighth centuries CE, the legend was being incorporated artistically into artifacts such as wall paintings and votive panels. Interestingly, in both the panel presented here, and in different depictions, a four-armed deity is present, possibly representing a god of silk or a smaller local deity who protected silk production.[^33]
 <param ve-image
        src="gh:plant-humanities/media/mulberry/Indian deity.jpg"
-       caption="Khotanese votive panel portraying a possible three-headed God of Silk or Patron of Weaving, circa 6th to 8th century. Publicly available via Wikimedia Commons.">
+       caption="Khotanese votive panel portraying a possible three-headed God of Silk or Patron of Weaving, circa 6th to 8th century. Wikimedia Commons.">
 
 According to another legend, the sixth century Byzantine Emperor Justinian I bribed Nestorian monks to smuggle silkworm eggs and white mulberry seeds to Constantinople, which they did using hollow canes purportedly from Persia.[^34] Whether or not these stories are true, the secret of sericulture spread—and the mulberry trees themselves, first to the Byzantine Empire in the 500s, then to Spain in the 900s and to England in the 1600s.[^35] Sericulture slowly expanded westward, further spurred by industrialization and new, cheap silk production methods, with the black mulberry planted as sericulture’s companion. Eventually, the white mulberry followed, appreciated for both its sericultural importance and the versatility of its fruit.[^36]
 <param ve-image
        src="gh:plant-humanities/media/mulberry/Justinian plate2.jpg"
-       caption="Plate depicting Justinian I recieving silkworm eggs from Nestorian monks, circa 1595. Metropolitan Museum of Art via Wikimedia Commons.">
+       caption="Plate depicting Justinian I recieving silkworm eggs from Nestorian monks, circa 1595. Metropolitan Museum of Art, Wikimedia Commons.">
 <param ve-image
        src="gh:plant-humanities/media/mulberry/incubation eggs.jpg"
        caption="Third plate from the same 1595 series *Vermis Sericus*: The Introduction of the Silkworm. Depicts the incubation of the eggs.">
@@ -148,8 +148,9 @@ In 1609, the colonists began revamping sericulture efforts with improved organiz
        src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vQ_scA3HeQbfRmsvLmQjatJ-LY7axuwoYbUAdV1ss75k3Fg4lPYHdybYwwXSmHSpiNaHFEFAUMa2fi4&font=Default&lang=en&initial_zoom=2&start_at_slide=5&width=100%25&height=650">
 
 To kill the worms within their cocoons, the best practice was using cauldrons, half full of hot water, with a wooden cover bored full of holes stationed three or four fingers above the water; spread on top of the cover would be a thin layer of "[Darnix](https://en.wikipedia.org/wiki/Dornix)," where the silk cocoons were to be frequently stirred.[^47] By 1639, likely through experimentation, Virginian sericulturists had become aware of the silkworms’ proclivity for white mulberries—Sir Francis Wyatt wrote instructions to sericulturists ensuring that these were the sole variety planted.[^48] And, as the colonists realized that the highest quality silk came from white mulberry leaves, they too planted acres of white mulberry.[^49] Virginian sericulture, as elsewhere in the world, became a more precise science. The fascination to understand the alchemy of silk-making continues. Modern research has shown that although silkworm larvae will eat other leaves, such as lettuce and fig leaves, they are most attracted to unique essential oils in mulberry leaves.[^50]
-<param ve-iframe
-       src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vQ_scA3HeQbfRmsvLmQjatJ-LY7axuwoYbUAdV1ss75k3Fg4lPYHdybYwwXSmHSpiNaHFEFAUMa2fi4&font=Default&lang=en&initial_zoom=2&start_at_slide=5&width=100%25&height=650">
+<param ve-image
+src="wc:Engine_used_to_wind_silk_off_the_coils,_soon_after_the_discovery_of_silkworms_LCCN2006687108.jpg"
+       caption="An engraving of a preliminary Virginian engine being used to wind silk out of cocoons, circa 1650. Wikimedia Commons.">
 
 Apart from these ventures in Virginia, successful silkworm-rearing attempts in the United States were few and far between.[^51] Suboptimal climate, disease, a focus on other agricultural pursuits, and often a general lack of knowledge meant that few of these pursuits ever took hold, with exceptions in Virginia, Georgia, Kentucky, and Pennsylvania (1725).[^52] Virginia’s moderately successful venture from 1609 to 1676 eventually faded away too, lost to tobacco and rebellion.[^53] Though faded, silk production would be given another chance nearly two hundred years later in Virginia’s 1830s mulberry craze.[^54]
 <param ve-iframe
@@ -182,7 +183,7 @@ The hype spread from state to state: New Jersey, Pennsylvania, Delaware, Marylan
 Horticulturists writing about the red mulberry use language that elevates the tree in words that suggest a patriotic pride in the species that is native to North America. A popular handbook from 1900 quotes Charles Sprague Sargent, author of the periodic survey of American trees, Silva of North America, who lists the many winning qualities of the red mulberry.[^63] Apart from a wide and dense canopy that provides abundant shade, "its freedom from disease and the attacks of disfiguring insects, its prolificness, its hardiness except in its earliest years, and the rapidity of its growth in good soil, make it a most desirable ornamental tree."[^64] Silva of North America 1892-1902 admires the red mulberry’s "shapely head" and remarks on it being a "venerable tree."[^65]
 <param ve-image
        src="wc:Morus_rubra_93979.png"
-       caption="Drawing of Morus rubra L, the red mulberry from The Silva of North America vol 7 (1898) by C.S. Sargent. Courtesy of Missouri Botanical Garden public domain on Wikimedia.">
+       caption="Drawing of Morus rubra L, the red mulberry from The Silva of North America vol 7 (1898) by C.S. Sargent. Courtesy of Missouri Botanical Garden, Wikimedia Commons.">
 
 At Lewis Ginter Botanical Garden near Richmond, Virginia, a 100-year-old red mulberry is venerated and is a popular feature in its [Children’s Garden](https:www.lewisginter.org/a-giving-tree/). It's the only tree visitors are allowed to climb and harvest for berries. Websites devoted to native species and plant nurseries in the surrounding areas encourage gardeners to grow red mulberries, both for their fruit and the shade of their generous canopies. As summer temperatures continue to rise every year, these shade or cooling trees, in the vernacular of horticulture, become ever more alluring. In addition, they are also necessary for humans, birds, and insects as resting spaces, homes, and sources of nutritious berries.
 <param ve-image
@@ -192,15 +193,15 @@ At Lewis Ginter Botanical Garden near Richmond, Virginia, a 100-year-old red mul
 During his travels around North America in the in the eighteenth century, the Swedish naturalist Pehr Kalm described the view of red mulberries on "fields, hills and near houses."[^66] The red mulberry was not only common in these landscapes of home, their timber was used to make homes. Red mulberry wood is weather- and insect-resistant and makes for fine cabinets and musical instruments.[^67] Its bark is suitable for "good and rough bast ropes."[^68] And it caters to birds, insects, and domestic animals. Species of birds that feed on the tree’s fruit include the yellow-billed cuckoo, kingbird, tree swallow, thrush, and warbler.[^69] In the southern states, the fruit of the red mulberry was good for fattening hogs and feeding poultry.[^70] Hardy and easy to grow, the red mulberry can be coppiced and pruned to make excellent hedges "keeping children in and animals out."[^71]
 <param ve-image
        src="wc:UB_Maastricht_-_Kalm_1772_-_frontispiece.jpg"
-       caption="Frontispiece of the 1772 Dutch translation of Pehr Kalm En Resa till Norra America. Credit: Maastricht University Library digital collections, Wikimedia Commons.">
+       caption="Frontispiece of the 1772 Dutch translation of Pehr Kalm En Resa till Norra America. Maastricht University Library Digital Collections, Wikimedia Commons.">
 
 For centuries, people in different parts of the world have used mulberry trees for multiple purposes in both house and homestead. Settlers in the United States, including farmers and gardeners, discovered how adaptable the white and red mulberry tree were to being shaped for human convenience. White mulberry was pruned so that children and "aged women" could harvest its leaves.[^72] In Europe, Macedonian farmers selected and bred white mulberry trees to have broad leaves with low moisture and fiber content.[^73] In China, it was common to graft cultivated stock from the white mulberry onto established wild rootstock—five years later, the leaves were ready to harvest.[^74] Mulberry trees were so malleable that even their sex could be changed through simple grafting of a branch from a female tree onto a male tree.[^75]
 <param ve-image
        src="gh:plant-humanities/media/mulberry/krochmal 1954.png"
-       caption="An orchard of 150 year old mulberry trees (Morus alba L) near the village of Basilica, Macedonia.Credit: Krochmal 1954 The Vanishing Mulberry Open Access on JSTOR.">
+       caption="An orchard of 150 year old mulberry trees (Morus alba L) near the village of Basilica, Macedonia. Krochmal 1954 The Vanishing Mulberry, Open Access on JSTOR.">
 <param ve-image
        src="gh:plant-humanities/media/mulberry/vanishing white.png"
-       caption="A young woman in the village of Basilica, Macedonia holds a home-spun silk dress. Credit: Krochmal 1954 The Vanishing Mulberry Open Access on JSTOR.">
+       caption="A young woman in the village of Basilica, Macedonia holds a home-spun silk dress. Krochmal 1954 The Vanishing Mulberry, Open Access on JSTOR.">
 
 Alongside the pruning, grafting, altering, and shaping to suit human needs, a different quality of relationship with the red mulberry co-evolved with Native American peoples. In his travelogue recounting his journeys through North American landscapes in the eighteenth century, Pehr Kalms wrote of the fruit bread he ate with the Iroquois peoples: it was "just like the puddings which our women pack full of raisins."[^76] The tree’s berries provided fruit, preserves, such as jams and syrups, as well as mulberry wine.
 <param ve-video
@@ -230,15 +231,6 @@ White mulberry is malleable, and the qualities that human cultivators imbued in 
 <param ve-image
        src="gh:plant-humanities/media/mulberry/Julia Ellen Rogers.png"
        caption="Drawing of a red mulberry tree by Julia Ellen Rogers in the 1927 edition of The Nature Library Trees.">
-
-
-
-
-
-
-
-
-
 
 ### References
 
