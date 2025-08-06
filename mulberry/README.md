@@ -34,6 +34,9 @@ The story of the red mulberry is a less glamorous one than that of the white mul
 
 The mulberry genus *Morus* is part of the family *Moraceae*, which includes mulberries and figs. Even within mulberry species, morphology differs greatly, especially with the white mulberry. It is unclear how many mulberry species listed in the genus are distinct, with estimates ranging from eight to seventeen.[^6] However, the three main types of mulberry are generally considered to be white, red, and black, the most common species of which are the *Morus alba* (white mulberry), *Morus rubra* (red mulberry), and *Morus nigra* (black mulberry).
 <param ve-image
+       src="gh:plant-humanities/media/mulberry/P 4 Morus Alba Watercolor.jpg"
+       caption="Watercolor illustration of *Morus alba* by Tessie Frank, circa 1895-1935. Courtesy of Harvard University, Public Domain via Harvard Library.">
+<param ve-image
        src="gh:plant-humanities/media/mulberry/P4 Morus Rubra Watercolor.jpg"
        caption="Watercolor illustration of *Morus rubra* by Tessie Frank, circa 1895-1935. Courtesy of Harvard University, Public Domain via Harvard Library.">
 <param ve-image
