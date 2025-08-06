@@ -138,9 +138,28 @@ By the late 1400s, France—which had witnessed the prosperity silk had brought 
 In the 1740s, Philibert Orry, the General Controller of Finances, ordered another increase in cultivation of mulberry trees and opened spinning manufacturers in an attempt to eventually match the quality of Piedmont organzine. As this endeavor proved largely unsuccessful, the physicist Jean-Antoine Nollet was sent to Italy as an "intelligence agent" to learn the secrets of Piedmont silk thread production. Through the information Nollet gathered, the French concluded that it was the superior production methods of the raw silk itself that produced quality organzine, which led to the invention of an automated spinning machine by Jacques Vaucanson, the inspector of silk manufacturing. Several decades later, Joseph Marie Jacquard drew inspiration from Vaucanson’s machine and invented the Jacquard loom, revolutionizing French textiles and the silk weaving industry along with it.
 <param ve-iframe
        src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vQ_scA3HeQbfRmsvLmQjatJ-LY7axuwoYbUAdV1ss75k3Fg4lPYHdybYwwXSmHSpiNaHFEFAUMa2fi4&font=Default&lang=en&initial_zoom=2&start_at_slide=6&width=100%25&height=650">
-<param ve-image
-       src="gh:plant-humanities/media/mulberry/silk lampas.jpeg"
-       caption="Silk lampas furnishing fabric woven in Lyon, France circa 1785. Produced during a period of technological innovation in French textile production and mechanized looms. Patricia Harris Gallery of Textiles & Costume at the Royal Ontario Museum, Wikimedia Commons."
+
+England, meanwhile, had a late start into the silk industry. By the time the French had perfected their woven silk fabrics in the fifteenth century, King Henry VI had banned silk imports, and small-scale efforts to cultivate silkworms proved unsuccessful due to the climate.[^39] Beginning in 1607, King James I attempted to match France’s success, eager to cement England as a rival powerhouse in the silk industry. However, England’s poor climate foiled such plans, and the only aspect of France’s silken success he managed to replicate was the planting of mulberry trees.[^40] Despite this failure at establishing sericulture, James I was determined not to be outcompeted by France. To this end, he required English landowners to plant mulberries and suggested that they raise silkworms themselves. While unsuccessful in-country, this culminated in several sericulture projects in the North American colonies, further motivated by the need to reduce England’s tobacco dependency through diversified crops.[^41] The first attempt at raising silkworms was in Jamestown in 1607, where there were many native red mulberries, not a favorite of silkworms. But the endeavor failed because the silkworms’ caretaker became ill which resulted in rats "[overrunning] the silk establishment and [eating] the worms."[^42]
+<param ve-iframe
+       src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vQ_scA3HeQbfRmsvLmQjatJ-LY7axuwoYbUAdV1ss75k3Fg4lPYHdybYwwXSmHSpiNaHFEFAUMa2fi4&font=Default&lang=en&initial_zoom=2&start_at_slide=3&width=100%25&height=650">
+
+In 1609, the colonists began revamping sericulture efforts with improved organization and presumably healthier caretakers, finding reasonable success despite their using the native red mulberries.[^43] Starting in 1620, manuals and handbooks with advice on how to rear silkworms began to appear. For instance, in his *Systema agriculturae*, John Worlidge recommended that growers hang lavender and sprigs of rosemary between the shelves where the silkworms were housed to keep them warm.[^44] In a 1622 letter to the Earl of South-Hampton, John Bonoeil, a sericulture advisor to James I, suggested growers "caste a little Vinegar" or "sweet smelling herbes" on coals in the oven or fireplace to "comfort the Wormes."[^45] When it came to the silkworm, no detail was too small. The worms were mated on the backside of old velvet or other "stuffe"—never linen, paper, or wool—lest the eggs bond too tightly to the fabric.[^46]
+<param ve-iframe
+       src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vQ_scA3HeQbfRmsvLmQjatJ-LY7axuwoYbUAdV1ss75k3Fg4lPYHdybYwwXSmHSpiNaHFEFAUMa2fi4&font=Default&lang=en&initial_zoom=2&start_at_slide=5&width=100%25&height=650">
+
+To kill the worms within their cocoons, the best practice was using cauldrons, half full of hot water, with a wooden cover bored full of holes stationed three or four fingers above the water; spread on top of the cover would be a thin layer of "[Darnix](https://en.wikipedia.org/wiki/Dornix)," where the silk cocoons were to be frequently stirred.[^47] By 1639, likely through experimentation, Virginian sericulturists had become aware of the silkworms’ proclivity for white mulberries—Sir Francis Wyatt wrote instructions to sericulturists ensuring that these were the sole variety planted.[^48] And, as the colonists realized that the highest quality silk came from white mulberry leaves, they too planted acres of white mulberry.[^49] Virginian sericulture, as elsewhere in the world, became a more precise science. The fascination to understand the alchemy of silk-making continues. Modern research has shown that although silkworm larvae will eat other leaves, such as lettuce and fig leaves, they are most attracted to unique essential oils in mulberry leaves.[^50]
+<param ve-iframe
+       src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vQ_scA3HeQbfRmsvLmQjatJ-LY7axuwoYbUAdV1ss75k3Fg4lPYHdybYwwXSmHSpiNaHFEFAUMa2fi4&font=Default&lang=en&initial_zoom=2&start_at_slide=5&width=100%25&height=650">
+
+Apart from these ventures in Virginia, successful silkworm-rearing attempts in the United States were few and far between.[^51] Suboptimal climate, disease, a focus on other agricultural pursuits, and often a general lack of knowledge meant that few of these pursuits ever took hold, with exceptions in Virginia, Georgia, Kentucky, and Pennsylvania (1725).[^52] Virginia’s moderately successful venture from 1609 to 1676 eventually faded away too, lost to tobacco and rebellion.[^53] Though faded, silk production would be given another chance nearly two hundred years later in Virginia’s 1830s mulberry craze.[^54]
+<param ve-iframe
+       src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vQ_scA3HeQbfRmsvLmQjatJ-LY7axuwoYbUAdV1ss75k3Fg4lPYHdybYwwXSmHSpiNaHFEFAUMa2fi4&font=Default&lang=en&initial_zoom=2&start_at_slide=7&width=100%25&height=650">
+
+Since a silkworm consumes about sixty grams of white mulberry leaves during its six-week life cycle and only produces 0.2 grams of silk, one hectare of white mulberry trees would likely produce around forty kilograms of silk.[^55] Having a vast stock of mulberry trees to provide food for the silkworms was essential to firmly reestablish sericulture in Virginia. To this end, new acres of white mulberry were planted across Virginia to support the hopeful, renewed industry—the red mulberry, once again, was considered of no use. As we will learn next, the white mulberry spread far beyond Virginia—in fact, the highly invasive species spread throughout the country. Today, the tree can be found in every continent but the poles. As garden historian Bill Laws put it, "The silken mulberry had crossed the world."
+<param ve-iframe
+       src="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=v2%3A2PACX-1vQ_scA3HeQbfRmsvLmQjatJ-LY7axuwoYbUAdV1ss75k3Fg4lPYHdybYwwXSmHSpiNaHFEFAUMa2fi4&font=Default&lang=en&initial_zoom=2&start_at_slide=8&width=100%25&height=650">
+
+
 
 
 
@@ -187,3 +206,23 @@ In the 1740s, Philibert Orry, the General Controller of Finances, ordered anothe
 [^34]: Arnold Krochmal, "The Vanishing White Mulberry of Northern Greece," *Economic Botany* 8, no. 2 (1954): 145–151. 
 [^35]: Coles, *Mulberry*. 
 [^36]: Coles.
+[^36]: Coles.
+[^37]: Paola Bertucci, "Enlightened Secrets: Silk, Intelligent Travel, and Industrial Espionage in Eighteenth-Century France," *Technology and Culture* 54, no. 4 (October 2013): 820–52.; Coles, Mulberry.
+[^38]: Coles, *Mulberry*. 
+[^39]: Gerald B. Hertz, "The English Silk Industry in the Eighteenth Century," *The English Historical Review* 24, no. 96 (1909): 710–27. 
+[^40]: Hertz, "The English Silk Industry in the Eighteenth Century."
+[^41]: Warren M. Billings, *The Old Dominion in the Seventeenth Century: A Documentary History of Virginia, 1606-1700*, revised ed. (Chapel Hill: University of North Carolina Press, 2007). 
+[^42]: Charles E. Hatch, Jr., "Mulberry Trees and Silkworms: Sericulture in Early Virginia," *The Virginia Magazine of History and Biography* 65, no. 1 (January 1957): 6. https://www.jstor.org/stable/4246279. 
+[^43]: Hatch, Jr., *Mulberry Trees and Silkworms: Sericulture in Early Virginia*, 7.
+[^44]: Worlidge, *Systema Agriculturae*.
+[^45]: John Bonoeil, *His Majesties gracious letter to the Earle of South-Hampton, treasurer, and to the Councell and Company of Virginia heere: commanding the present setting up of silke works, and planting of vines in Virginia* (London: Felix Kyngston, 1622).
+[^46]: Bonoeil, *His Majesties gracious letter to the Earle of South-Hampton*. 
+[^47]: Technique originated from Messina, Italy. Bonoeil, 29.
+[^48]: Hatch, Jr., *Mulberry Trees and Silkworms*.
+[^49]: Hatch.
+[^50]: Watanabe, Tadao. "Substances in Mulberry Leaves Which Attract Silkworm Larvæ (Bombyx mori)," *Nature* 182 (1958): 325–326, https://doi.org/10.1038/182325a0. 
+[^51]: By 1616, moderate success of sericulture in Jamestown, Virginia, was proof enough to send to England cocoons and possibly spooled threads of silk. Hatch, 8–9. 
+[^52]: There were several bitterly cold winters in the 1840s that ravaged burgeoning white mulberry trees; survivors were further thinned by an 1844 fungal blight. Ben Marsh, "The Republic's New Clothes: Making Silk in the Antebellum United States," *Agricultural History* 86, no. 4 (fall 2012): 206–34. https://www.jstor.org/stable/10.3098/ah.2012.86.4.206, p 226; Harris 2015; Billings 1996. 
+[^53]: Hatch, Jr., *Mulberry Trees and Silkworms: Sericulture in Early Virginia*, 61.
+[^54]: Chambliss, "The mulberry craze."
+[^55]: Harris, *What Have Plants Ever Done for Us?*, 117.
