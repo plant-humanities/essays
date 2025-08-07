@@ -2,10 +2,10 @@
 
 <param ve-config 
        title="Beyond the Silken Shadow: The Mulberry Tree's Metamorphosis and Homecoming"
-       source-image="https://upload.wikimedia.org/wikipedia/commons/6/63/Singing_games_-_The_Mulberry_Bush.jpg"
-       banner="https://upload.wikimedia.org/wikipedia/commons/6/63/Singing_games_-_The_Mulberry_Bush.jpg" 
+       source-image="gh:plant-humanities/media/mulberry/mulberry banner.jpg"
+       banner="gh:plant-humanities/media/mulberry/mulberry banner.jpg" 
        height=100
-       author="Kate Aubrecht and Viveca Mellegärd"
+       author="Kate Aubrecht and Viveca Mellegård"
        layout="vertical">
 
 ### Introduction
