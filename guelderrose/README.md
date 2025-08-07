@@ -38,7 +38,7 @@ The guelder rose has long played a prominent role in human culture and can be tr
 <param ve-map-layer geojson 
        url="map_prehistoric.json">
        
-[Greeneenagh](Q3778145), a cooking pit, shows that other uses for the guelder rose were found in later periods. It includes a [silty-clay trough](/zoomto/456,296,239,189)—used for heating water by fire-reddened stones, which in turn were heated by burning wood—that contained wooden charcoal from the guelder rose shrub, the wood dating between 791 BCE and 419 BCE[^8]. 
+[Greeneenagh](Q3778145), a cooking pit, shows that other uses for the guelder rose were found in later periods. It includes a [silty-clay trough](/zoomto/456,296,239,189)—used for heating water by fire-reddened stones, which in turn were heated by burning wood—that contained wooden charcoal from the guelder rose shrub, the wood dating between 791 BCE and 419 BCE.[^8]
 <param ve-image 
        src="wc:Fulacht_Fiadh_at_Drombeg_Stone_Circle_County_Cork,_Ireland.jpg" 
        fit="contain" 
