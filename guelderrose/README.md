@@ -30,9 +30,9 @@ The guelder rose has long played a prominent role in human culture and can be tr
 <param ve-entity eid="Q4410983">
 <param ve-entity eid="Q36422">
 <param ve-entity eid="Q11761">
-<param ve-map basemap="Esri_WorldPhysical"
-       center="Q46"
-       zoom="4"
+<param ve-map prefer-geojson
+       center="52.69,2.2"
+       zoom="3.1"
        title="Prehistoric Sites with evidence of guelder rose usage"
        show-labels="true">
 <param ve-map-layer geojson 
