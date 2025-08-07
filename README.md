@@ -24,7 +24,7 @@ This essay provides an approachable overview of herbarium specimens and how they
 ## Salvation and Suffering: Potato
 [Salvation and Suffering: Potato](potato)
 
-- Nola Rettenmaier, Alexander Betz, and Jessica Gomez
+- Nola Rettenmaier, Alexander Betz, and Jessica Gómez
   
 !![](https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/potato.jpg)
 
@@ -294,7 +294,7 @@ This essay provides an approachable overview of herbarium specimens and how they
 ## Salvation and Suffering: Potato
 [Salvation and Suffering: Potato](potato)
 
-- Nola Rettenmaier, Alexander Betz, and Jessica Gomez
+- Nola Rettenmaier, Alexander Betz, and Jessica Gómez
   
 !![](https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/potato.jpg)
 
