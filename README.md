@@ -6,18 +6,6 @@
 
 `:font-size=1em`
 
-# Featured Resources 
-`.cards`
-
-## How to Read an Herbarium Specimen
-[How to Read an Herbarium Specimen](educational/five-specimens)
-
-- Maura Flannery
-
-![](https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/specimen.jpg)
-
-This essay provides an approachable overview of herbarium specimens and how they are used.
-
 # Featured Plant Narratives 
 `.cards`
 
@@ -76,6 +64,19 @@ This essay provides an approachable overview of herbarium specimens and how they
 - Allison Caban and Malek Charchour
 
 !![](https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/okra.jpg)
+
+
+# Featured Resources 
+`.cards`
+
+## How to Read an Herbarium Specimen
+[How to Read an Herbarium Specimen](educational/five-specimens)
+
+- Maura Flannery
+
+![](https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/specimen.jpg)
+
+This essay provides an approachable overview of herbarium specimens and how they are used.
 
 
 # All Plant Narratives 
