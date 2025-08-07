@@ -21,6 +21,13 @@ This essay provides an approachable overview of herbarium specimens and how they
 # Featured Plant Narratives 
 `.cards`
 
+## Beyond the Silken Shadow: The Mulberry Tree's Metamorphosis and Homecoming
+[Beyond the Silken Shadow: The Mulberry Tree's Metamorphosis and Homecoming](mulberry)
+
+- Kate Aubrecht and Viveca Mellegård
+  
+!![](https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/mulberry.jpg)
+
 ## Salvation and Suffering: Potato
 [Salvation and Suffering: Potato](potato)
 
@@ -55,20 +62,6 @@ This essay provides an approachable overview of herbarium specimens and how they
 - Hannah Hardenbergh
 
 !![](https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/tamarack.jpg)
-
-## The Sensitive Plant: Meaning and Movement
-[The Sensitive Plant: Meaning and Movement](mimosa_pudica)
-
-- Elaina Foley, Sabrina Freidus, and Jordan Norviel
-
-!![](https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/mimosapudica.jpg)
-
-## The Broad-Leaf Bark: Friend or Foe?
-[The Broad-Leaf Bark: Friend or Foe?](Paperbark)
-
-- Bethany Kidd and Sierra Roark
-
-!![](https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/paperbark.jpg)
 
 ## Okra: An Enduring Kitchen Staple
 [Okra: An Enduring Kitchen Staple](okra)
@@ -241,6 +234,13 @@ This essay provides an approachable overview of herbarium specimens and how they
 - Victoria Pickering
 
 ![](https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/mint.jpg) 
+
+## Beyond the Silken Shadow: The Mulberry Tree's Metamorphosis and Homecoming
+[Beyond the Silken Shadow: The Mulberry Tree's Metamorphosis and Homecoming](mulberry)
+
+- Kate Aubrecht and Viveca Mellegård
+  
+!![](https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/mulberry.jpg)
 
 ## Okra: An Enduring Kitchen Staple
 [Okra: An Enduring Kitchen Staple](okra)
