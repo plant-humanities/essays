@@ -47,7 +47,8 @@ The guelder rose has long played a prominent role in human culture and can be tr
 As these data show, the guelder rose is native to the [paleoarctic](Q106447) regions and has been used in Europe for millennia. Today, it enjoys a much wider geographical range. As it moves across boundaries of culture, time, and geography, the plant takes on new significations and meanings. While some of them may seem contradictory, each is tied to the plant’s character and morphology. 
 <param ve-map basemap="Esri_WorldPhysical" 
        center="Q46" zoom="1" title="Distribution of the guelder rose: native regions in red, introduced regions in yellow. Source: Royal Botanic Gardens, Kew." 
-       fillColor="red">
+       fillColor="red"
+       fillColor="yellow">
 <param ve-map-layer geojson url="map_distribution.json" fillColor="red">
 
 ### Resisting Classification: Taxonomy and Nomenclature 
