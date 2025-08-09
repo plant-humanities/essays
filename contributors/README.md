@@ -13,7 +13,15 @@
 
 ![](https://raw.githubusercontent.com/plant-humanities/media/main/contributors/Anderson.jpg)
 
-Anderson’s research, which draws upon both historical archival studies as well as plant biology and botany, explores how early modern colonial encounters with the natural world helped shape our modern pharmacopoeia. To the early modern naturalist and explorer, the keys to life’s greatest mysteries were to be found in the petals, leaves, and anthers of strange and exotic plants. Amerindian horticultural, botanical, and art-historical contributions to this complicated and multifaceted story have only recently emerged as a subject of scholarly interest. Anderson uses the history of medicine and botany to help elucidate the unknown pasts that have nonetheless had a major impact on the construction of scientific and medical knowledge up to today. Anderson is a master’s candidate at Columbia University. He holds a bachelor’s in history and French and Francophone Studies from Hamilton College. Anderson has explored transoceanic acclimatization and the indigenous Guanche pharmacopoeia in the Canary Islands; the early modern history of imperial science and medicine in Paris; ethnobotany and plant taxonomy at the New York Botanical Gardens; historical manuscripts concerning colonial plants and their uses at the John Carter Brown Library; and toxicity and plant defense systems at Cornell University. 
+Anderson’s research, which draws upon both historical archival studies as well as plant biology and botany, explores how early modern colonial encounters with the natural world helped shape our modern pharmacopoeia. To the early modern naturalist and explorer, the keys to life’s greatest mysteries were to be found in the petals, leaves, and anthers of strange and exotic plants. Amerindian horticultural, botanical, and art-historical contributions to this complicated and multifaceted story have only recently emerged as a subject of scholarly interest. Anderson uses the history of medicine and botany to help elucidate the unknown pasts that have nonetheless had a major impact on the construction of scientific and medical knowledge up to today. Anderson is a master’s candidate at Columbia University. He holds a bachelor’s in history and French and Francophone Studies from Hamilton College. Anderson has explored transoceanic acclimatization and the indigenous Guanche pharmacopoeia in the Canary Islands; the early modern history of imperial science and medicine in Paris; ethnobotany and plant taxonomy at the New York Botanical Gardens; historical manuscripts concerning colonial plants and their uses at the John Carter Brown Library; and toxicity and plant defense systems at Cornell University.
+
+## Kate Aubrecht
+
+[Kate Aubrecht]()
+
+![](https://raw.githubusercontent.com/plant-humanities/media/main/contributors/Aubrecht.jpg)
+
+Kate Aubrecht is an undergraduate student at Amherst College, majoring in Environmental Studies. Her wide-ranging and interdisciplinary academic interests are reflected in past research topics, which include the history of the mulberry, rancher-panther dynamics, and climate sentiment analysis. Outside of the classroom, she leads an environmental justice club and manages marketing for both the school newspaper and an environmental nonprofit. In the summer of 2024, she joined Dumbarton Oaks as a Plant Humanities Fellow, where she co-wrote a plant narrative following how the white mulberry came to Virginia--eventually overshadowing the native red mulberry.
 
 ## Adriana Ballinger
 
@@ -126,6 +134,14 @@ Katherine is a senior at Harvard College studying History and Anthropology. Her 
 ![](https://raw.githubusercontent.com/plant-humanities/media/main/contributors/Julia_300x300.jpg)
 
 Julia Fine is a graduate student at the University of Cambridge studying Modern South Asian Studies as a George Kingsley Roth and Cambridge Trust Scholar. She received her A.B. from Harvard University in History & Literature. In 2019, Julia was a fellow at the Folger Shakespeare Library, where she worked on the Mellon-funded "Before ‘Farm to Table’: Early Modern Foodways and Cultures" project. In 2020, she joined the Plant Humanities Initiative at Dumbarton Oaks, where she explored the movement of plants through the lens of imperial ambitions, specifically within the context of the Indian Ocean world.
+
+## Willa Frank
+
+[Willa Frank]()
+
+![](https://raw.githubusercontent.com/plant-humanities/media/main/contributors/Frank.jpg)
+
+Willa Frank is a recent graduate from Pomona College where she majored in Environmental Analysis and English. Her Environmental Analysis thesis explores the lives and careers of botanical painter Marianne North, landscape architect Beatrix Farrand, and literary nature writer Mary Hunter Austin to examine the interplay of femininity and the representation of nature in the late nineteenth and early twentieth centuries. Her English thesis relates object-focused passages in Virginia Woolf’s novels Jacob’s Room, To the Lighthouse, and The Waves, to modernist still life painting. Currently, she is working on her MPhil in English Studies at the University of Cambridge where she is continuing to pursue her interests in the intersection of literature, gender, and history of science in the long nineteenth century.
 
 ## Rebecca Friedel
 
