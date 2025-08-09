@@ -15,6 +15,14 @@
 
 Anderson’s research, which draws upon both historical archival studies as well as plant biology and botany, explores how early modern colonial encounters with the natural world helped shape our modern pharmacopoeia. To the early modern naturalist and explorer, the keys to life’s greatest mysteries were to be found in the petals, leaves, and anthers of strange and exotic plants. Amerindian horticultural, botanical, and art-historical contributions to this complicated and multifaceted story have only recently emerged as a subject of scholarly interest. Anderson uses the history of medicine and botany to help elucidate the unknown pasts that have nonetheless had a major impact on the construction of scientific and medical knowledge up to today. Anderson is a master’s candidate at Columbia University. He holds a bachelor’s in history and French and Francophone Studies from Hamilton College. Anderson has explored transoceanic acclimatization and the indigenous Guanche pharmacopoeia in the Canary Islands; the early modern history of imperial science and medicine in Paris; ethnobotany and plant taxonomy at the New York Botanical Gardens; historical manuscripts concerning colonial plants and their uses at the John Carter Brown Library; and toxicity and plant defense systems at Cornell University. 
 
+## Adriana Ballinger
+
+[Adriana Ballinger]()
+
+![](https://raw.githubusercontent.com/plant-humanities/media/main/contributors/Ballinger.JPEG)
+
+Adriana Ballinger is a Postgraduate Research Fellow at the National Museum of Ireland’s Natural History Museum. She seeks to understand what stories are and aren't told about the specimens we see on display and how the meanings that specimens embody for the communities from which they were collected can be better represented. Adriana is exploring these questions by leading a collaboration between Irish communities and the Natural History Museum, which will culminate in an exhibition featuring the communities’ research on their connections to native species. Adriana studied environmental humanities at Yale University and worked as a student curator at the Peabody Museum of Natural History. Her current research is funded by Yale's year-long Howland Postgraduate Fellowship.
+
 ## Yota Batsaki
 
 [Yota Batsaki]()
@@ -47,6 +55,14 @@ Uribe Botta’s current PhD research explores the orchid trade between Colombia 
 
 Ashley Buchanan is the Postdoctoral Fellow for the Plant Humanities Initiative at Dumbarton Oaks. She is a historian of the early modern world, with a particular interest in plants, recipes, and medicinal cultures in seventeenth- and eighteenth-century Europe. She received her PhD in early modern history from the University of South Florida in December 2018. Her research spans many topics, which includes the history of science and medicine, women, and politics as well as the dynamics of gender and authority. Her current book project investigates the social, cultural, and political significance of pharmaceutical experimentation as well as the medicinal and botanical patronage at the late Medici Court (1650-1743). Her goal is to broaden the global dimension of recipes by studying the numerous exotic plants imported into Tuscany from the New World, East Africa, and Southeast Asia in the late 18th century. Ashley was a junior fellow in residence with the Medici Archive Project at the Archivio di Stato di Firenze and an Andrew W. Mellon Foundation Fellow at The Huntington.
 
+## Tori Champion
+
+[Tori Champion]()
+
+![](https://raw.githubusercontent.com/plant-humanities/media/main/contributors/Champion.jpg)
+
+Tori Champion is currently the Andrew W. Mellon Curatorial Fellow (2025-2028) in the Prints, Drawings, and Photographs department at the RISD Museum and is completing her dissertation in Art History at the University of St Andrews. During the 2024-2025 academic year she held a predoctoral research fellowship in the Prints and Drawings department at The Morgan Library & Museum in New York. A scholar of seventeenth- and eighteenth-century French art and design, Tori's work focuses on women as artists and subjects; gendered iconography; collaboration and shared authorship; and artistic engagements with natural history.
+
 ## Elizabeth Chant
 
 [Elizabeth Chant]()
@@ -78,6 +94,14 @@ Kira Clingen is a Lecturer in Landscape Architecture at the Harvard Graduate Sch
 ![](https://raw.githubusercontent.com/plant-humanities/media/main/contributors/Dam.jpg)
 
 Ashley Thuthao Keng Dam (Ph.D. - they/them) is a medical anthropologist, ethnobotanist, and food writer living in the Netherlands. Thao is a multimodial mixed methods researcher who loves all things food, plants, and medicine. They completed the Plant Humanities Summer School Programme in 2021. Thao received their Ph.D. in Ecogastronomy, Education, and Society in 2022 from Università degli Studi di Scienze Gastronomiche (Pollenzo, Italy). They received their anthropological training from the University of Oxford (M.Sc., 2018, UK) and St. Mary's College of Maryland (B.A. Hons., 2016, USA). Currently, Thao works as a lecturer in Global Health in the Department of Health, Ethics, and Society (HES) at Maastricht University and is an Explorer for the National Geographic Society.
+
+## Theo Detweiler
+
+[Theo Detweiler]()
+
+![](https://raw.githubusercontent.com/plant-humanities/media/main/contributors/Detweiler.png)
+
+Theo Detweiler's research focuses on the relationship between religion and the science of natural history. He holds an MPhil in History and Philosophy of Science from the University of Cambridge and a BA from Williams College.
 
 ## Christina Emery
 
@@ -174,7 +198,8 @@ Jiang’s research explores the reinterpretation and reintroduction of the Chine
 
 ![](https://raw.githubusercontent.com/plant-humanities/media/main/contributors/Jostol.jpg)
 
-Edyth Jostol is a designer based in Seattle.  She received her Masters in Landscape Architecture from Harvard's Graduate School of Design, where her work focused on urban biodiversity, collective action and climate adaptation. She has previously worked at design firms in New York, Cambridge and DC, contributing to landscape projects of various scales. 
+Edyth Jostol is a designer based in Seattle.  She received her Masters in Landscape Architecture from Harvard's Graduate School of Design, where her work focused on urban biodiversity, collective action and climate adaptation. She has previously worked at design firms in New York, Cambridge and DC, contributing to landscape projects of various scales.
+
 ## Cati Kalinoski
 
 [Cati Kalinoski]()
@@ -206,6 +231,14 @@ W. John Kress is Distinguished Scientist and Curator Emeritus at the Smithsonian
 ![](https://raw.githubusercontent.com/plant-humanities/media/main/contributors/Lawrence.jpg)
 
 Lawrence’s research explores the sociopolitical lives of flowers in Victorian Britain, considering the different plant-human relations at play in the commodification of cut-flowers, botanical instruction for women and girls, domestic working-class floriculture, and settler colonial horticulture. Grounded theoretically in critical plant studies, Lawrence is interested in the material intimacies at play in these different spheres of plant-human interaction and how they were thought about at the time, seeking to illuminate a world of alternative and exaggerated sensibilities between people and plants to help us question our own approaches to plant nature today. Lawrence is a PhD student in the Department of Geography at the University of Cambridge where she also undertook her undergraduate and master’s degrees. She is a cultural and historical geographer interested in plant-human relationships. In addition to Victorian floriculture, she has worked on weeds and urban nature, as well as Caribbean music and culture in the United Kingdom. Anna currently co-convenes the graduate student-led research group Vegetal Epistemologies in Cambridge.
+
+## Viveca Mellegård
+
+[Viveca Mellegård]()
+
+![](https://raw.githubusercontent.com/plant-humanities/media/main/contributors/Mellegard.jpg)
+
+Viveca is a researcher and filmmaker and started her career making science and arts programmes at the BBC. She integrates film and photography as research methods with a particular interest in making the embodied aspects of craftsmanship visible. She’s doing a collaborative PhD with Royal Holloway, University of London and the Economic Botany Collection at Royal Botanic Gardens, Kew. Her research links Kew’s colonial era collections of *Indigofera tinctoria* from India to contemporary indigo production and dyeing in West Bengal, India. Her work aims to communicate the value of the knowledge and skills embedded in the craft of dyeing with natural indigo and to show how embodied practices can cultivate human-plant relationships.
 
 ## Lucas Mertehikian
 
