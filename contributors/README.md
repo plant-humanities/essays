@@ -192,6 +192,14 @@ Diana Heredia-López is Ph.D. Candidate in the Department of History at the Univ
 What was it that made the gardens constructed throughout the Mughal Empire (1526–1857) such as Burhanpur’s Lal Bagh so appealing to these otherwise disgruntled travelers? What can we glean about their plant composition, function, and reception from textual, visual, and material sources? These and other related questions drive Hirsch’s current research on the art and architectural history of early modern South Asia. Her goal is to characterize perceptions of land and their relationship to the changing forms and functions of gardens in the sixteenth and seventeenth centuries. Ultimately, by underscoring the historical connections between humans, plants, and cultural production, she hopes to generate new understandings of territory in the early modern period.
 Rachel Hirsch is a PhD candidate in history of art and architecture at Harvard University and a cultural historian of early modern South Asia. Her research interests include urban construction, perceptions of land and territory, garden history, and the potential for new art historical methods and sources. Her latest project took as its focus the Mughal city of Burhanpur and explored in depth its transformation through symbolic appropriation, ornamentation, and expansion along an underground water distribution system in the seventeenth century. She has also written extensively about Timurid and Mughal gardens and the role of travel writing in understandings of place.
 
+## Anna Hogarth
+
+[Anna Hogarth]()
+
+![](https://raw.githubusercontent.com/plant-humanities/media/main/contributors/Hogarth.JPG)
+
+Anna Hogarth holds a B.A. in Environmental Studies from Amherst College, where her scholarship engaged questions of environmental history and food security. She focused on narratives on corn and taro in North America, highlighting the vital, often overlooked histories of human reliance on plants and the cultural knowledge rooted in those relationships. In 2023, Anna participated in the Plant Humanities Summer Program at Dumbarton Oaks before serving as a Sustainability Coordinator at Amherst College.
+
 ## Christina Hourigan
 
 [Christina Hourigan]()
@@ -287,6 +295,14 @@ Haley Price is a History Ph.D. student at Brown University and the Digital Human
 ![](https://raw.githubusercontent.com/plant-humanities/media/main/contributors/Reid.jpg)
 
 Daisy Reid is a graduate student in comparative literature at the University of Southern California, with a research focus on contemporary speculative and ecological fictions in conversation with critical race, queer, and feminist theory. She holds a BA in French and Italian from University College London and an MA in comparative literature from the University of Amsterdam. Her current work explores literary and artistic representations of plant-being as they come to bear upon (bio)political structures surrounding gender, sexuality, erotics, and desire.
+
+## Nola Rettenmaier
+
+[Nola Rettenmaier]()
+
+![](https://raw.githubusercontent.com/plant-humanities/media/main/contributors/Rettenmaier.jpeg)
+
+Nola Rettenmaier is currently pursuing a PhD in Biology at the University of Pittsburgh. She holds a B.A. in Biological Sciences from Cornell University, where she also minored in Near Eastern Studies and was a member of the Humanities Scholars Program. She worked at Cornell Botanic Gardens, where she cultivated an interest in the relationship between human culture and the botanical world. In Summer 2024 she had the opportunity to participate in the Plant Humanities Summer Program at Dumbarton Oaks. She is keen about cross-pollination between art, science and humanities, and connecting people with the natural world.
 
 ## Sierra Roark
 
