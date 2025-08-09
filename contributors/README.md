@@ -29,7 +29,7 @@ Kate Aubrecht is an undergraduate student at Amherst College, majoring in Enviro
 
 ![](https://raw.githubusercontent.com/plant-humanities/media/main/contributors/Ballinger.JPEG)
 
-Adriana Ballinger is a Postgraduate Research Fellow at the National Museum of Ireland’s Natural History Museum. She seeks to understand what stories are and aren't told about the specimens we see on display and how the meanings that specimens embody for the communities from which they were collected can be better represented. Adriana is exploring these questions by leading a collaboration between Irish communities and the Natural History Museum, which will culminate in an exhibition featuring the communities’ research on their connections to native species. Adriana studied environmental humanities at Yale University and worked as a student curator at the Peabody Museum of Natural History. Her current research is funded by Yale's year-long Howland Postgraduate Fellowship.
+Adriana Ballinger is a Postgraduate Research Fellow at the National Museum of Ireland's Natural History Museum. She seeks to understand what stories are and aren't told about the specimens we see on display and how the meanings that specimens embody for the communities from which they were collected can be better represented. Adriana is exploring these questions by leading a collaboration between Irish communities and the Natural History Museum, which will culminate in an exhibition featuring the communities' research on their connections to native species. Adriana studied environmental humanities at Yale University and worked as a student curator at the Peabody Museum of Natural History. Her current research is funded by Yale's year-long Howland Postgraduate Fellowship.
 
 ## Yota Batsaki
 
