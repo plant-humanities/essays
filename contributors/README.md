@@ -23,6 +23,14 @@ Anderson’s research, which draws upon both historical archival studies as well
 
 Yota Batsaki is the executive director of Dumbarton Oaks, a Harvard research institute, museum, and historic garden located in Washington, D.C. She is principal investigator of the Plant Humanities Initiative, undertaken in collaboration with JSTOR Labs and funded by the Andrew W. Mellon Foundation. The four-year initiative seeks to advance the emerging field of plant humanities in dialogue with the environmental humanities and with a focus on plant-human interactions. It encompasses the Plant Humanities Lab, an innovative digital space that supports the study of plants from the perspectives of the arts, sciences, and humanities. Related programming at Dumbarton Oaks includes fellowships, scholarly events, and a summer program that brings together students from various disciplines to explore the cultural histories of plants, learn digital skills, and contribute to the Plant Humanities Lab. Batsaki holds a PhD in comparative literature from Harvard University and coedited _The Botany of Empire in the Long Eighteenth Century_ (Dumbarton Oaks, 2016) with co-investigator Anatole Tchikine and Sarah Burke-Cahalan. She also co-curated with Tchikine the exhibition _Margaret Mee: Portraits of Plants_ in the Dumbarton Oaks museum.
 
+## Alexander Betz
+
+[Alexander Betz]()
+
+![](https://raw.githubusercontent.com/plant-humanities/media/main/contributors/Betz.png)
+
+Alexander Betz received his M.A. in Art History in Arts of the Americas from the University of Arkansas as a member of the program’s inaugural cohort in 2025. He is interested in the emergence of scientific fields of study at the turn of the nineteenth century and how they impacted—and were in turn informed by—the contemporary artwork and technologies of the period through to the present day. He holds a B.A. with honors in Art History and a B.S. in Biochemistry from the University of Washington (2022). His master's thesis reinterpreted photographic theory in the context of nuclear radiation by positioning photography as an operative force embedded in the mechanics of nuclear detonations. He presented a talk based on this research at the "Unfiguring: Experiments in the Practice of Science and Art" graduate conference at Harvard University in Cambridge, MA. In addition to writing a narrative of the potato as a member of the Plant Humanities Summer Program at the Dumbarton Oaks, his interdisciplinary research projects include the creation of pottery containing iron-oxidizing bacteria gleaned from tributaries of the Mississippi River and investigating the relationship of biochemistry’s nascent years with American landscape paintings during the 19th century.
+
 ## Camilo Uribe Botta
 
 [Camilo Uribe Botta]()
