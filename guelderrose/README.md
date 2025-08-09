@@ -183,7 +183,7 @@ hash-bookmark="false"
 initial-zoom="1"
 height="750">
 
-### Music, Symbol of Patriatism, and Military Identity
+### Music, Symbol of Patriotism, and Military Identity
 The song "Chervona Kalyna" offers a counterexample to what we think of as nationalist music. As the music historian Phillip Vilas Bohlman explains, there are two types of nationalist music. Music "from above"—for example, national anthems, military marches, and other songs created or popularized by state institutions—and "from below," meaning folk songs and dances, minority song cultures, and poems.[^46] "Chervona Kalyna" is in the middle of this spectrum. What began as a folk song and was made popular by rank-and-file soldiers and social media users has become the unofficial national anthem of  Ukraine. Guelder rose, historically a symbol of the people, has now become the symbol of the state as well. As a result, Russia has banned the song  again: playing it in Russian territory has resulted in fines and arrests.[^47]
 <param ve-iframe                                    src="https://upload.wikimedia.org/wikipedia/commons/a/af/%D0%94%D0%B5%D1%80%D0%B6%D0%B0%D0%B2%D0%BD%D0%B8%D0%B9_%D0%B3%D1%96%D0%BC%D0%BD_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8.pdf" 
        title="Sheet music of Ukraine's Official National Anthem, 'Ukraine Glory and Freedom.' Chervona Kalyna has been deemed an unofficial national anthem." 
