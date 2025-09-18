@@ -106,8 +106,8 @@ The optimal growing conditions for Arabica coffee include temperatures between 5
 
 Researchers predict that climate change will drastically reduce coffee-suitable lands in the coming decades. One study projects that by 2050, the world’s most suitable areas for growing Arabica coffee could shrink by 54 to 60 percent.[^32] Another study estimates that Latin America could lose as much as 88 percent of its coffee-growing land by the same year.[^33]
 <param ve-image
-	   src="gh:ninafoster/coffee-narrative/main/coffee/coffea-arabica-suitability-2050.PNG"
-	   caption="Change in climate-suitable lands by 2050 under an intermediate emissions scenario. From Roman Grüter et al., [Expected global suitability of coffee, cashew and avocado due to climate change](https://doi.org/10.1371/journal.pone.0261976), *PLOS ONE* 17, no. 1 (2022).">
+	   src="gh:plant-humanities/media/main/coffee/coffea-arabica-suitability-2050.PNG"
+	   caption="Change in climate-suitable lands by 2050 under intermediate emissions. Roman Grüter et al., [Expected global suitability of coffee, cashew and avocado due to climate change](https://doi.org/10.1371/journal.pone.0261976), *PLOS ONE* 17, no. 1 (2022).">
 
 Arabica is further threatened by another climate-related shift: more frequent and severe outbreaks of insect pests and plant diseases. The effects of climate change on insect pests are not uniform, but in general, rising temperatures are advantageous for insects.[^34] With global warming, these pests can proliferate at higher latitudes and elevations that were once too cold for survival.
 <param ve-image
