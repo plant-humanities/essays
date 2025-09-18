@@ -141,7 +141,7 @@ These challenges send ripples throughout the supply chain. In January 2025, coff
 
 Climate change impacts both the coffee plant and the billions of people with a relationship to the crop, exacerbating the challenges that industry stakeholders already face. Extreme weather events, inflation, interest rates, unstable energy prices, and global conflicts drive market volatility.[^43] Some farmers toil under intense heat for eight to ten hours a day for very low wages.[^44] Smallholder farmers, who are responsible for at least 60 percent of the global coffee production, often have little negotiating power in coffee supply chains and are forced to get by on meager payments for their crops.[^45]. In an ethnographic study of the Vietnamese coffee industry, Sarah G. Grant describes "a complicated web of risks and uncertainty" in which the decisions of state and global actors often fail to meet the needs of farmers.[^46]
 <param ve-image
-	   src="gh:ninafoster/coffee-narrative/main/coffee/coffee-stakeholders.png"
+	   src="gh:plant-humanities/media/main/coffee/coffee-stakeholders.png"
 	   caption="Some of the stakeholders in the coffee industry. Graphic by Nina Foster.">
 
 Climate change will make coffee prices more unpredictable, labor conditions more hazardous under extreme heat, and economic losses more devastating. "For us, producing coffee is our life," said Honduran producer Moises Herrera in an interview with journalist Peter S. Goodman. "A lot of producers are starting to lose hope."[^47]
