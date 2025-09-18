@@ -9,6 +9,13 @@
 # Featured Plant Narratives 
 `.cards`
 
+## Arabica Coffee: Cultivating Connection and Climate Resilience
+[Arabica Coffee: Cultivating Connection and Climate Resilience](coffee)
+
+- Nina Foster
+
+!![](https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/coffee.jpg)
+
 ## Beyond the Silken Shadow: The Mulberry Tree's Metamorphosis and Homecoming
 [Beyond the Silken Shadow: The Mulberry Tree's Metamorphosis and Homecoming](mulberry)
 
@@ -58,12 +65,6 @@
 
 !![](https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/tamarack.jpg)
 
-## Okra: An Enduring Kitchen Staple
-[Okra: An Enduring Kitchen Staple](okra)
-
-- Allison Caban and Malek Charchour
-
-!![](https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/okra.jpg)
 
 
 # Featured Resources 
@@ -165,6 +166,13 @@ This essay provides an approachable overview of herbarium specimens and how they
 - Wouter Klein
 
 ![](https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/cinnamon.jpg)
+
+## Arabica Coffee: Cultivating Connection and Climate Resilience
+[Arabica Coffee: Cultivating Connection and Climate Resilience](coffee)
+
+- Nina Foster
+
+!![](https://raw.githubusercontent.com/plant-humanities/media/main/thumbnails/coffee.jpg)
 
 ## Cryptomeria japonica: Climate Change, Cultivation, and Culture
 [Cryptomeria japonica: Climate Change, Cultivation, and Culture](Cryptomeria)
