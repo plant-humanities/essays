@@ -10,12 +10,13 @@
 	  
 Coffee is one of the world’s most important agricultural commodities, supporting the livelihoods of an estimated 125 million people.[^1] With more than 120 species in the genus *Coffea*, one in particular has dominated global production, trade, and consumption, and is prized for its impeccable cup quality: Arabica coffee (*Coffea arabica*). The plant historically accounted for at least two-thirds of the world’s coffee production, though the second-most cultivated coffee species, robusta (*Coffea canephora*), is on the rise.[^2]
 <param ve-image
-	   src="wc:Coffee_plant_(Coffea_arabica);_flowering_and_fruiting_stem_w_Wellcome_V0044270.jpg"
-	   caption="*Coffea arabica* branch. Hand-colored engraving by J. Miller, c. 1774, after S. Taylor. From John Ellis' *An Historical Account of Coffee*. Wellcome Collection via Wikimedia Commons.">
+	src="wc:Coffee_plant_(Coffea_arabica);_flowering_and_fruiting_stem_w_Wellcome_V0044270.jpg"
+	caption="*Coffea arabica* branch. Hand-colored engraving by J. Miller, c. 1774, after S. Taylor. From John Ellis' *An Historical Account of Coffee*. Wellcome Collection via Wikimedia Commons."
+	fit="contain">
 
 Endemic to the highlands of Ethiopia, southeastern Sudan, and northern Kenya, Arabica coffee thrives in humid, montane forests in tropical areas.[^3] Glossy, evergreen leaves adorn the tree’s branches, and clusters of small white flowers give way to oval, fleshy fruits, each containing the two pale seeds we call coffee beans. Through networks of trade and conquest, the plant has traveled across the tropics, where conditions are ideal for coffee cultivation. Today, Brazil, Colombia, and Ethiopia rank among the leading producers of the crop.[^4]
 <param ve-image
-	   src="gh:ninafoster/coffee-narrative/main/coffee/coffee-belt.png"
+	   src="gh:plant-humanities/media/main/coffee/coffee-belt.png"
 	   caption="Map of the tropics, where conditions are ideal for coffee cultivation. Nina Foster, ArcGIS.">
 
 Arabica became an agent of connection and community building where it was grown and, further down the supply chain, where it was consumed. Coffeehouses have served as centers of intellectual and cultural exchange for centuries. Countless relationships have been sparked by the question, "Do you want to meet for coffee?" Between planting, harvesting, processing, milling, roasting, and every other step of production and distribution, coffee is touched by at least nine sets of hands before it reaches the consumer.[^5]
