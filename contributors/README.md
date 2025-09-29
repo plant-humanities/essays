@@ -135,6 +135,14 @@ Katherine is a senior at Harvard College studying History and Anthropology. Her 
 
 Julia Fine is a graduate student at the University of Cambridge studying Modern South Asian Studies as a George Kingsley Roth and Cambridge Trust Scholar. She received her A.B. from Harvard University in History & Literature. In 2019, Julia was a fellow at the Folger Shakespeare Library, where she worked on the Mellon-funded "Before ‘Farm to Table’: Early Modern Foodways and Cultures" project. In 2020, she joined the Plant Humanities Initiative at Dumbarton Oaks, where she explored the movement of plants through the lens of imperial ambitions, specifically within the context of the Indian Ocean world.
 
+## Nina Foster
+
+[Nina Foster]()
+
+![](https://raw.githubusercontent.com/levesque-jalberte01/media/main/contributors/Foster_300x300.jpg)
+
+Nina Foster was the 2024–25 Post-Baccalaureate Fellow in Plant Humanities at Dumbarton Oaks. She is a science writer and educator from New York with interests in forest ecology, ornithology, and sustainable agriculture. Her environmental writing has been published by organizations and outlets including the National Park Service, World Wildlife Fund, and JSTOR Daily. Nina graduated from Harvard University in 2023 with a bachelor’s degree in English and a minor in integrative biology.
+
 ## Willa Frank
 
 [Willa Frank]()
