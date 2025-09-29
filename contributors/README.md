@@ -139,7 +139,7 @@ Julia Fine is a graduate student at the University of Cambridge studying Modern 
 
 [Nina Foster]()
 
-![](https://raw.githubusercontent.com/levesque-jalberte01/media/main/contributors/Foster_300x300.jpg)
+![](https://raw.githubusercontent.com/plant-humanities/media/main/contributors/Foster_300x300.jpg)
 
 Nina Foster was the 2024–25 Post-Baccalaureate Fellow in Plant Humanities at Dumbarton Oaks. She is a science writer and educator from New York with interests in forest ecology, ornithology, and sustainable agriculture. Her environmental writing has been published by organizations and outlets including the National Park Service, World Wildlife Fund, and JSTOR Daily. Nina graduated from Harvard University in 2023 with a bachelor’s degree in English and a minor in integrative biology.
 
